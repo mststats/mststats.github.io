@@ -12,7 +12,7 @@ summary = "Anything that doesn't have another home"
 image_preview = "turnover.png"
 
 # Tags: can be used for filtering projects.
-tags = ["machine-learning", "sentiment analysis", "text analysis", "topic modelling", "Bayesian", "Computational Statistics"]
+tags = ["machine-learning", "sentiment", "other"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

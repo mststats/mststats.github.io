@@ -28,29 +28,29 @@ filter_default = 0
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = "All"
-  tag = "*"
-
-[[filter]]
-  name = "Statistical Genetics"
-  tag = ".statgen"
-
-[[filter]]
-  name = "Network Analysis"
-  tag = ".sna"
-
-[[filter]]
-  name = "Palaeoclimate Reconstruction"
-  tag = ".bpr"
-
-[[filter]]
-  name = "Text Analysis"
-  tag = ".text"
-
-[[filter]]
-  name = "Miscellaneous"
-  tag = ".other"
+#[[filter]]
+#  name = "All"
+#  tag = "*"
+#
+#[[filter]]
+#  name = "Genetics"
+#  tag = ".genetics"
+#
+#[[filter]]
+#  name = "Network Analysis"
+#  tag = ".networks"
+#
+#[[filter]]
+#  name = "Palaeoclimate Reconstruction"
+#  tag = ".palaeo"
+#
+#[[filter]]
+#  name = "Text Analysis"
+#  tag = ".text"
+#
+#[[filter]]
+#  name = "Machine Learning"
+#  tag = ".machine-learning"
 
 +++
 

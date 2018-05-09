@@ -12,7 +12,7 @@ summary = "Inferring past climates based on proxies such as pollen."
 image_preview = "response.png"
 
 # Tags: can be used for filtering projects.
-tags = ["Bayesian", "Computational Statistics"]
+tags = ["palaeo", "bayesian", "computational"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

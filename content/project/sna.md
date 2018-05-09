@@ -12,7 +12,7 @@ summary = "Analysis of data comprising links between nodes."
 image_preview = "facebook.png"
 
 # Tags: can be used for filtering projects.
-tags = ["Social Network Analysis", "Computational Statistics", "Bayesian", "machine-learning"]
+tags = ["networks", "computational", "bayesian", "machine-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

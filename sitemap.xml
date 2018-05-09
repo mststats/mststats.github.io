@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>/project/popgen/</loc>
+      <loc>/project/statgen/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
@@ -343,8 +343,18 @@
     
     <url>
     
-      <loc>/tags/computational-statistics/</loc>
+      <loc>/tags/computational/</loc>
       <lastmod>2014-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/genetics/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -373,8 +383,8 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/networks/</loc>
+      <lastmod>2014-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -383,8 +393,28 @@
     
     <url>
     
-      <loc>/tags/population-genetics/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <loc>/tags/other/</loc>
+      <lastmod>2010-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/palaeo/</loc>
+      <lastmod>2013-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/plot/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -443,28 +473,8 @@
     
     <url>
     
-      <loc>/tags/sentiment-analysis/</loc>
+      <loc>/tags/sentiment/</loc>
       <lastmod>2012-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/social-network-analysis/</loc>
-      <lastmod>2014-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/statistical-genetics/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -483,7 +493,7 @@
     
     <url>
     
-      <loc>/tags/text-analysis/</loc>
+      <loc>/tags/text/</loc>
       <lastmod>2012-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -493,7 +503,7 @@
     
     <url>
     
-      <loc>/tags/topic-modelling/</loc>
+      <loc>/tags/topics/</loc>
       <lastmod>2012-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>

@@ -31,11 +31,20 @@
     </item>
     
     <item>
-      <title>Computational Statistics</title>
-      <link>/tags/computational-statistics/</link>
+      <title>Computational</title>
+      <link>/tags/computational/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>/tags/computational-statistics/</guid>
+      <guid>/tags/computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics</title>
+      <link>/tags/genetics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/genetics/</guid>
       <description></description>
     </item>
     
@@ -49,20 +58,38 @@
     </item>
     
     <item>
+      <title>Networks</title>
+      <link>/tags/networks/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>/tags/other/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palaeo</title>
+      <link>/tags/palaeo/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/palaeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plot</title>
       <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Population Genetics</title>
-      <link>/tags/population-genetics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/population-genetics/</guid>
       <description></description>
     </item>
     
@@ -85,47 +112,29 @@
     </item>
     
     <item>
-      <title>Sentiment analysis</title>
-      <link>/tags/sentiment-analysis/</link>
+      <title>Sentiment</title>
+      <link>/tags/sentiment/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
-      <guid>/tags/sentiment-analysis/</guid>
+      <guid>/tags/sentiment/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Social Network Analysis</title>
-      <link>/tags/social-network-analysis/</link>
-      <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/social-network-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Genetics</title>
-      <link>/tags/statistical-genetics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/statistical-genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Text analysis</title>
-      <link>/tags/text-analysis/</link>
+      <title>Text</title>
+      <link>/tags/text/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
-      <guid>/tags/text-analysis/</guid>
+      <guid>/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Topic modelling</title>
-      <link>/tags/topic-modelling/</link>
+      <title>Topics</title>
+      <link>/tags/topics/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
-      <guid>/tags/topic-modelling/</guid>
+      <guid>/tags/topics/</guid>
       <description></description>
     </item>
     

@@ -12,7 +12,7 @@ summary = "Analysis of text, modelling both topic and sentiment."
 image_preview = "mixbias-model.png"
 
 # Tags: can be used for filtering projects.
-tags = ["machine-learning", "sentiment analysis", "text analysis", "topic modelling", "Bayesian"]
+tags = ["machine-learning", "sentiment", "text", "topics", "bayesian"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
