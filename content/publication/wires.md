@@ -2,7 +2,7 @@
 title = "Statistical challenges in estimating past climate changes"
 date = 2018-04-29T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list`.
 authors = ["James Sweeney", "Michael Salter-Townshend", "Tamsin Edwards", "Caitlin E. Buck", "Andrew C. Parnell"]
 
 # Publication type.

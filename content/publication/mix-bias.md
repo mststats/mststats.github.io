@@ -2,7 +2,7 @@
 title = "Mixtures of biased sentiment analysers"
 date = 2014-03-01T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list
 authors = ["Michael Salter-Townshend", "Thomas Brendan Murphy"]
 
 # Publication type.

@@ -2,7 +2,7 @@
 title = "Variational Bayesian inference for the latent position cluster model"
 date = 2009-12-11T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list
 authors = ["Michael Salter-Townshend", "Thomas Brendan Murphy"]
 
 # Publication type.
@@ -33,7 +33,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["other"]
+projects = ["sna"]
 
 # Links (optional).
 #url_pdf = "#"

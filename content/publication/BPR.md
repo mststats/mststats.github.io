@@ -2,8 +2,8 @@
 title = "Bayesian palaeoclimate reconstruction"
 date = 2006-07-01T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
-authors = ["John Haslett", "Matt Whiley", "Sudipto Bhattacharya", "M Salter‐Townshend", "Simon P Wilson", "JRM Allen", "B Huntley", "FJG Mitchell"]
+# Authors. Comma separated list
+authors = ["John Haslett", "Matt Whiley", "Sourabh Bhattacharya", "Michael Salter‐Townshend", "Simon P Wilson", "JRM Allen", "Brian Huntley", "FJG Mitchell"]
 
 # Publication type.
 # Legend:
@@ -33,7 +33,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["other"]
+projects = ["bpr"]
 
 # Links (optional).
 #url_pdf = "#"

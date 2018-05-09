@@ -2,7 +2,7 @@
 title = "Exploring the Relationship between Membership Turnover and Productivity in Online Communities"
 date = 2014-01-30T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list
 authors = ["Xiangju Qin", "Michael Salter-Townshend", "Padraig Cunningham"]
 
 # Publication type.

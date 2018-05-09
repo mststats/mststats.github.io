@@ -2,7 +2,7 @@
 title = "Making a Case for an Irish500 List"
 date = 2015-03-01T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list
 authors = ["Brett A Becker", "John Regan", "Michael Salter-Townshend", "Kevin Casey"]
 
 # Publication type.

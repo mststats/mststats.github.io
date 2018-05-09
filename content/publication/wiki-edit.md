@@ -2,7 +2,7 @@
 title = "The influence of network structures of Wikipedia discussion pages on the efficiency of WikiProjects"
 date = 2015-10-01T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list
 authors = ["X. Qin", "P. Cunningham", "M. Salter-Townshend"]
 
 # Publication type.

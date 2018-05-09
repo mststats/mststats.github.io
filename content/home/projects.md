@@ -49,8 +49,8 @@ filter_default = 0
   tag = ".text"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Miscellaneous"
+  tag = ".other"
 
 +++
 

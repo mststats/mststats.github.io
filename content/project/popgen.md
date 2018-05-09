@@ -9,7 +9,7 @@ title = "Statistical Genetics"
 summary = "Statistical Analysis of genetics data, mostly focussing on Population Genetics."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "Mosaicgraph.png"
 
 # Tags: can be used for filtering projects.
 tags = ["Population Genetics", "Statistical Genetics"]
@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "mosaic_map.png"
 caption = "My caption :smile:"
 
 +++

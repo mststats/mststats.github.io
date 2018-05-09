@@ -2,7 +2,7 @@
 title = "Bayesian inference for palaeoclimate with time uncertainty and stochastic volatility"
 date = 2015-01-01T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list
 authors = ["Andrew C Parnell", "James Sweeney", "Thinh K Doan", "Michael Salter‐Townshend", "Judy RM Allen", "Brian Huntley", "John Haslett"]
 
 # Publication type.

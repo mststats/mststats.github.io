@@ -2,7 +2,7 @@
 title = "Modelling zero inflation of compositional data"
 date = 2006-08-01T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list
 authors = ["Michael Salter-Townshend", "John Haslett"]
 
 # Publication type.
@@ -33,7 +33,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["other"]
+projects = ["bpr"]
 
 # Links (optional).
 #url_pdf = "#"

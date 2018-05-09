@@ -2,7 +2,7 @@
 title = "Role analysis in networks using mixtures of exponential random graph models"
 date = 2015-04-03T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list
 authors = ["Michael Salter-Townshend", "Thomas Brendan Murphy"]
 
 # Publication type.

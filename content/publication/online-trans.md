@@ -2,7 +2,7 @@
 title = "Online Trans-dimensional von Mises-Fisher Mixture Models for User Profiles"
 date = 2016-01-01T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list
 authors = ["Xiangju Qin", "Padraig Cunningham", "Michael Salter-Townshend"]
 
 # Publication type.
@@ -33,7 +33,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["sna"]
+projects = ["other"]
 
 # Links (optional).
 #url_pdf = "#"

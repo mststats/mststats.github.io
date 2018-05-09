@@ -2,7 +2,7 @@
 title = "Variational Bayesian Inference for the Latent Position Cluster Model for network data"
 date = 2012-11-08T00:00:00
 
-# Authors. Comma separated list, e.g. `["Michael Salter-Townshend", "another"]`.
+# Authors. Comma separated list
 authors = ["Michael Salter-Townshend", "Thomas Brendan Murphy"]
 
 # Publication type.
@@ -58,8 +58,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
+#[header]
+#image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
 
 +++
