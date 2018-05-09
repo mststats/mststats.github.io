@@ -3,10 +3,11 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://mststats.github.io/"
+publishDir = "./"
 
 # Title of your site
-title = "Academic"
+title = "Michael Salter-Townshend"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.

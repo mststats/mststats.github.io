@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Michael Salter-Townshend</title>
+    <link>https://mststats.github.io/home/</link>
+    <description>Recent content in Homes on Michael Salter-Townshend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://mststats.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>https://mststats.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mststats.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/about/</guid>
+      <description>Biography I am an Assistant Professor of Statistics in University College Dublin since Jan 2017.
+My primary research interest is in population genetics, with a focus on human genomes. This involves modelling the patterns of shared variation between individuals and can shed light on questions of human demographic history, natural selection, and disease association mapping. My particular focus is on building sophisticated models for admixture; this is when two or more previously diverged sub-populations come together and it leads to interesting structure in the DNA of ancestors of the mixing groups.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://mststats.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://mststats.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://mststats.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://mststats.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mststats.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>https://mststats.github.io/home/activities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/activities/</guid>
+      <description>Current PhD Students:
+ Jinbo Zhao, Ph.D. Research Demonstrator, School of Mathematics and Statistics, UCD (2017-). Chiara Cotroneo, Ph.D. Computational Infection Biology, UCD (2017-).  MSc Student Supervision:
+ M.Sc. in Statistics, University College Dublin (2017, 2018). M.Sc. in Data and Computational Science, University College Dublin (2018). M.Sc. in Actuarial Science, University College Dublin (2017). M.Sc. in Applied Statistics, University of Oxford (2014, 2016).  Professional Activities:
+ Director of Online Programmes, School of Mathematics and Statistics, UCD (2017-).</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://mststats.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/teaching/</guid>
+      <description>I am module coordinator / lecturer for the following courses in UCD:
+ STAT40380 / STAT40390 Bayesian Analysis STAT40850 Bayesian Analysis (Online) STAT30010 Time Series Analysis STAT40700 Time Series Analysis Actuarial App STAT40860 Time Series (Online)  Courses I previously lectured:
+ Statistics Using R for Computational Biologists, University College Dublin (2011, 2012, 2013). Case Studies in Simulation Science, University College Dublin (2013). Statistics and Mathematics in Computational Biology, University College Dublin (2009, 2010).</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://mststats.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mststats.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

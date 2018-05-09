@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian on Michael Salter-Townshend</title>
+    <link>https://mststats.github.io/tags/bayesian/</link>
+    <description>Recent content in Bayesian on Michael Salter-Townshend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://mststats.github.io/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Miscellaneous Projects</title>
+      <link>https://mststats.github.io/project/other/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/project/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Analysis</title>
+      <link>https://mststats.github.io/project/sna/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/project/sna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palaeoclimate Reconstruction</title>
+      <link>https://mststats.github.io/project/bpr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/project/bpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text / Topics / Sentiment</title>
+      <link>https://mststats.github.io/project/text/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/project/text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
