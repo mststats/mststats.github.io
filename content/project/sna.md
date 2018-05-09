@@ -9,7 +9,7 @@ title = "Network Analysis"
 summary = "Analysis of data comprising links between nodes."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "facebook.png"
 
 # Tags: can be used for filtering projects.
 tags = ["Social Network Analysis", "Computational Statistics", "Bayesian", "machine-learning"]
@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "egos.png"
 caption = "My caption :smile:"
 
 +++

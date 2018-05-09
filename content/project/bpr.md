@@ -9,7 +9,7 @@ title = "Palaeoclimate Reconstruction"
 summary = "Inferring past climates based on proxies such as pollen."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "response.png"
 
 # Tags: can be used for filtering projects.
 tags = ["Bayesian", "Computational Statistics"]
@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "MTCO.png"
 caption = "My caption :smile:"
 
 +++

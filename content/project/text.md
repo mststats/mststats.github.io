@@ -9,7 +9,7 @@ title = "Text / Topics / Sentiment"
 summary = "Analysis of text, modelling both topic and sentiment."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "mixbias-model.png"
 
 # Tags: can be used for filtering projects.
 tags = ["machine-learning", "sentiment analysis", "text analysis", "topic modelling", "Bayesian"]
@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "words.png"
 caption = "My caption :smile:"
 
 +++
