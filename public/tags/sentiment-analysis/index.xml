@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sentiment analysis on Academic</title>
+    <link>/tags/sentiment-analysis/</link>
+    <description>Recent content in Sentiment analysis on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Miscellaneous Projects</title>
+      <link>/project/other/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text / Topics / Sentiment</title>
+      <link>/project/text/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

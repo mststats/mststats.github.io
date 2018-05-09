@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Academic</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Miscellaneous Projects</title>
+      <link>/project/other/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Analysis</title>
+      <link>/project/sna/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/sna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palaeoclimate Reconstruction</title>
+      <link>/project/bpr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/bpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Genetics</title>
+      <link>/project/popgen/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/popgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text / Topics / Sentiment</title>
+      <link>/project/text/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
