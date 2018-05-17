@@ -15,13 +15,14 @@ weight = 60
 
 +++
 
-I am module coordinator / lecturer for the following courses in UCD:
+I am currently the module coordinator / lecturer for the following courses in UCD:
 
-- STAT40380 / STAT40390 Bayesian Analysis
-- STAT40850 Bayesian Analysis (Online)
-- STAT30010 Time Series Analysis
-- STAT40700 Time Series Analysis Actuarial App
-- STAT40860 Time Series (Online)
+- <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT40380" target="_blank">STAT40380</a> / 
+<a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT40390" target="_blank">STAT40390</a> Bayesian Analysis
+- <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT40850" target="_blank">STAT40850</a> Bayesian Analysis (Online)
+- <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT30010" target="_blank">STAT30010</a> Time Series Analysis
+- <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT40700" target="_blank">STAT40700</a> Time Series Analysis Actuarial App
+- <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT40860" target="_blank">STAT40860</a> Time Series (Online)
 
 Courses I previously lectured:
 

@@ -36,7 +36,9 @@ weight = 5
 
 # Biography
 I am an Assistant Professor of Statistics in University College Dublin since Jan 2017. 
-http://www.ucd.ie/research/people/mathematicsstatistics/drmichaelsalter-townshend/
+My UCD research page is <a href="http://www.ucd.ie/research/people/mathematicsstatistics/drmichaelsalter-townshend/">here</a>
+and the icons to the left offer links to other online accounts I use. 
+
 
 My primary research interest is in population genetics, with a focus on human genomes. This involves modelling the patterns of shared variation between individuals and can shed light on questions of human demographic history, natural selection, and disease association mapping. My particular focus is on building sophisticated models for admixture; this is when two or more previously diverged sub-populations come together and it leads to interesting structure in the DNA of ancestors of the mixing groups. To this end I'm building extensions to some existing Hidden Markov Models for population genetics. 
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Michael Salter-Townshend</title>
+    <title>Homes on Dr. Michael Salter-Townshend</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Michael Salter-Townshend</description>
+    <description>Recent content in Homes on Dr. Michael Salter-Townshend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -28,8 +28,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am an Assistant Professor of Statistics in University College Dublin since Jan 2017. http://www.ucd.ie/research/people/mathematicsstatistics/drmichaelsalter-townshend/
-My primary research interest is in population genetics, with a focus on human genomes. This involves modelling the patterns of shared variation between individuals and can shed light on questions of human demographic history, natural selection, and disease association mapping. My particular focus is on building sophisticated models for admixture; this is when two or more previously diverged sub-populations come together and it leads to interesting structure in the DNA of ancestors of the mixing groups.</description>
+      <description>Biography I am an Assistant Professor of Statistics in University College Dublin since Jan 2017. My UCD research page is here and the icons to the left offer links to other online accounts I use.
+My primary research interest is in population genetics, with a focus on human genomes. This involves modelling the patterns of shared variation between individuals and can shed light on questions of human demographic history, natural selection, and disease association mapping.</description>
     </item>
     
     <item>
@@ -95,7 +95,7 @@ My primary research interest is in population genetics, with a focus on human ge
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>I am module coordinator / lecturer for the following courses in UCD:
+      <description>I am currently the module coordinator / lecturer for the following courses in UCD:
  STAT40380 / STAT40390 Bayesian Analysis STAT40850 Bayesian Analysis (Online) STAT30010 Time Series Analysis STAT40700 Time Series Analysis Actuarial App STAT40860 Time Series (Online)  Courses I previously lectured:
  Statistics Using R for Computational Biologists, University College Dublin (2011, 2012, 2013). Case Studies in Simulation Science, University College Dublin (2013). Statistics and Mathematics in Computational Biology, University College Dublin (2009, 2010).</description>
     </item>
