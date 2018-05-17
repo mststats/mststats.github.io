@@ -7,7 +7,7 @@ baseurl = "https://mststats.github.io/"
 publishDir = "./"
 
 # Title of your site
-title = "Michael Salter-Townshend"
+title = "Dr. Michael Salter-Townshend"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -55,7 +55,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Michael Salter-Townshend"
+  name = "Dr. Michael Salter-Townshend"
   role = "Assistant Professor of Statistics"
 
   # Organizations/Affiliations.
