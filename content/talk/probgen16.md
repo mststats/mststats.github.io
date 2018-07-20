@@ -1,17 +1,17 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+date = 2016-09-14T00:00:00  # Schedule page publish date.
 
-title = "Example Talk"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+title = "Multiway Admixture Event Modelling without Specifying Groups"
+#time_start = 2030-06-01T13:00:00
+#time_end = 2030-06-01T15:00:00
 abstract = ""
 abstract_short = ""
 event = "Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event_url = "http://www.stats.ox.ac.uk/events/probgen16/"
+location = "Oxford, United Kingdom"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -32,10 +32,10 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/.jpg"
+#caption = "My caption :smile:"
 
 +++
 
-Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
+#Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
