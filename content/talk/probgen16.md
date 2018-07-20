@@ -2,8 +2,8 @@
 date = 2016-09-14T00:00:00  # Schedule page publish date.
 
 title = "Multiway Admixture Event Modelling without Specifying Groups"
-#time_start = 2030-06-01T13:00:00
-#time_end = 2030-06-01T15:00:00
+time_start = 2016-09-14T09:00:00
+time_end = 2016-09-14T09:30:00
 abstract = ""
 abstract_short = ""
 event = "Academic Theme Conference"
