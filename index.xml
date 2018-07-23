@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Michael Salter-Townshend on Dr. Michael Salter-Townshend</title>
-    <link>https://mststats.github.io/</link>
+    <link>/</link>
     <description>Recent content in Dr. Michael Salter-Townshend on Dr. Michael Salter-Townshend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
@@ -12,56 +12,56 @@
     
     <item>
       <title>Statistical challenges in estimating past climate changes</title>
-      <link>https://mststats.github.io/publication/wires/</link>
+      <link>/publication/wires/</link>
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/publication/wires/</guid>
+      <guid>/publication/wires/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent Space Models for Multiview Network Data</title>
-      <link>https://mststats.github.io/publication/multiview/</link>
+      <link>/publication/multiview/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mststats.github.io/publication/multiview/</guid>
+      <guid>/publication/multiview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of statistical network analysis: models, algorithms, and software</title>
-      <link>https://mststats.github.io/publication/sna-review/</link>
+      <link>/publication/sna-review/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mststats.github.io/publication/sna-review/</guid>
+      <guid>/publication/sna-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiway Admixture Event Modelling without Specifying Groups</title>
-      <link>https://mststats.github.io/talk/probgen16/</link>
+      <link>/talk/probgen16/</link>
       <pubDate>Wed, 14 Sep 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/talk/probgen16/</guid>
+      <guid>/talk/probgen16/</guid>
       <description>&lt;p&gt;#Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Statistical Genetics</title>
-      <link>https://mststats.github.io/project/statgen/</link>
+      <link>/project/statgen/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/project/statgen/</guid>
+      <guid>/project/statgen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>https://mststats.github.io/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -246,28 +246,28 @@ git submodule update --init --recursive
     
     <item>
       <title>Online Trans-dimensional von Mises-Fisher Mixture Models for User Profiles</title>
-      <link>https://mststats.github.io/publication/online-trans/</link>
+      <link>/publication/online-trans/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mststats.github.io/publication/online-trans/</guid>
+      <guid>/publication/online-trans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The influence of network structures of Wikipedia discussion pages on the efficiency of WikiProjects</title>
-      <link>https://mststats.github.io/publication/wiki-edit/</link>
+      <link>/publication/wiki-edit/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/publication/wiki-edit/</guid>
+      <guid>/publication/wiki-edit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://mststats.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://mststats.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -301,7 +301,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://mststats.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -312,55 +312,55 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Role analysis in networks using mixtures of exponential random graph models</title>
-      <link>https://mststats.github.io/publication/ego-ergm/</link>
+      <link>/publication/ego-ergm/</link>
       <pubDate>Fri, 03 Apr 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/publication/ego-ergm/</guid>
+      <guid>/publication/ego-ergm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Making a Case for an Irish500 List</title>
-      <link>https://mststats.github.io/publication/irish500/</link>
+      <link>/publication/irish500/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mststats.github.io/publication/irish500/</guid>
+      <guid>/publication/irish500/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian inference for palaeoclimate with time uncertainty and stochastic volatility</title>
-      <link>https://mststats.github.io/publication/bpr-time/</link>
+      <link>/publication/bpr-time/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mststats.github.io/publication/bpr-time/</guid>
+      <guid>/publication/bpr-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Analysis</title>
-      <link>https://mststats.github.io/project/sna/</link>
+      <link>/project/sna/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/project/sna/</guid>
+      <guid>/project/sna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixtures of biased sentiment analysers</title>
-      <link>https://mststats.github.io/publication/mix-bias/</link>
+      <link>/publication/mix-bias/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mststats.github.io/publication/mix-bias/</guid>
+      <guid>/publication/mix-bias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Relationship between Membership Turnover and Productivity in Online Communities</title>
-      <link>https://mststats.github.io/publication/icwsm/</link>
+      <link>/publication/icwsm/</link>
       <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mststats.github.io/publication/icwsm/</guid>
+      <guid>/publication/icwsm/</guid>
       <description></description>
     </item>
     

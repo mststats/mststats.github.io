@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computational on Dr. Michael Salter-Townshend</title>
-    <link>https://mststats.github.io/tags/computational/</link>
+    <link>/tags/computational/</link>
     <description>Recent content in Computational on Dr. Michael Salter-Townshend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 27 Apr 2014 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://mststats.github.io/tags/computational/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/computational/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Network Analysis</title>
-      <link>https://mststats.github.io/project/sna/</link>
+      <link>/project/sna/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/project/sna/</guid>
+      <guid>/project/sna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palaeoclimate Reconstruction</title>
-      <link>https://mststats.github.io/project/bpr/</link>
+      <link>/project/bpr/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/project/bpr/</guid>
+      <guid>/project/bpr/</guid>
       <description></description>
     </item>
     
