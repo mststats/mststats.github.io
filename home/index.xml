@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://mststats.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://mststats.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/about/</guid>
+      <description>Biography I am an Assistant Professor of Statistics in University College Dublin since Jan 2017. My UCD research page is here and the icons to the left offer links to other online accounts I use.
+My primary research interest is in population genetics, with a focus on human genomes. This involves modelling the patterns of shared variation between individuals and can shed light on questions of human demographic history, natural selection, and disease association mapping.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mststats.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/projects/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Academic</title>
@@ -23,13 +42,46 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://mststats.github.io/home/about/</link>
+      <title>Software</title>
+      <link>https://mststats.github.io/home/software/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/home/about/</guid>
-      <description>Biography I am an Assistant Professor of Statistics in University College Dublin since Jan 2017. My UCD research page is here and the icons to the left offer links to other online accounts I use.
-My primary research interest is in population genetics, with a focus on human genomes. This involves modelling the patterns of shared variation between individuals and can shed light on questions of human demographic history, natural selection, and disease association mapping.</description>
+      <guid>https://mststats.github.io/home/software/</guid>
+      <description>MOSAIC Tool for modelling multiway admixture using dense genotype data.
+ VBLPCM Fit and simulate latent position and cluster models for network data, using a fast Variational Bayes approximation.
+ Review of Statistical Network Analysis: Models, Algorithms and Software R scripts used to run the examples in the supplementary document to the paper &amp;ldquo;Review of Statistical Network Analysis: Models, Algorithms and Software&amp;rdquo; (Statistical Analysis and Data Mining, 2012). The entire directory (input files and R scripts) is archived in a single file.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://mststats.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/teaching/</guid>
+      <description>I am currently the module coordinator / lecturer for the following courses in UCD:
+ STAT40380 / STAT40390 Bayesian Analysis STAT40850 Bayesian Analysis (Online) STAT30010 Time Series Analysis STAT40700 Time Series Analysis Actuarial App STAT40860 Time Series (Online)  Courses I previously lectured:
+ Statistics Using R for Computational Biologists, University College Dublin (2011, 2012, 2013). Case Studies in Simulation Science, University College Dublin (2013). Statistics and Mathematics in Computational Biology, University College Dublin (2009, 2010).</description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>https://mststats.github.io/home/activities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/activities/</guid>
+      <description>Current PhD Students:
+ Jinbo Zhao, Ph.D. Research Demonstrator, School of Mathematics and Statistics, UCD (2017-). Chiara Cotroneo, Ph.D. Computational Infection Biology, UCD (2017-).  MSc Student Supervision:
+ M.Sc. in Statistics, University College Dublin (2017, 2018). M.Sc. in Data and Computational Science, University College Dublin (2018). M.Sc. in Actuarial Science, University College Dublin (2017). M.Sc. in Applied Statistics, University of Oxford (2014, 2016).  Professional Activities:
+ Director of Online Programmes, School of Mathematics and Statistics, UCD (2017-).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mststats.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mststats.github.io/home/contact/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -69,52 +121,11 @@ My primary research interest is in population genetics, with a focus on human ge
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://mststats.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://mststats.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Activities</title>
-      <link>https://mststats.github.io/home/activities/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://mststats.github.io/home/activities/</guid>
-      <description>Current PhD Students:
- Jinbo Zhao, Ph.D. Research Demonstrator, School of Mathematics and Statistics, UCD (2017-). Chiara Cotroneo, Ph.D. Computational Infection Biology, UCD (2017-).  MSc Student Supervision:
- M.Sc. in Statistics, University College Dublin (2017, 2018). M.Sc. in Data and Computational Science, University College Dublin (2018). M.Sc. in Actuarial Science, University College Dublin (2017). M.Sc. in Applied Statistics, University of Oxford (2014, 2016).  Professional Activities:
- Director of Online Programmes, School of Mathematics and Statistics, UCD (2017-).</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://mststats.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://mststats.github.io/home/teaching/</guid>
-      <description>I am currently the module coordinator / lecturer for the following courses in UCD:
- STAT40380 / STAT40390 Bayesian Analysis STAT40850 Bayesian Analysis (Online) STAT30010 Time Series Analysis STAT40700 Time Series Analysis Actuarial App STAT40860 Time Series (Online)  Courses I previously lectured:
- Statistics Using R for Computational Biologists, University College Dublin (2011, 2012, 2013). Case Studies in Simulation Science, University College Dublin (2013). Statistics and Mathematics in Computational Biology, University College Dublin (2009, 2010).</description>
-    </item>
-    
-    <item>
       <title>Tags</title>
       <link>https://mststats.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
       <guid>https://mststats.github.io/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://mststats.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://mststats.github.io/home/contact/</guid>
       <description></description>
     </item>
     
