@@ -2,184 +2,184 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Dr. Michael Salter-Townshend</title>
-    <link>/publication/</link>
+    <link>https://mststats.github.io/publication/</link>
     <description>Recent content in Publications on Dr. Michael Salter-Townshend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mststats.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Statistical challenges in estimating past climate changes</title>
-      <link>/publication/wires/</link>
+      <link>https://mststats.github.io/publication/wires/</link>
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0100</pubDate>
       
-      <guid>/publication/wires/</guid>
+      <guid>https://mststats.github.io/publication/wires/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent Space Models for Multiview Network Data</title>
-      <link>/publication/multiview/</link>
+      <link>https://mststats.github.io/publication/multiview/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/multiview/</guid>
+      <guid>https://mststats.github.io/publication/multiview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of statistical network analysis: models, algorithms, and software</title>
-      <link>/publication/sna-review/</link>
+      <link>https://mststats.github.io/publication/sna-review/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/sna-review/</guid>
+      <guid>https://mststats.github.io/publication/sna-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Trans-dimensional von Mises-Fisher Mixture Models for User Profiles</title>
-      <link>/publication/online-trans/</link>
+      <link>https://mststats.github.io/publication/online-trans/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/online-trans/</guid>
+      <guid>https://mststats.github.io/publication/online-trans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The influence of network structures of Wikipedia discussion pages on the efficiency of WikiProjects</title>
-      <link>/publication/wiki-edit/</link>
+      <link>https://mststats.github.io/publication/wiki-edit/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0100</pubDate>
       
-      <guid>/publication/wiki-edit/</guid>
+      <guid>https://mststats.github.io/publication/wiki-edit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role analysis in networks using mixtures of exponential random graph models</title>
-      <link>/publication/ego-ergm/</link>
+      <link>https://mststats.github.io/publication/ego-ergm/</link>
       <pubDate>Fri, 03 Apr 2015 00:00:00 +0100</pubDate>
       
-      <guid>/publication/ego-ergm/</guid>
+      <guid>https://mststats.github.io/publication/ego-ergm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Making a Case for an Irish500 List</title>
-      <link>/publication/irish500/</link>
+      <link>https://mststats.github.io/publication/irish500/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/irish500/</guid>
+      <guid>https://mststats.github.io/publication/irish500/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian inference for palaeoclimate with time uncertainty and stochastic volatility</title>
-      <link>/publication/bpr-time/</link>
+      <link>https://mststats.github.io/publication/bpr-time/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/bpr-time/</guid>
+      <guid>https://mststats.github.io/publication/bpr-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixtures of biased sentiment analysers</title>
-      <link>/publication/mix-bias/</link>
+      <link>https://mststats.github.io/publication/mix-bias/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mix-bias/</guid>
+      <guid>https://mststats.github.io/publication/mix-bias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Relationship between Membership Turnover and Productivity in Online Communities</title>
-      <link>/publication/icwsm/</link>
+      <link>https://mststats.github.io/publication/icwsm/</link>
       <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/icwsm/</guid>
+      <guid>https://mststats.github.io/publication/icwsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis of Online Media</title>
-      <link>/publication/sent-online-media/</link>
+      <link>https://mststats.github.io/publication/sent-online-media/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
       
-      <guid>/publication/sent-online-media/</guid>
+      <guid>https://mststats.github.io/publication/sent-online-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Bayesian Inference for the Latent Position Cluster Model for network data</title>
-      <link>/publication/vblpcm/</link>
+      <link>https://mststats.github.io/publication/vblpcm/</link>
       <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/vblpcm/</guid>
+      <guid>https://mststats.github.io/publication/vblpcm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast inversion of a flexible regression model for multivariate pollen counts data</title>
-      <link>/publication/fast-inversion/</link>
+      <link>https://mststats.github.io/publication/fast-inversion/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/fast-inversion/</guid>
+      <guid>https://mststats.github.io/publication/fast-inversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysing my Facebook friends</title>
-      <link>/publication/signif/</link>
+      <link>https://mststats.github.io/publication/signif/</link>
       <pubDate>Sat, 08 Sep 2012 00:00:00 +0100</pubDate>
       
-      <guid>/publication/signif/</guid>
+      <guid>https://mststats.github.io/publication/signif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A latent space mapping for link prediction</title>
-      <link>/publication/nips-pred/</link>
+      <link>https://mststats.github.io/publication/nips-pred/</link>
       <pubDate>Sat, 11 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>/publication/nips-pred/</guid>
+      <guid>https://mststats.github.io/publication/nips-pred/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Bayesian inference for the latent position cluster model</title>
-      <link>/publication/nips-vari/</link>
+      <link>https://mststats.github.io/publication/nips-vari/</link>
       <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>/publication/nips-vari/</guid>
+      <guid>https://mststats.github.io/publication/nips-vari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling temporal uncertainty in palaeoclimate reconstructions</title>
-      <link>/publication/iwsm-temp/</link>
+      <link>https://mststats.github.io/publication/iwsm-temp/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0100</pubDate>
       
-      <guid>/publication/iwsm-temp/</guid>
+      <guid>https://mststats.github.io/publication/iwsm-temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling zero inflation of compositional data</title>
-      <link>/publication/iwsm/</link>
+      <link>https://mststats.github.io/publication/iwsm/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0100</pubDate>
       
-      <guid>/publication/iwsm/</guid>
+      <guid>https://mststats.github.io/publication/iwsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian palaeoclimate reconstruction</title>
-      <link>/publication/bpr/</link>
+      <link>https://mststats.github.io/publication/bpr/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0100</pubDate>
       
-      <guid>/publication/bpr/</guid>
+      <guid>https://mststats.github.io/publication/bpr/</guid>
       <description></description>
     </item>
     

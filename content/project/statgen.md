@@ -15,7 +15,7 @@ image_preview = "Mosaicgraph.png"
 tags = ["genetics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://maths.ucd.ie/~mst/MOSAIC/"
 
 # Does the project detail page use math formatting?
 math = false

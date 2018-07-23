@@ -2,139 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dr. Michael Salter-Townshend</title>
-    <link>/tags/</link>
+    <link>https://mststats.github.io/tags/</link>
     <description>Recent content in Tags on Dr. Michael Salter-Townshend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mststats.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
+      <link>https://mststats.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://mststats.github.io/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Bayesian</title>
-      <link>/tags/bayesian/</link>
+      <link>https://mststats.github.io/tags/bayesian/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>/tags/bayesian/</guid>
+      <guid>https://mststats.github.io/tags/bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational</title>
-      <link>/tags/computational/</link>
+      <link>https://mststats.github.io/tags/computational/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>/tags/computational/</guid>
+      <guid>https://mststats.github.io/tags/computational/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetics</title>
-      <link>/tags/genetics/</link>
+      <link>https://mststats.github.io/tags/genetics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/genetics/</guid>
+      <guid>https://mststats.github.io/tags/genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine-learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://mststats.github.io/tags/machine-learning/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>/tags/machine-learning/</guid>
+      <guid>https://mststats.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networks</title>
-      <link>/tags/networks/</link>
+      <link>https://mststats.github.io/tags/networks/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>/tags/networks/</guid>
+      <guid>https://mststats.github.io/tags/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>/tags/other/</link>
+      <link>https://mststats.github.io/tags/other/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0100</pubDate>
       
-      <guid>/tags/other/</guid>
+      <guid>https://mststats.github.io/tags/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palaeo</title>
-      <link>/tags/palaeo/</link>
+      <link>https://mststats.github.io/tags/palaeo/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0100</pubDate>
       
-      <guid>/tags/palaeo/</guid>
+      <guid>https://mststats.github.io/tags/palaeo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>/tags/plot/</link>
+      <link>https://mststats.github.io/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://mststats.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://mststats.github.io/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://mststats.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>/tags/regression/</link>
+      <link>https://mststats.github.io/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://mststats.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment</title>
-      <link>/tags/sentiment/</link>
+      <link>https://mststats.github.io/tags/sentiment/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
-      <guid>/tags/sentiment/</guid>
+      <guid>https://mststats.github.io/tags/sentiment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text</title>
-      <link>/tags/text/</link>
+      <link>https://mststats.github.io/tags/text/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
-      <guid>/tags/text/</guid>
+      <guid>https://mststats.github.io/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topics</title>
-      <link>/tags/topics/</link>
+      <link>https://mststats.github.io/tags/topics/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
-      <guid>/tags/topics/</guid>
+      <guid>https://mststats.github.io/tags/topics/</guid>
       <description></description>
     </item>
     

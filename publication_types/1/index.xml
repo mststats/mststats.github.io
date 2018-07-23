@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Dr. Michael Salter-Townshend</title>
-    <link>/publication_types/1/</link>
+    <link>https://mststats.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Dr. Michael Salter-Townshend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mststats.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Making a Case for an Irish500 List</title>
-      <link>/publication/irish500/</link>
+      <link>https://mststats.github.io/publication/irish500/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/irish500/</guid>
+      <guid>https://mststats.github.io/publication/irish500/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Relationship between Membership Turnover and Productivity in Online Communities</title>
-      <link>/publication/icwsm/</link>
+      <link>https://mststats.github.io/publication/icwsm/</link>
       <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/icwsm/</guid>
+      <guid>https://mststats.github.io/publication/icwsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A latent space mapping for link prediction</title>
-      <link>/publication/nips-pred/</link>
+      <link>https://mststats.github.io/publication/nips-pred/</link>
       <pubDate>Sat, 11 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>/publication/nips-pred/</guid>
+      <guid>https://mststats.github.io/publication/nips-pred/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Bayesian inference for the latent position cluster model</title>
-      <link>/publication/nips-vari/</link>
+      <link>https://mststats.github.io/publication/nips-vari/</link>
       <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>/publication/nips-vari/</guid>
+      <guid>https://mststats.github.io/publication/nips-vari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling temporal uncertainty in palaeoclimate reconstructions</title>
-      <link>/publication/iwsm-temp/</link>
+      <link>https://mststats.github.io/publication/iwsm-temp/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0100</pubDate>
       
-      <guid>/publication/iwsm-temp/</guid>
+      <guid>https://mststats.github.io/publication/iwsm-temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling zero inflation of compositional data</title>
-      <link>/publication/iwsm/</link>
+      <link>https://mststats.github.io/publication/iwsm/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0100</pubDate>
       
-      <guid>/publication/iwsm/</guid>
+      <guid>https://mststats.github.io/publication/iwsm/</guid>
       <description></description>
     </item>
     
