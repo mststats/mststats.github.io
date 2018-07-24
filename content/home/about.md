@@ -36,7 +36,7 @@ weight = 1
 
 # Biography
 I am an Assistant Professor of Statistics in University College Dublin since Jan 2017. 
-My UCD research page is <a href="http://www.ucd.ie/research/people/mathematicsstatistics/drmichaelsalter-townshend/">here</a>
+My UCD research page is <a href="https://people.ucd.ie/michael.salter-townshend">here</a>
 and the icons to the left offer links to other online accounts I use. 
 
 
