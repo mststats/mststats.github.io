@@ -48,7 +48,7 @@ projects = ["sna"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "https://projecteuclid.org/euclid.aoas/1507168828"}]
+url_custom = [{name = "Link to paper", url = "https://projecteuclid.org/euclid.aoas/1507168828"}, {name = "Link to preprint", url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5927604/"}]
 
 # Does the content use math formatting?
 math = true
