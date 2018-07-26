@@ -48,7 +48,7 @@ projects = ["statgen"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Custom Link", url = "https://www.biorxiv.org/content/early/2018/07/25/376137"}]
 
 # Does the content use math formatting?
 math = true
