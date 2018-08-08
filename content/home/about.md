@@ -11,6 +11,8 @@ weight = 1
 [interests]
   interests = [
     "Statistical Genetics",
+    "Network Analysis",
+    "Climate Reconstruction",
     "Computational Statistics",
     "Applied Statistics",
     "Bayesian Statistics"

@@ -28,7 +28,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -48,7 +48,7 @@ projects = ["statgen"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link to preprint", url = "https://www.biorxiv.org/content/early/2018/07/25/376137"}]
+url_custom = [{name = "Link to preprint", url = "https://www.biorxiv.org/content/early/2018/07/25/376137"}, {name = "Software", url = "https://maths.ucd.ie/~mst/MOSAIC/"}]
 
 # Does the content use math formatting?
 math = true
