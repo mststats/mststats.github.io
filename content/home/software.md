@@ -18,6 +18,7 @@ weight = 3
 - <a href="https://maths.ucd.ie/~mst/MOSAIC/" target=_blank>MOSAIC</a> Tool for modelling multiway admixture using dense genotype data. 
 
 - <a href="https://cran.r-project.org/web/packages/VBLPCM/" target=_blank>VBLPCM</a> Fit and simulate latent position and cluster models for network data, using a fast Variational Bayes approximation.
+- <a href="https://cran.r-project.org/web/packages/egoTERGM/" target=_blank>egoTERGM</a> Estimation of ego-temporal exponential random graph models.
 - <a href="https://maths.ucd.ie/~mst/networks/R/supplement.zip" target=_blank>Review of Statistical Network Analysis: Models, Algorithms and Software</a>
 R scripts used to run the examples in the supplementary document 
 to the paper "Review of Statistical Network Analysis: Models, Algorithms and Software" (Statistical Analysis and Data Mining, 2012). 

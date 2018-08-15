@@ -50,7 +50,8 @@ I&amp;rsquo;m particularly interested in modelling patterns of shared genetic va
       <guid>/home/software/</guid>
       <description>MOSAIC Tool for modelling multiway admixture using dense genotype data.
  VBLPCM Fit and simulate latent position and cluster models for network data, using a fast Variational Bayes approximation.
- Review of Statistical Network Analysis: Models, Algorithms and Software R scripts used to run the examples in the supplementary document to the paper &amp;ldquo;Review of Statistical Network Analysis: Models, Algorithms and Software&amp;rdquo; (Statistical Analysis and Data Mining, 2012). The entire directory (input files and R scripts) is archived in a single file.</description>
+ egoTERGM Estimation of ego-temporal exponential random graph models.
+ Review of Statistical Network Analysis: Models, Algorithms and Software R scripts used to run the examples in the supplementary document to the paper &amp;ldquo;Review of Statistical Network Analysis: Models, Algorithms and Software&amp;rdquo; (Statistical Analysis and Data Mining, 2012).</description>
     </item>
     
     <item>
