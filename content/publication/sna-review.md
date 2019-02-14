@@ -1,6 +1,6 @@
 +++
 title = "Review of statistical network analysis: models, algorithms, and software"
-date = 2017-03-01T00:00:00
+date = 2012-05-03T00:00:00
 
 # Authors. Comma separated list
 authors = ["Michael Salter‐Townshend", "Arthur White", "Isabella Gollini", "Thomas Brendan Murphy"]

@@ -40,15 +40,6 @@
     </item>
     
     <item>
-      <title>Review of statistical network analysis: models, algorithms, and software</title>
-      <link>/publication/sna-review/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/sna-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Online Trans-dimensional von Mises-Fisher Mixture Models for User Profiles</title>
       <link>/publication/online-trans/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -144,6 +135,15 @@
       <pubDate>Sat, 08 Sep 2012 00:00:00 +0100</pubDate>
       
       <guid>/publication/signif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of statistical network analysis: models, algorithms, and software</title>
+      <link>/publication/sna-review/</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/sna-review/</guid>
       <description></description>
     </item>
     

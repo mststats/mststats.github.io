@@ -38,15 +38,6 @@
     </item>
     
     <item>
-      <title>Review of statistical network analysis: models, algorithms, and software</title>
-      <link>/publication/sna-review/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/sna-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multiway Admixture Event Modelling without Specifying Groups</title>
       <link>/talk/probgen16/</link>
       <pubDate>Wed, 14 Sep 2016 00:00:00 +0100</pubDate>
@@ -361,6 +352,15 @@ Figure 1: A fancy pie chart.
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>/publication/mix-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Relationship between Membership Turnover and Productivity in Online Communities</title>
+      <link>/publication/icwsm/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/icwsm/</guid>
       <description></description>
     </item>
     
