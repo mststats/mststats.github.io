@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-02-28T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Activities"
@@ -22,8 +22,8 @@ Current PhD Students:
 
 MSc Student Supervision:
 
-- M.Sc. in Statistics, University College Dublin (2017, 2018).
-- M.Sc. in Data and Computational Science, University College Dublin (2018).
+- M.Sc. in Statistics, University College Dublin (2017, 2018, 2019).
+- M.Sc. in Data and Computational Science, University College Dublin (2018,2019).
 - M.Sc. in Actuarial Science, University College Dublin (2017).
 - M.Sc. in Applied Statistics, University of Oxford (2014, 2016).
 
@@ -32,6 +32,7 @@ Professional Activities:
 - Director of <a href="https://www.ucd.ie/online/dataanalytics/" target="_blank">Online Programmes</a>, School of Mathematics and Statistics, UCD (2017-).
 - Statistician, Animal Research Ethics Committee, UCD (2017-).
 - Education Officer, <a href="http://www.istat.ie" target="_blank">Irish Statistical Association</a> (2017-).
+- Irish Society of Human Genetics, committee member (2018-). 
 - Organising Committee, Conference of Applied Statistics Ireland (2017).
 
 Refereeing: 
