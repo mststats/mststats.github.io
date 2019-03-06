@@ -12,7 +12,7 @@ summary = "Statistical Analysis of genetics data, mostly focussing on Population
 image_preview = "Mosaicgraph.png"
 
 # Tags: can be used for filtering projects.
-tags = ["genetics"]
+tags = ["genetics", "computational"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

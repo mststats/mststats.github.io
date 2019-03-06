@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 27 Apr 2014 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/computational/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Statistical Genetics</title>
+      <link>/project/statgen/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/statgen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Network Analysis</title>
