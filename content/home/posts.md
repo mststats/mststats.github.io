@@ -2,7 +2,7 @@
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
 widget = "posts"
-active = false
+active = true
 date = 2019-02-28T00:00:00
 
 title = "Recent Posts"
