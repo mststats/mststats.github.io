@@ -15,18 +15,6 @@ weight = 5
 
 +++
 
-Current PhD Students:
-
-- Jinbo Zhao, Ph.D. Research Demonstrator, School of Mathematics and Statistics, UCD (2017-).
-- Chiara Cotroneo, Ph.D. Computational Infection Biology, UCD (2017-).
-
-MSc Student Supervision:
-
-- M.Sc. in Statistics, University College Dublin (2017, 2018, 2019).
-- M.Sc. in Data and Computational Science, University College Dublin (2018,2019).
-- M.Sc. in Actuarial Science, University College Dublin (2017).
-- M.Sc. in Applied Statistics, University of Oxford (2014, 2016).
-
 Professional Activities:
 
 - Director of <a href="https://www.ucd.ie/online/dataanalytics/" target="_blank">Online Programmes</a>, School of Mathematics and Statistics, UCD (2017-).

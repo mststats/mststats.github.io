@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Dr. Michael Salter-Townshend</title>
+    <title>Homes on MST Lab</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Dr. Michael Salter-Townshend</description>
+    <description>Recent content in Homes on MST Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -65,15 +65,25 @@ My research spans population genetics, network analysis, palaeoclimate reconstru
     </item>
     
     <item>
+      <title>People</title>
+      <link>/home/people/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/home/people/</guid>
+      <description>Current PhD Students:
+ Jinbo Zhao, Ph.D. Research Demonstrator, School of Mathematics and Statistics, UCD (2017-). Chiara Cotroneo, Ph.D. Computational Infection Biology, UCD (2017-). Catherine Mahoney, Ph.D. , UCD (2019-).  MSc Student Supervision:
+ M.Sc. in Statistics, University College Dublin (2017, 2018, 2019). M.Sc. in Data and Computational Science, University College Dublin (2018,2019). M.Sc. in Actuarial Science, University College Dublin (2017). M.Sc. in Applied Statistics, University of Oxford (2014, 2016).</description>
+    </item>
+    
+    <item>
       <title>Activities</title>
       <link>/home/activities/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/home/activities/</guid>
-      <description>Current PhD Students:
- Jinbo Zhao, Ph.D. Research Demonstrator, School of Mathematics and Statistics, UCD (2017-). Chiara Cotroneo, Ph.D. Computational Infection Biology, UCD (2017-).  MSc Student Supervision:
- M.Sc. in Statistics, University College Dublin (2017, 2018, 2019). M.Sc. in Data and Computational Science, University College Dublin (2018,2019). M.Sc. in Actuarial Science, University College Dublin (2017). M.Sc. in Applied Statistics, University of Oxford (2014, 2016).  Professional Activities:
- Director of Online Programmes, School of Mathematics and Statistics, UCD (2017-).</description>
+      <description>Professional Activities:
+ Director of Online Programmes, School of Mathematics and Statistics, UCD (2017-). Statistician, Animal Research Ethics Committee, UCD (2017-). Education Officer, Irish Statistical Association (2017-). Irish Society of Human Genetics, committee member (2018-). Organising Committee, Conference of Applied Statistics Ireland (2017).  Refereeing:
+ Genetics (Journal of Genetics Society of America) Annals of Applied Statistics Journal of Statistics and Computing Machine Learning Pattern Analysis and Applications Journal of the Environmetrics Society Transactions on Knowledge and Data Engineering ECML PKDD NIPS (2014) AISTATS (2012,2013) International Statistical Institute World Congress 2011   Assorted Other:</description>
     </item>
     
     <item>
