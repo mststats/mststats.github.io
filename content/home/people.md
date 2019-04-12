@@ -19,7 +19,7 @@ Current PhD Students:
 
 - Jinbo Zhao, Ph.D. Research Demonstrator, School of Mathematics and Statistics, UCD (2017-).
 - Chiara Cotroneo, Ph.D. Computational Infection Biology, UCD (2017-).
-- Catherine Mahoney, Ph.D. , UCD (2019-).
+- Catherine Mahoney, Ph.D. Bioinformatics and Systems Biology, UCD (2019-).
 
 MSc Student Supervision:
 
