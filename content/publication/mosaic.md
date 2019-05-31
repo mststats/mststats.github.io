@@ -48,7 +48,8 @@ projects = ["statgen"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link to paper", url = "https://doi.org/10.1534/genetics.119.302139"}, {name = "Software", url = "https://maths.ucd.ie/~mst/MOSAIC/"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1534/genetics.119.302139"},
+{name="preprint",url="https://www.biorxiv.org/content/10.1101/376137v1"}, {name = "Software", url = "https://maths.ucd.ie/~mst/MOSAIC/"}]
 
 # Does the content use math formatting?
 math = true

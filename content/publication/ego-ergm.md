@@ -49,6 +49,8 @@ projects = ["sna"]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1080/10618600.2014.923777"}, 
+{name="related R package", url="https://cran.r-project.org/web/packages/egoTERGM/"}]
 
 # Does the content use math formatting?
 math = true
