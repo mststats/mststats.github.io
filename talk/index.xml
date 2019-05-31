@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Local ancestry inference in non-model organisms</title>
+      <link>/talk/emgm/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/emgm/</guid>
+      <description>#Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
       <title>Multiway Admixture Event Modelling without Specifying Groups</title>
       <link>/talk/probgen16/</link>
       <pubDate>Wed, 14 Sep 2016 00:00:00 +0100</pubDate>
