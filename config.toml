@@ -8,6 +8,7 @@ publishDir = "./"
 
 # Title of your site
 title = "MST Lab"
+#bibliography = ["static/mst.bib"] 
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.

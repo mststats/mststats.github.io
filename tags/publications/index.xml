@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on MST Lab</title>
+    <link>/tags/publications/</link>
+    <description>Recent content in Publications on MST Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Paper out in GENETICS</title>
+      <link>/post/mosaic/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/mosaic/</guid>
+      <description>Admixture is a pervasive and important element of human demographic history.
+Summary Our new highlighted paper in the journal GENETICS deals with modelling complex human population histories. We&amp;rsquo;re particularly interested in something called &amp;ldquo;admixture&amp;rdquo;, which is when two or more previously separated populations come together, typically due to migration or the removal of some other barrier 1 to procreation between the groups. By examining modern genetic samples, we report evidence for such admixture globally and persistently, reflecting the importance of migration in shaping modern human populations.</description>
+    </item>
+    
+  </channel>
+</rss>
