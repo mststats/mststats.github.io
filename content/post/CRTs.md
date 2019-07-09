@@ -5,7 +5,7 @@ date = 2019-03-10T00:00:00
 lastmod = 2019-03-10T00:00:00
 draft = false
 
-tags = ["Hiring"]
+tags = ["hiring"]
 summary = "Science Foundation Ireland have funded Centres for Research Training from September 2019."
 
 [header]

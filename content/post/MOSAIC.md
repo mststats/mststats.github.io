@@ -4,7 +4,7 @@ title = "New Paper out in GENETICS"
 date = 2019-06-25T00:00:00
 lastmod = 2019-06-25T00:00:00
 draft = false
-tags = ["publications"]
+tags = ["publications", "genetics"]
 summary = "A paper I wrote with [Prof. Simon Myers](http://www.stats.ox.ac.uk/~myers) on admixture was chosen by the [GENETICS](https://www.genetics.org/) Editors as one of the July 2019 Highlights."
 [header]
 #image = "headers/getting-started.png"
