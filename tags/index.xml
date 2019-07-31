@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Food</title>
+      <link>/tags/food/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Genetics</title>
       <link>/tags/genetics/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
@@ -103,6 +112,15 @@
     </item>
     
     <item>
+      <title>Palaeoclimate</title>
+      <link>/tags/palaeoclimate/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/palaeoclimate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>/tags/publications/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
@@ -117,6 +135,24 @@
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
       <guid>/tags/sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social networks</title>
+      <link>/tags/social-networks/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/social-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/tags/talks/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/talks/</guid>
       <description></description>
     </item>
     

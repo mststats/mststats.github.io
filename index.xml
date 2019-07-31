@@ -11,6 +11,41 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>INQUA 2019</title>
+      <link>/post/inqua/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/inqua/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;INQUA 2019 is  the congress of the International Union for Quaternary Research.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With Dr. Niamh Cahill and Prof. Andrew Parnell I co-convened a session on
+&lt;a href=&#34;https://app.oxfordabstracts.com/events/574/program-app/session/4680&#34; target=&#34;_blank&#34;&gt;Bayesian statistical analysis methods for paleoclimate data&lt;/a&gt;.
+This session was very successful in that we had a full room and 6 great talks, along with a poster session. Hopefully we managed to convince
+some of the audience that Bayesian methodology is the way to go for inverse problems such as climate reconstruction with multiple sources
+of uncertainty!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Website for Beef-Sig</title>
+      <link>/post/beef-sig/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/beef-sig/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Signatures of Irish Grass-fed beef.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;From the website: &lt;br /&gt;
+BEEF-SIG is a collaborative research project involving University College Dublin (UCD) and
+Teagasc (the Irish Agriculture and Food Development Authority).
+The project is funded by the Irish Department of Agriculture, Food and the Marine and runs for four years from January, 1 st  2019.&lt;/p&gt;
+
+&lt;p&gt;The project arises in response to the growing reputation of Irish beef internationally. Irish beef is increasingly marketed on the basis of the uniqueness of its grass based production. For example, the U.S. market is interested in beef derived from animals with a &amp;ldquo;More than 80% Grass Diet&amp;rdquo;
+(Bord Bia, 2017). The guarantee to supply beef from animals with a &amp;ldquo;More than 80% Grass Diet&amp;rdquo; is based on mandatory recording by
+producers/farmers of the level and timing of various feed inputs (grass, silage, cereal concentrates, etc) under the Bord Bia Sustainable Beef &amp;amp; Lamb Assurance Scheme (SBLAS) and transmission of this information to meat processors who ultimately make the decision on whether or not the beef is suitable for the U.S. market. BEEF-SIG aims to quantify the feed inputs used on Irish farms by means of novel analytical technologies and consequently assist with the marketing of Irish beef overseas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New Paper out in GENETICS</title>
       <link>/post/mosaic/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
@@ -122,6 +157,30 @@ MOSAIC is shown to yield more accurate results than previously possible and can 
 &lt;li id=&#34;fn:compared-to-leav&#34;&gt;compared to leaving such a reference population out of the analysis. In fact MOSAIC can return accurate local ancestry estimates and thus accurate admixture summaries when one or more ancestries has no good direct surrogates among the reference populations. For example, when it is only observed in admixed form, which is particularly common when looking at older admixture events. &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:compared-to-leav&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eurodeer XI</title>
+      <link>/post/eurodeer/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/eurodeer/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Eurodeer is a scientific network for data and knowledge sharing on wild roe deer populations.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I was honoured to give a keynote talk on Social Network Analysis to a group of conservation biologists and
+others working in the area of monitoring and researching wild animal movements. People from 33 different
+research centres and environmental institutes come together once a year to work on projects (&amp;ldquo;pagers&amp;rdquo;)
+and to establish data sharing mechanisms and write papers. There is an appetite to do more social network
+analysis, which is where I fit in. In the first instance I will collaborate on a single paper analysing
+deer movement patterns and social network behaviours in reaction to the establishment of feeding stations.
+Telemetry and other data will be collated from a range of terrain, climate, and vegetation scenarios.
+The aim of the project is to apply Social Network Analysis techniques to ascertain how human
+provided feeding stations influence the movements and social interactions of wild deer and to
+summarise, compare, and contrast the datasets from different collection sites. Approaches may
+include network visualisations, stochastic blockmodelling, role analysis, latent space models, and
+more. Results will allow researchers to predict how and why feeding stations effect wild deer
+populations and ultimately inform conservation efforts.&lt;/p&gt;
 </description>
     </item>
     
@@ -251,33 +310,6 @@ Use the links to apply!&lt;/p&gt;
       <pubDate>Fri, 03 Apr 2015 00:00:00 +0100</pubDate>
       
       <guid>/publication/ego-ergm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Making a Case for an Irish500 List</title>
-      <link>/publication/irish500/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/irish500/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian inference for palaeoclimate with time uncertainty and stochastic volatility</title>
-      <link>/publication/bpr-time/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/bpr-time/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network Analysis</title>
-      <link>/project/sna/</link>
-      <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/project/sna/</guid>
       <description></description>
     </item>
     

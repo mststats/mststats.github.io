@@ -5,8 +5,35 @@
     
     <url>
     
+      <loc>/post/inqua/</loc>
+      <lastmod>2019-07-30T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/beef-sig/</loc>
+      <lastmod>2019-07-25T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/mosaic/</loc>
       <lastmod>2019-06-25T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/eurodeer/</loc>
+      <lastmod>2019-06-20T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -371,6 +398,16 @@
     
     <url>
     
+      <loc>/tags/food/</loc>
+      <lastmod>2019-07-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/genetics/</loc>
       <lastmod>2019-06-25T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -451,8 +488,18 @@
     
     <url>
     
+      <loc>/tags/palaeoclimate/</loc>
+      <lastmod>2019-07-30T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/</loc>
-      <lastmod>2019-06-25T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-30T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -501,8 +548,28 @@
     
     <url>
     
+      <loc>/tags/social-networks/</loc>
+      <lastmod>2019-06-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/talks/</loc>
+      <lastmod>2019-07-30T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
