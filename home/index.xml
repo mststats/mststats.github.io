@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on MST Lab</title>
-    <link>/home/</link>
+    <link>https://mststats.github.io/home/</link>
     <description>Recent content in Homes on MST Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mststats.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://mststats.github.io/home/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://mststats.github.io/home/about/</guid>
       <description>Biography I am an Assistant Professor of Statistics in University College Dublin since Jan 2017. My official UCD page is here and the icons to the left offer links to some online accounts I use.
 My research spans population genetics, network analysis, palaeoclimate reconstruction, and sentiment analysis. See my publications below for more information or browse by topic by clicking projects above.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>https://mststats.github.io/home/projects/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>https://mststats.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>/home/software/</link>
+      <link>https://mststats.github.io/home/software/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/software/</guid>
+      <guid>https://mststats.github.io/home/software/</guid>
       <description>MOSAIC Tool for modelling multiway admixture using dense genotype data.
  VBLPCM Fit and simulate latent position and cluster models for network data, using a fast Variational Bayes approximation.
  egoTERGM Estimation of ego-temporal exponential random graph models.
@@ -45,20 +45,20 @@ My research spans population genetics, network analysis, palaeoclimate reconstru
     
     <item>
       <title>Academic</title>
-      <link>/home/hero/</link>
+      <link>https://mststats.github.io/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>https://mststats.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://mststats.github.io/home/teaching/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>https://mststats.github.io/home/teaching/</guid>
       <description>I am currently the module coordinator / lecturer for the following courses in UCD:
  STAT40380 / STAT40390 Bayesian Analysis STAT40850 Bayesian Analysis (Online) STAT30010 Time Series Analysis STAT40700 Time Series Analysis Actuarial App STAT40860 Time Series (Online)  Courses I previously lectured:
  Statistics Using R for Computational Biologists, University College Dublin (2011, 2012, 2013). Case Studies in Simulation Science, University College Dublin (2013). Statistics and Mathematics in Computational Biology, University College Dublin (2009, 2010).</description>
@@ -66,10 +66,10 @@ My research spans population genetics, network analysis, palaeoclimate reconstru
     
     <item>
       <title>People</title>
-      <link>/home/people/</link>
+      <link>https://mststats.github.io/home/people/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>/home/people/</guid>
+      <guid>https://mststats.github.io/home/people/</guid>
       <description>Current PhD Students:
  Jinbo Zhao, Ph.D. Research Demonstrator, School of Mathematics and Statistics, UCD (2017-). Chiara Cotroneo, Ph.D. Computational Infection Biology, UCD (2017-). Catherine Mahoney, Ph.D. Bioinformatics and Systems Biology, UCD (2019-).  MSc Student Supervision:
  M.Sc. in Statistics, University College Dublin (2017, 2018, 2019). M.Sc. in Data and Computational Science, University College Dublin (2018,2019). M.Sc. in Actuarial Science, University College Dublin (2017). M.Sc. in Applied Statistics, University of Oxford (2014, 2016).</description>
@@ -77,10 +77,10 @@ My research spans population genetics, network analysis, palaeoclimate reconstru
     
     <item>
       <title>Activities</title>
-      <link>/home/activities/</link>
+      <link>https://mststats.github.io/home/activities/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/activities/</guid>
+      <guid>https://mststats.github.io/home/activities/</guid>
       <description>Professional Activities:
  Director of Online Programmes, School of Mathematics and Statistics, UCD (2017-). Statistician, Animal Research Ethics Committee, UCD (2017-). Education Officer, Irish Statistical Association (2017-). Irish Society of Human Genetics, committee member (2018-). Organising Committee, Conference of Applied Statistics Ireland (2017).  Refereeing:
  Genetics (Journal of Genetics Society of America) Annals of Applied Statistics Journal of Statistics and Computing Machine Learning Pattern Analysis and Applications Journal of the Environmetrics Society Transactions on Knowledge and Data Engineering ECML PKDD NIPS (2014) AISTATS (2012,2013) International Statistical Institute World Congress 2011   Assorted Other:</description>
@@ -88,55 +88,55 @@ My research spans population genetics, network analysis, palaeoclimate reconstru
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://mststats.github.io/home/contact/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://mststats.github.io/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
+      <link>https://mststats.github.io/home/publications_selected/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>https://mststats.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>/home/publications/</link>
+      <link>https://mststats.github.io/home/publications/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://mststats.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
+      <link>https://mststats.github.io/home/talks/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://mststats.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>https://mststats.github.io/home/posts/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>https://mststats.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>/home/tags/</link>
+      <link>https://mststats.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>/home/tags/</guid>
+      <guid>https://mststats.github.io/home/tags/</guid>
       <description></description>
     </item>
     

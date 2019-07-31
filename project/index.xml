@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on MST Lab</title>
-    <link>/project/</link>
+    <link>https://mststats.github.io/project/</link>
     <description>Recent content in Projects on MST Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mststats.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Statistical Genetics</title>
-      <link>/project/statgen/</link>
+      <link>https://mststats.github.io/project/statgen/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/statgen/</guid>
+      <guid>https://mststats.github.io/project/statgen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Analysis</title>
-      <link>/project/sna/</link>
+      <link>https://mststats.github.io/project/sna/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>/project/sna/</guid>
+      <guid>https://mststats.github.io/project/sna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palaeoclimate Reconstruction</title>
-      <link>/project/bpr/</link>
+      <link>https://mststats.github.io/project/bpr/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0100</pubDate>
       
-      <guid>/project/bpr/</guid>
+      <guid>https://mststats.github.io/project/bpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text / Topics / Sentiment</title>
-      <link>/project/text/</link>
+      <link>https://mststats.github.io/project/text/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
-      <guid>/project/text/</guid>
+      <guid>https://mststats.github.io/project/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Miscellaneous Projects</title>
-      <link>/project/other/</link>
+      <link>https://mststats.github.io/project/other/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0100</pubDate>
       
-      <guid>/project/other/</guid>
+      <guid>https://mststats.github.io/project/other/</guid>
       <description></description>
     </item>
     

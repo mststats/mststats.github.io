@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on MST Lab</title>
-    <link>/post/</link>
+    <link>https://mststats.github.io/post/</link>
     <description>Recent content in Posts on MST Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mststats.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>INQUA 2019</title>
-      <link>/post/inqua/</link>
+      <link>https://mststats.github.io/post/inqua/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>/post/inqua/</guid>
+      <guid>https://mststats.github.io/post/inqua/</guid>
       <description>INQUA 2019 is the congress of the International Union for Quaternary Research.
 With Dr. Niamh Cahill and Prof. Andrew Parnell I co-convened a session on Bayesian statistical analysis methods for paleoclimate data. This session was very successful in that we had a full room and 6 great talks, along with a poster session. Hopefully we managed to convince some of the audience that Bayesian methodology is the way to go for inverse problems such as climate reconstruction with multiple sources of uncertainty!</description>
     </item>
     
     <item>
       <title>Project Website for Beef-Sig</title>
-      <link>/post/beef-sig/</link>
+      <link>https://mststats.github.io/post/beef-sig/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>/post/beef-sig/</guid>
+      <guid>https://mststats.github.io/post/beef-sig/</guid>
       <description>Signatures of Irish Grass-fed beef.
 From the website: BEEF-SIG is a collaborative research project involving University College Dublin (UCD) and Teagasc (the Irish Agriculture and Food Development Authority). The project is funded by the Irish Department of Agriculture, Food and the Marine and runs for four years from January, 1 st 2019.
 The project arises in response to the growing reputation of Irish beef internationally. Irish beef is increasingly marketed on the basis of the uniqueness of its grass based production.</description>
@@ -35,40 +35,40 @@ The project arises in response to the growing reputation of Irish beef internati
     
     <item>
       <title>New Paper out in GENETICS</title>
-      <link>/post/mosaic/</link>
+      <link>https://mststats.github.io/post/mosaic/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
       
-      <guid>/post/mosaic/</guid>
+      <guid>https://mststats.github.io/post/mosaic/</guid>
       <description>Admixture is a pervasive and important element of human demographic history.
 Summary Our new highlighted paper in the journal GENETICS deals with modelling complex human population histories. We&amp;rsquo;re particularly interested in something called &amp;ldquo;admixture&amp;rdquo;, which is when two or more previously separated populations come together, typically due to migration or the removal of some other barrier 1 to procreation between the groups. By examining modern genetic samples, we report evidence for such admixture globally and persistently, reflecting the importance of migration in shaping modern human populations.</description>
     </item>
     
     <item>
       <title>Eurodeer XI</title>
-      <link>/post/eurodeer/</link>
+      <link>https://mststats.github.io/post/eurodeer/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0100</pubDate>
       
-      <guid>/post/eurodeer/</guid>
+      <guid>https://mststats.github.io/post/eurodeer/</guid>
       <description>Eurodeer is a scientific network for data and knowledge sharing on wild roe deer populations.
 I was honoured to give a keynote talk on Social Network Analysis to a group of conservation biologists and others working in the area of monitoring and researching wild animal movements. People from 33 different research centres and environmental institutes come together once a year to work on projects (&amp;ldquo;pagers&amp;rdquo;) and to establish data sharing mechanisms and write papers.</description>
     </item>
     
     <item>
       <title>Interview on Newstalk</title>
-      <link>/post/coincidences/</link>
+      <link>https://mststats.github.io/post/coincidences/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/post/coincidences/</guid>
+      <guid>https://mststats.github.io/post/coincidences/</guid>
       <description>Coincidences do happen. But what do they mean to us and just what are the chances? In this special feature episode, we find out&amp;hellip;
 This was fun to take part in! Futureproof is a science programme on Newstalk hosted by @jonathan_mccrea. A special issue on Chance and Coincidence was recorded with input from Prof. Brian Hughes (@b_m_hughes (Professor of Psychology at the National University of Ireland, Galway ) and I.</description>
     </item>
     
     <item>
       <title>SFI CRTs - PhD positions available</title>
-      <link>/post/crts/</link>
+      <link>https://mststats.github.io/post/crts/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/crts/</guid>
+      <guid>https://mststats.github.io/post/crts/</guid>
       <description>I am a named supervisor in two new Centre&amp;rsquo;s for Research Training funded by Science Foundation Ireland:
  Foundations in Data Science Genomics Data Science  These offer the fantastic opportunity to enter a fully funded PhD programme with a large cohort of other PhD candidates. Use the links to apply!</description>
     </item>
