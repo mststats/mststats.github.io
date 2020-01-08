@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media on MST Lab</title>
-    <link>https://mststats.github.io/tags/media/</link>
+    <link>/tags/media/</link>
     <description>Recent content in Media on MST Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 18 May 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://mststats.github.io/tags/media/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/media/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interview on Newstalk</title>
-      <link>https://mststats.github.io/post/coincidences/</link>
+      <link>/post/coincidences/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/post/coincidences/</guid>
+      <guid>/post/coincidences/</guid>
       <description>Coincidences do happen. But what do they mean to us and just what are the chances? In this special feature episode, we find out&amp;hellip;
 This was fun to take part in! Futureproof is a science programme on Newstalk hosted by @jonathan_mccrea. A special issue on Chance and Coincidence was recorded with input from Prof. Brian Hughes (@b_m_hughes (Professor of Psychology at the National University of Ireland, Galway ) and I.</description>
     </item>

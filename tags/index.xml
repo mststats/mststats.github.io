@@ -2,175 +2,175 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MST Lab</title>
-    <link>https://mststats.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on MST Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mststats.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://mststats.github.io/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mststats.github.io/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Bayesian</title>
-      <link>https://mststats.github.io/tags/bayesian/</link>
+      <link>/tags/bayesian/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/bayesian/</guid>
+      <guid>/tags/bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational</title>
-      <link>https://mststats.github.io/tags/computational/</link>
+      <link>/tags/computational/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mststats.github.io/tags/computational/</guid>
+      <guid>/tags/computational/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://mststats.github.io/tags/food/</link>
+      <link>/tags/food/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/food/</guid>
+      <guid>/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetics</title>
-      <link>https://mststats.github.io/tags/genetics/</link>
+      <link>/tags/genetics/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/genetics/</guid>
+      <guid>/tags/genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hiring</title>
-      <link>https://mststats.github.io/tags/hiring/</link>
+      <link>/tags/hiring/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mststats.github.io/tags/hiring/</guid>
+      <guid>/tags/hiring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine-learning</title>
-      <link>https://mststats.github.io/tags/machine-learning/</link>
+      <link>/tags/machine-learning/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/machine-learning/</guid>
+      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media</title>
-      <link>https://mststats.github.io/tags/media/</link>
+      <link>/tags/media/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/media/</guid>
+      <guid>/tags/media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networks</title>
-      <link>https://mststats.github.io/tags/networks/</link>
+      <link>/tags/networks/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/networks/</guid>
+      <guid>/tags/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>https://mststats.github.io/tags/other/</link>
+      <link>/tags/other/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/other/</guid>
+      <guid>/tags/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palaeo</title>
-      <link>https://mststats.github.io/tags/palaeo/</link>
+      <link>/tags/palaeo/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/palaeo/</guid>
+      <guid>/tags/palaeo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palaeoclimate</title>
-      <link>https://mststats.github.io/tags/palaeoclimate/</link>
+      <link>/tags/palaeoclimate/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/palaeoclimate/</guid>
+      <guid>/tags/palaeoclimate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://mststats.github.io/tags/publications/</link>
+      <link>/tags/publications/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/publications/</guid>
+      <guid>/tags/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment</title>
-      <link>https://mststats.github.io/tags/sentiment/</link>
+      <link>/tags/sentiment/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/sentiment/</guid>
+      <guid>/tags/sentiment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social networks</title>
-      <link>https://mststats.github.io/tags/social-networks/</link>
+      <link>/tags/social-networks/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/social-networks/</guid>
+      <guid>/tags/social-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://mststats.github.io/tags/talks/</link>
+      <link>/tags/talks/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/talks/</guid>
+      <guid>/tags/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text</title>
-      <link>https://mststats.github.io/tags/text/</link>
+      <link>/tags/text/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/text/</guid>
+      <guid>/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topics</title>
-      <link>https://mststats.github.io/tags/topics/</link>
+      <link>/tags/topics/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/tags/topics/</guid>
+      <guid>/tags/topics/</guid>
       <description></description>
     </item>
     

@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on MST Lab</title>
-    <link>https://mststats.github.io/tags/talks/</link>
+    <link>/tags/talks/</link>
     <description>Recent content in Talks on MST Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://mststats.github.io/tags/talks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>INQUA 2019</title>
-      <link>https://mststats.github.io/post/inqua/</link>
+      <link>/post/inqua/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/post/inqua/</guid>
+      <guid>/post/inqua/</guid>
       <description>INQUA 2019 is the congress of the International Union for Quaternary Research.
 With Dr. Niamh Cahill and Prof. Andrew Parnell I co-convened a session on Bayesian statistical analysis methods for paleoclimate data. This session was very successful in that we had a full room and 6 great talks, along with a poster session. Hopefully we managed to convince some of the audience that Bayesian methodology is the way to go for inverse problems such as climate reconstruction with multiple sources of uncertainty!</description>
     </item>
     
     <item>
       <title>Eurodeer XI</title>
-      <link>https://mststats.github.io/post/eurodeer/</link>
+      <link>/post/eurodeer/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://mststats.github.io/post/eurodeer/</guid>
+      <guid>/post/eurodeer/</guid>
       <description>Eurodeer is a scientific network for data and knowledge sharing on wild roe deer populations.
 I was honoured to give a keynote talk on Social Network Analysis to a group of conservation biologists and others working in the area of monitoring and researching wild animal movements. People from 33 different research centres and environmental institutes come together once a year to work on projects (&amp;ldquo;pagers&amp;rdquo;) and to establish data sharing mechanisms and write papers.</description>
     </item>
