@@ -11,7 +11,7 @@ title = "Software"
 subtitle = "Software I have written / contributed to for general distribution"
 
 # Order that this section will appear in.
-weight = 3
+weight = 6
 
 +++
 

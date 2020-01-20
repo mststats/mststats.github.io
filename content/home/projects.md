@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = "Browse publications by theme"
 
 # Order that this section will appear in.
-weight = 2
+weight = 3
 
 # Content.
 # Display content from the following folder.
