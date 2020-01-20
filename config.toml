@@ -265,18 +265,18 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "People"
+  url = "#people"
+  weight = 2
+
+[[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "News"
   url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "People"
-  url = "#people"
   weight = 4
 
 [[menu.main]]
