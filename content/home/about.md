@@ -35,10 +35,13 @@ weight = 1
  
 +++
 
-# Biography
+# About
 I am an Assistant Professor of Statistics in University College Dublin since Jan 2017. 
-My official UCD page is <a href="https://people.ucd.ie/michael.salter-townshend">here</a>
-and the icons to the left offer links to some online accounts I use. 
+The icons under my photo offer links to some online accounts I use. 
+
+
+My official university page is here: 
+[![UCD](/img/ucd.svg)](https://people.ucd.ie/michael.salter-townshend) 
 
 My research spans population genetics, network analysis, palaeoclimate reconstruction, and sentiment analysis. 
 See my publications below for more information or browse by topic by clicking projects above. 
