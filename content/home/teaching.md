@@ -15,7 +15,7 @@ weight = 7
 
 +++
 
-I am currently the module coordinator / lecturer for the following courses in UCD:
+I am currently lecturing the following courses in UCD:
 
 - <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT20180" target="_blank">STAT20180</a> Bayesian Analysis level 2
 - <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT40380" target="_blank">STAT40380</a> / 

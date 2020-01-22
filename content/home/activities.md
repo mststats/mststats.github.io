@@ -17,33 +17,34 @@ weight = 8
 
 Professional Activities:
 
-- Director of <a href="https://www.ucd.ie/online/dataanalytics/" target="_blank">Online Programmes</a>, School of Mathematics and Statistics, UCD (2017-).
+- Director of [Online Programmes](https://www.ucd.ie/online/dataanalytics) School of Mathematics and Statistics, UCD (2017-).
+- Committee [Irish Society of Human Genetics](http://irishsocietyofhumangenetics.blogspot.com/) (2018-). 
 - Statistician, Animal Research Ethics Committee, UCD (2017-).
-- Education Officer, <a href="http://www.istat.ie" target="_blank">Irish Statistical Association</a> (2017-).
-- Irish Society of Human Genetics, committee member (2018-). 
-- Organising Committee, Conference of Applied Statistics Ireland (2017).
+- Education Officer, [Irish Statistical Association](http://www.istat.ie) (2017-2019).
+- Organising Committee, [Conference of Applied Statistics Ireland](https://casi.ie/CASI_2017/index.html) (2017).
 
 Refereeing: 
 
-- <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank">Molecular Ecology</a> 
-- <a href="https://www.cambridge.org/core/journals/network-science" target="_blank">Network Science</a> 
-- <a href="http://www.genetics.org/" target="_blank">Genetics</a> (Journal of Genetics Society of America)
-- <a href="https://projecteuclid.org/euclid.aoas" target="_blank">Annals of Applied Statistics</a>
-- <a href="https://link.springer.com/journal/11222" target="_blank">Journal of Statistics and Computing</a>
-- <a href="https://www.springer.com/computer/ai/journal/10994" target="_blank">Machine Learning</a>
-- <a href="https://www.springer.com/computer/image+processing/journal/10044" target="_blank">Pattern Analysis and Applications</a>
-- <a href="https://onlinelibrary.wiley.com/journal/1099095x" target="_blank">Journal of the Environmetrics Society</a>
-- <a href="https://www.computer.org/web/tkde" target="_blank">Transactions on Knowledge and Data Engineering</a>
-- <a href="http://www.ecmlpkdd2018.org/" target="_blank">ECML PKDD</a>
-- <a href="https://nips.cc/Conferences/2014" target="_blank">NIPS (2014)
-- <a href="https://www.aistats.org/" target="_blank">AISTATS (2012,2013)</a>
-- <a href="http://2011.isiproceedings.org/" target="_blank">International Statistical Institute World Congress 2011 </a>
+- [PLoS Computational Biology](https://journals.plos.org/ploscompbiol/)
+- [Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x)
+- [Network Science](https://www.cambridge.org/core/journals/network-science)
+- [Genetics](http://www.genetics.org/) 
+- [Annals of Applied Statistics](https://projecteuclid.org/euclid.aoas)
+- [Journal of Statistics and Computing](https://link.springer.com/journal/11222)
+- [Machine Learning](https://www.springer.com/computer/ai/journal/10994)
+- [Pattern Analysis and Applications](https://www.springer.com/computer/image+processing/journal/10044)
+- [Journal of the Environmetrics Society](https://onlinelibrary.wiley.com/journal/1099095x)
+- [Transactions on Knowledge and Data Engineering](https://www.computer.org/web/tkde)
+- [ECML PKDD](http://www.ecmlpkdd2018.org/)
+- [NeurlIPS (2014)](https://nips.cc/Conferences/2014)
+- [AISTATS (2012,2013)](https://www.aistats.org/)
+- [International Statistical Institute World Congress 2011 ](http://2011.isiproceedings.org/)
 
 Assorted Other: 
 
 - Organiser of DPhil / postdoc seminar series, Dept. of Statistics, University of Oxford (2013-2016).
 - Green Impact committee, Dept. of Statistics, University of Oxford (2013-2016).
 - Interview board for hiring to CeADAR (Centre for Applied Data Analytics Research) (2013).
-- Exam marking for Mathematics, <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>, (2015, 2016).
-- Facilitator of academic taster sessions and application conferences for <a href="https://www.mansfield.ox.ac.uk/" target="_blank">Mansfield College</a> (2015).
-- <a href="http://www.irishsupercomputerlist.org/" target="_blank">Irish Supercomputer List</a> Maintenance Committee (2013-2018).
+- Exam marking for Mathematics, [University of Oxford](http://www.ox.ac.uk/) (2015, 2016).
+- Facilitator of academic taster sessions and application conferences for [Mansfield College](https://www.mansfield.ox.ac.uk/) (2015).
+- Maintenance Committee [Irish Supercomputer List](http://www.irishsupercomputerlist.org/) (2013-2018).
