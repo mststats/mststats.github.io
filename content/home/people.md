@@ -17,15 +17,19 @@ weight = 2
 
 Current PhD Students:
 
-- [Chiara Cotroneo](https://selenocysteine.github.io/), Ph.D. Computational Infection Biology, UCD (2017-2020). Cosupervised with [Denis Shields](http://shieldslab.ucd.ie/people/denis-shields/)
-- [Jinbo Zhao](https://www.insight-centre.org/users/jinbo-zhao), Ph.D. [Insight](https://www.insight-centre.org/) (2017-).
-- Catherine Mahoney, Ph.D. Bioinformatics and Systems Biology, UCD (2019-).
-- Prabhleen Kaur Ph.D. Foundations of Data Science, SFI Centre for Research Training (2019-).
-- James Ward Ph.D. Genomics Data Science, SFI Centre for Research Training (2019-).
+- [Chiara Cotroneo](https://selenocysteine.github.io/) Computational Infection Biology (co-supervisor) 
+- [Jinbo Zhao](https://www.insight-centre.org/users/jinbo-zhao) funded by [Insight](https://www.insight-centre.org/) (primary supervisor)
+- Catherine Mahoney, funded by IRC Enterprise, Bioinformatics and Systems Biology (co-supervisor)
+- Prabhleen Kaur funded by [Foundations of Data Science, SFI Centre for Research Training](https://www.data-science.ie/) (primary supervisor)
+- James Ward funded by [Genomics Data Science, SFI Centre for Research Training](https://genomicsdatascience.ie/) (co-supervisor)
 
-MSc Student Supervision:
+MSc Students Dissertations:
 
-- M.Sc. in Statistics, University College Dublin (2017, 2018, 2019, 2020).
-- M.Sc. in Data and Computational Science, University College Dublin (2018,2019, 2020).
-- M.Sc. in Actuarial Science, University College Dublin (2017).
-- M.Sc. in Applied Statistics, University of Oxford (2014, 2016).
+- M.Sc. in Statistics, University College Dublin (Leticia Herrmann, Nigel Dowler, Pauric McBrien, Leo McMackin, Robert Jones).
+- M.Sc. in Data and Computational Science, University College Dublin (Prashant Pandey, Gaetano Romano, Kartik Sharma, Ashwath Paul Vinodh).
+- M.Sc. in Actuarial Science, University College Dublin (Sarah Larmour).
+- M.Sc. in Applied Statistics, University of Oxford (Dan Mu, Yuewen Tang).
+
+Final Year Undergraduate Dissertations:
+
+- (Laura Walsh, Lorna Ni Shuilleabhain, Joe Kinahan, Eoin Kelly, David Quinlan).
