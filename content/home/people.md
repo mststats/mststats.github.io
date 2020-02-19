@@ -23,13 +23,13 @@ Current PhD Students:
 - Prabhleen Kaur funded by [Foundations of Data Science, SFI Centre for Research Training](https://www.data-science.ie/) (primary supervisor)
 - James Ward funded by [Genomics Data Science, SFI Centre for Research Training](https://genomicsdatascience.ie/) (co-supervisor)
 
-MSc Students Dissertations:
+MSc Students Supervision:
 
-- M.Sc. in Statistics, University College Dublin (Leticia Herrmann, Nigel Dowler, Pauric McBrien, Leo McMackin, Robert Jones).
-- M.Sc. in Data and Computational Science, University College Dublin (Prashant Pandey, Gaetano Romano, Kartik Sharma, Ashwath Paul Vinodh).
-- M.Sc. in Actuarial Science, University College Dublin (Sarah Larmour).
-- M.Sc. in Applied Statistics, University of Oxford (Dan Mu, Yuewen Tang).
+- M.Sc. in Statistics, University College Dublin 
+- M.Sc. in Data and Computational Science, University College Dublin 
+- M.Sc. in Actuarial Science, University College Dublin 
+- M.Sc. in Applied Statistics, University of Oxford 
 
 Final Year Undergraduate Dissertations:
 
-- (Laura Walsh, Lorna Ni Shuilleabhain, Joe Kinahan, Eoin Kelly, David Quinlan).
+- Statistics, University College Dublin
