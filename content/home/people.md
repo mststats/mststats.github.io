@@ -19,8 +19,8 @@ Current PhD Students:
 
 - [Chiara Cotroneo](https://selenocysteine.github.io/) Computational Infection Biology (co-supervisor) 
 - [Jinbo Zhao](https://www.insight-centre.org/users/jinbo-zhao) funded by [Insight](https://www.insight-centre.org/) (primary supervisor)
-- Catherine Mahoney, funded by IRC Enterprise, Bioinformatics and Systems Biology (co-supervisor)
 - [Prabhleen Kaur](https://www.data-science.ie/user/prabhleen+kaur/) funded by [Foundations of Data Science, SFI Centre for Research Training](https://www.data-science.ie/) (primary supervisor)
+- Catherine Mahoney, funded by IRC Enterprise, Bioinformatics and Systems Biology (co-supervisor)
 - James Ward funded by [Genomics Data Science, SFI Centre for Research Training](https://genomicsdatascience.ie/) (co-supervisor)
 
 MSc Students Supervision:
