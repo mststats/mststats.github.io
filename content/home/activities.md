@@ -36,7 +36,7 @@ Refereeing:
 - [Journal of the Environmetrics Society](https://onlinelibrary.wiley.com/journal/1099095x)
 - [Transactions on Knowledge and Data Engineering](https://www.computer.org/web/tkde)
 - [ECML PKDD](http://www.ecmlpkdd2018.org/)
-- [NeurlIPS (2014)](https://nips.cc/Conferences/2014)
+- [NeurIPS (2014)](https://nips.cc/Conferences/2014)
 - [AISTATS (2012,2013)](https://www.aistats.org/)
 - [International Statistical Institute World Congress 2011 ](http://2011.isiproceedings.org/)
 
