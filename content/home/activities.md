@@ -30,6 +30,7 @@ Refereeing:
 - [Network Science](https://www.cambridge.org/core/journals/network-science)
 - [Genetics](http://www.genetics.org/) 
 - [Annals of Applied Statistics](https://projecteuclid.org/euclid.aoas)
+- [Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210X)
 - [Journal of Statistics and Computing](https://link.springer.com/journal/11222)
 - [Machine Learning](https://www.springer.com/computer/ai/journal/10994)
 - [Pattern Analysis and Applications](https://www.springer.com/computer/image+processing/journal/10044)
