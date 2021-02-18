@@ -17,7 +17,7 @@ copyright = "&copy; 2018"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 preserveTaxonomyNames = true
 paginate = 10
 
@@ -240,7 +240,6 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "//scholar.google.co.uk/citations?user=uuxt2JMAAAAJ"
 
-  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/michael-salter-townshend-113a4819/"
