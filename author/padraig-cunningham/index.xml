@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Padraig Cunningham | MST Lab</title>
+    <link>https://mststats.github.io/author/padraig-cunningham/</link>
+      <atom:link href="https://mststats.github.io/author/padraig-cunningham/index.xml" rel="self" type="application/rss+xml" />
+    <description>Padraig Cunningham</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Padraig Cunningham</title>
+      <link>https://mststats.github.io/author/padraig-cunningham/</link>
+    </image>
+    
+    <item>
+      <title>Online Trans-dimensional von Mises-Fisher Mixture Models for User Profiles</title>
+      <link>https://mststats.github.io/publication/online-trans/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/online-trans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Relationship between Membership Turnover and Productivity in Online Communities</title>
+      <link>https://mststats.github.io/publication/icwsm/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/icwsm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caitlin E. Buck | MST Lab</title>
+    <link>https://mststats.github.io/author/caitlin-e.-buck/</link>
+      <atom:link href="https://mststats.github.io/author/caitlin-e.-buck/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caitlin E. Buck</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Sun, 29 Apr 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Caitlin E. Buck</title>
+      <link>https://mststats.github.io/author/caitlin-e.-buck/</link>
+    </image>
+    
+    <item>
+      <title>Statistical challenges in estimating past climate changes</title>
+      <link>https://mststats.github.io/publication/wires/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/wires/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

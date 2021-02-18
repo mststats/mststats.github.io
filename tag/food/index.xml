@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>food | MST Lab</title>
+    <link>https://mststats.github.io/tag/food/</link>
+      <atom:link href="https://mststats.github.io/tag/food/index.xml" rel="self" type="application/rss+xml" />
+    <description>food</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>food</title>
+      <link>https://mststats.github.io/tag/food/</link>
+    </image>
+    
+    <item>
+      <title>Project Website for Beef-Sig</title>
+      <link>https://mststats.github.io/post/beef-sig/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/post/beef-sig/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Signatures of Irish Grass-fed beef.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;From the website:&lt;br&gt;
+BEEF-SIG is a collaborative research project involving University College Dublin (UCD) and
+Teagasc (the Irish Agriculture and Food Development Authority).
+The project is funded by the Irish Department of Agriculture, Food and the Marine and runs for four years from January, 1 st  2019.&lt;/p&gt;
+&lt;p&gt;The project arises in response to the growing reputation of Irish beef internationally. Irish beef is increasingly marketed on the basis of the uniqueness of its grass based production. For example, the U.S. market is interested in beef derived from animals with a &amp;ldquo;More than 80% Grass Diet&amp;rdquo;
+(Bord Bia, 2017). The guarantee to supply beef from animals with a &amp;ldquo;More than 80% Grass Diet&amp;rdquo; is based on mandatory recording by
+producers/farmers of the level and timing of various feed inputs (grass, silage, cereal concentrates, etc) under the Bord Bia Sustainable Beef &amp;amp; Lamb Assurance Scheme (SBLAS) and transmission of this information to meat processors who ultimately make the decision on whether or not the beef is suitable for the U.S. market. BEEF-SIG aims to quantify the feed inputs used on Irish farms by means of novel analytical technologies and consequently assist with the marketing of Irish beef overseas.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

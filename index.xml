@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MST Lab</title>
+    <link>https://mststats.github.io/</link>
+      <atom:link href="https://mststats.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>MST Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>MST Lab</title>
+      <link>https://mststats.github.io/</link>
+    </image>
+    
+    <item>
+      <title>INQUA 2019</title>
+      <link>https://mststats.github.io/post/inqua/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/post/inqua/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;INQUA 2019 is  the congress of the International Union for Quaternary Research.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With Dr. Niamh Cahill and Prof. Andrew Parnell I co-convened a session on
+&lt;a href=&#34;https://app.oxfordabstracts.com/events/574/program-app/session/4680&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian statistical analysis methods for paleoclimate data&lt;/a&gt;.
+This session was very successful in that we had a full room and 6 great talks, along with a poster session. Hopefully we managed to convince
+some of the audience that Bayesian methodology is the way to go for inverse problems such as climate reconstruction with multiple sources
+of uncertainty!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Website for Beef-Sig</title>
+      <link>https://mststats.github.io/post/beef-sig/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/post/beef-sig/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Signatures of Irish Grass-fed beef.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;From the website:&lt;br&gt;
+BEEF-SIG is a collaborative research project involving University College Dublin (UCD) and
+Teagasc (the Irish Agriculture and Food Development Authority).
+The project is funded by the Irish Department of Agriculture, Food and the Marine and runs for four years from January, 1 st  2019.&lt;/p&gt;
+&lt;p&gt;The project arises in response to the growing reputation of Irish beef internationally. Irish beef is increasingly marketed on the basis of the uniqueness of its grass based production. For example, the U.S. market is interested in beef derived from animals with a &amp;ldquo;More than 80% Grass Diet&amp;rdquo;
+(Bord Bia, 2017). The guarantee to supply beef from animals with a &amp;ldquo;More than 80% Grass Diet&amp;rdquo; is based on mandatory recording by
+producers/farmers of the level and timing of various feed inputs (grass, silage, cereal concentrates, etc) under the Bord Bia Sustainable Beef &amp;amp; Lamb Assurance Scheme (SBLAS) and transmission of this information to meat processors who ultimately make the decision on whether or not the beef is suitable for the U.S. market. BEEF-SIG aims to quantify the feed inputs used on Irish farms by means of novel analytical technologies and consequently assist with the marketing of Irish beef overseas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Paper out in GENETICS</title>
+      <link>https://mststats.github.io/post/mosaic/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/post/mosaic/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Admixture is a pervasive and important element of human demographic history.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Our new highlighted paper in the journal &lt;a href=&#34;https://www.genetics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GENETICS&lt;/a&gt; deals with modelling complex human population histories.
+We&amp;rsquo;re particularly interested in something called &amp;ldquo;admixture&amp;rdquo;, which is when two or more previously separated populations
+come together, typically due to migration or the removal of some other barrier ^[e.g. cultural or religious] to
+procreation between the groups. By examining modern genetic samples, we report evidence for such admixture globally and persistently, reflecting the importance of migration
+in shaping modern human populations.&lt;/p&gt;
+&lt;p&gt;Our method, which we term &lt;strong&gt;MOSAIC&lt;/strong&gt;, ^[MOSAIC stands for &amp;ldquo;MOSAIC Organises Segments of Ancestry In Chromosomes&amp;rdquo;]
+allows for the decryption of how such admixture events unfolded; i.e. which groups mixed, in what ratios, and when did this happen? It relies only
+on modern genetic samples to achieve this and crucially does not require assumptions about how these modern samples might relate to the unseen ancient (ad)mixing groups ^[or are descended either directly or indirectly from]. Previous methods exclusively rely on known ^[or assumed known&amp;hellip;] direct correspondence between modern populations and the mixing ancestor groups,
+whereas &lt;strong&gt;MOSAIC&lt;/strong&gt; makes inference on potentially complex patterns of relatedness, based only on the data. This is achieved by fitting a flexible model ^[specifically
+a two-layer (a.k.a. coupled a.k.a. nested) Hidden Markov Model] of &amp;ldquo;haplotype copying&amp;rdquo;; this is essentially a method that ranks how closely related each
+stretch of chromosome in each individual is to the chromosome stretches in individuals from other populations
+^[Such models are often referred to as Li and Stephens models after &lt;a href=&#34;https://www.genetics.org/content/165/4/2213.long&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Li and Stephens 2003&lt;/a&gt;.
+Essentially, this forms the lower layer of our two-layer Hidden Markov Model.].
+Not only does &lt;strong&gt;MOSAIC&lt;/strong&gt; infer how and when admixture arose
+within a population, but it attributes &amp;ldquo;local ancestry&amp;rdquo; to every part of every chromosome for each individual in the dataset.&lt;/p&gt;
+&lt;p&gt;We analyse 95 modern populations using this new approach and identify previously unknown admixture events.
+Highlight findings include the discovery of a complex 4-way admixture in San-Khomani individuals
+from South Africa. We also show that Eastern European populations possess between 1% and 3% ancestry from a group resembling modern-day central Asians.
+In addition the method identifies evidence of recent natural selection favouring sub-Saharan ancestry at the &amp;ldquo;HLA&amp;rdquo; region, ^[The &lt;strong&gt;H&lt;/strong&gt;uman &lt;strong&gt;L&lt;/strong&gt;eukocyte &lt;strong&gt;A&lt;/strong&gt;ntigen is a gene complex that includes many proteins responsible for regulation of the immune system and are therefore a region of the genome upon which natural selection is believed to act]
+across North African individuals.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Read the new &lt;a href=&#34;https://doi.org/10.1534/genetics.119.302139&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper here&lt;/a&gt; for full details.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;See &lt;a href=&#34;https://maths.ucd.ie/~mst/MOSAIC/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The MOSAIC Project Website&lt;/a&gt; for an interactive results browser, manual, and source code.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bullet-point-summary&#34;&gt;Bullet Point Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;By examining modern genetic samples from around the world, we can demonstrate that observed &amp;ldquo;populations&amp;rdquo; are really a mixture of
+older populations.&lt;/li&gt;
+&lt;li&gt;Such mixing events occur globally and throughout history and can be complex, and sudden or ongoing.&lt;/li&gt;
+&lt;li&gt;We have developed a new tool that can probe such events back in time using the patterns left on modern DNA samples by such events.&lt;/li&gt;
+&lt;li&gt;The key contribution is that we do not require specification of surrogate &amp;ldquo;reference populations&amp;rdquo; for the mixing ancestral groups.&lt;/li&gt;
+&lt;li&gt;More accurate characterisation of admixture than previously possible is demonstrated in a variety of situations.&lt;/li&gt;
+&lt;li&gt;We identify previously unknown admixture events including a complex 4-way admixture in San-Khomani individuals from Southern Africa.&lt;/li&gt;
+&lt;li&gt;We show that Eastern European populations possess 1% to 3% ancestry from a group resembling modern-day central Asians.&lt;/li&gt;
+&lt;li&gt;We identify evidence of recent natural selection favouring sub-Saharan ancestry at the HLA region, across North African individuals.&lt;/li&gt;
+&lt;li&gt;Results for all 95 analysed populations are viewable through a browser at &lt;a href=&#34;https://maths.ucd.ie/~mst/MOSAIC/HGDP_browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maths.ucd.ie/~mst/MOSAIC/HGDP_browser)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;additional-detail&#34;&gt;Additional Detail&lt;/h2&gt;
+&lt;p&gt;All populations are admixed when you look at the right time depth and compare to the right mixing sources. In other words, admixture
+is pervasive and&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;there&amp;rsquo;s no such thing as a &amp;ldquo;pure&amp;rdquo; European - or anyone else
+(&lt;a href=&#34;https://www.sciencemag.org/news/2017/05/theres-no-such-thing-pure-european-or-anyone-else&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gibbons, 2016&lt;/a&gt;).^[Nor has there ever been; ancient DNA shows that much older populations were no exception (&lt;a href=&#34;https://www.nature.com/articles/s41559-019-0878-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeong et al, 2019&lt;/a&gt;).]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When a population is isolated ^[even partially isolated] from other populations random genetic differences between them accrue; the longer the separation, the more &amp;ldquo;drifted&amp;rdquo; these populations become from each other. Eventually, given enough such differences, we can statistically tell one group from another
+and assign (albeit noisily) an individual to a population based on which mutations they might carry. Such &amp;ldquo;population structure&amp;rdquo;
+has been shown to &lt;a href=&#34;https://doi.org/10.1038/nature07331&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mirror geography&lt;/a&gt; for example.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been shown before that admixture (the coming together of previously separated populations) is a feature of many
+human populations (&lt;a href=&#34;http://dx.doi.org/10.1126/science.1243518&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hellenthal et al, 2014&lt;/a&gt;). Through sophisticated statistical procedures, heavily informed by known
+biology, ^[The process of chromosomal recombination means that individuals inherit shorter segments from each ancestral
+source with each passing generation since the admixture event.]
+the demographic history can be inferred by careful examination of the telltale patterns of shared
+genetic variation within and between such populations.&lt;/p&gt;
+&lt;p&gt;This is possible because
+the distribution of these ancestral segments (were they known) would enable us to estimate when the event(s) took
+place and what proportion of each source was involved. Although we don&amp;rsquo;t get to directly observe the ancestry of these segments,
+we can accurately infer them when we have &amp;ldquo;reference&amp;rdquo; populations to compare to ^[something called &lt;a href=&#34;http://paintmychromosomes.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;chromosome painting&amp;rdquo;&lt;/a&gt;].
+For such a direct approach to work, these reference populations need to be good surrogates for the (ad)mixing groups. However, since we use modern populations, they&amp;rsquo;ll typically
+be drifted somewhat themselves ^[with respect to the mixing groups] and perhaps even admixed with other populations, hence not direct surrogates. This has formed a central challenge in fitting
+admixture models and motivates the need for our new approach.&lt;/p&gt;
+&lt;p&gt;Our new tool, &lt;strong&gt;MOSAIC&lt;/strong&gt;, is novel in that we replace knowledge of these direct surrogates with a more flexible model. The model
+not only allows for more complex relationships between observed surrogates and the unseen mixing ancestral groups, but it doesn&amp;rsquo;t require prior
+knowledge of these relationships. Rather, we let the data do the talking and make estimates of &amp;ldquo;copying probabilities&amp;rdquo; that can adapt to the
+observed complexity as required ^[MOSAIC also finds estimates of the level of drift between the observed modern populations and the mixing ancestral groups].
+This also allows us to use more reference populations; whereas an admixed population would be unsuitable for use by a tool that assumes
+reference populations are direct surrogates for mixing groups, ^[as they will be heavily confounded by this]
+MOSAIC not only allows this but it can boost the power of the method. ^[compared to leaving such a reference population out of the analysis. In fact MOSAIC can return accurate local ancestry estimates
+and thus accurate admixture summaries when one or more ancestries has no good direct surrogates among the reference populations.
+For example, when it is only observed in admixed form, which is particularly common when looking at older admixture events.]
+MOSAIC is shown to yield more accurate results than previously possible and can be applied to any sexually reproducing species.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eurodeer XI</title>
+      <link>https://mststats.github.io/post/eurodeer/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/post/eurodeer/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Eurodeer is a scientific network for data and knowledge sharing on wild roe deer populations.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I was honoured to give a keynote talk on Social Network Analysis to a group of conservation biologists and
+others working in the area of monitoring and researching wild animal movements. People from 33 different
+research centres and environmental institutes come together once a year to work on projects (&amp;ldquo;pagers&amp;rdquo;)
+and to establish data sharing mechanisms and write papers. There is an appetite to do more social network
+analysis, which is where I fit in. In the first instance I will collaborate on a single paper analysing
+deer movement patterns and social network behaviours in reaction to the establishment of feeding stations.
+Telemetry and other data will be collated from a range of terrain, climate, and vegetation scenarios.
+The aim of the project is to apply Social Network Analysis techniques to ascertain how human
+provided feeding stations influence the movements and social interactions of wild deer and to
+summarise, compare, and contrast the datasets from different collection sites. Approaches may
+include network visualisations, stochastic blockmodelling, role analysis, latent space models, and
+more. Results will allow researchers to predict how and why feeding stations effect wild deer
+populations and ultimately inform conservation efforts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fine-scale Inference of Ancestry Segments without Prior Knowledge of Admixing Groups</title>
+      <link>https://mststats.github.io/publication/mosaic/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/mosaic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview on Newstalk</title>
+      <link>https://mststats.github.io/post/coincidences/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/post/coincidences/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Coincidences do happen.
+But what do they mean to us and just what are the chances?
+In this special feature episode, we find out&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This was fun to take part in! Futureproof is a science programme on &lt;a href=&#34;https://www.newstalk.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Newstalk&lt;/a&gt;
+hosted by &lt;a href=&#34;https://twitter.com/jonathan_mccrea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@jonathan_mccrea&lt;/a&gt;. A special issue on Chance and Coincidence
+was recorded with input from Prof. Brian Hughes (&lt;a href=&#34;https://twitter.com/b_m_hughes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@b_m_hughes&lt;/a&gt; (Professor of Psychology at the National University of Ireland, Galway ) and I.&lt;/p&gt;
+&lt;p&gt;Brian explained why we seek out patterns and how this can lead us to apply meaning where there is none.
+I then attempted some rough calculations to estimate the odds of some coincidence stories sent in by listeners.
+Naturally, the marginal odds of any sequence of events is astronomical when you include exact timings and other extraneous details
+so I approached it by simplifying until I had a version of each story that&amp;rsquo;s not worth telling. Once I have this no-coincidence
+version I calculate the odds of the parts that make the story worth telling. Sometimes these parts are independent, sometimes there&amp;rsquo;s
+an order to the conditioning. In any case, I naturally had to use some very rough guessing or use of proxy figures in order to
+get a set of odds. Hopefully it was entertaining, or illuminating, or perhaps even both!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Listen to the &lt;a href=&#34;https://www.newstalk.com/podcasts/futureproof-with-jonathan-mccrea/chances&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;podcast&lt;/a&gt; and judge for yourself.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SFI CRTs - PhD positions available</title>
+      <link>https://mststats.github.io/post/crts/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/post/crts/</guid>
+      <description>&lt;p&gt;I am a named supervisor in two new &lt;strong&gt;Centre&amp;rsquo;s for Research Training&lt;/strong&gt; funded by &lt;strong&gt;Science Foundation Ireland&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://data-science.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Foundations in Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://genomicsdatascience.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These offer the fantastic opportunity to enter a fully funded PhD programme with a large cohort of other PhD candidates.
+Use the links to apply!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical challenges in estimating past climate changes</title>
+      <link>https://mststats.github.io/publication/wires/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/wires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Space Models for Multiview Network Data</title>
+      <link>https://mststats.github.io/publication/multiview/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/multiview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Trans-dimensional von Mises-Fisher Mixture Models for User Profiles</title>
+      <link>https://mststats.github.io/publication/online-trans/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/online-trans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of network structures of Wikipedia discussion pages on the efficiency of WikiProjects</title>
+      <link>https://mststats.github.io/publication/wiki-edit/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/wiki-edit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role analysis in networks using mixtures of exponential random graph models</title>
+      <link>https://mststats.github.io/publication/ego-ergm/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/ego-ergm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making a Case for an Irish500 List</title>
+      <link>https://mststats.github.io/publication/irish500/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/irish500/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference for palaeoclimate with time uncertainty and stochastic volatility</title>
+      <link>https://mststats.github.io/publication/bpr-time/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/bpr-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixtures of biased sentiment analysers</title>
+      <link>https://mststats.github.io/publication/mix-bias/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/mix-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Relationship between Membership Turnover and Productivity in Online Communities</title>
+      <link>https://mststats.github.io/publication/icwsm/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/icwsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis of Online Media</title>
+      <link>https://mststats.github.io/publication/sent-online-media/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/sent-online-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Bayesian Inference for the Latent Position Cluster Model for network data</title>
+      <link>https://mststats.github.io/publication/vblpcm/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/vblpcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast inversion of a flexible regression model for multivariate pollen counts data</title>
+      <link>https://mststats.github.io/publication/fast-inversion/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/fast-inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing my Facebook friends</title>
+      <link>https://mststats.github.io/publication/signif/</link>
+      <pubDate>Sat, 08 Sep 2012 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/signif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of statistical network analysis: models, algorithms, and software</title>
+      <link>https://mststats.github.io/publication/sna-review/</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/sna-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A latent space mapping for link prediction</title>
+      <link>https://mststats.github.io/publication/nips-pred/</link>
+      <pubDate>Sat, 11 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/nips-pred/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Bayesian inference for the latent position cluster model</title>
+      <link>https://mststats.github.io/publication/nips-vari/</link>
+      <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/nips-vari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling temporal uncertainty in palaeoclimate reconstructions</title>
+      <link>https://mststats.github.io/publication/iwsm-temp/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/iwsm-temp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling zero inflation of compositional data</title>
+      <link>https://mststats.github.io/publication/iwsm/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/iwsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian palaeoclimate reconstruction</title>
+      <link>https://mststats.github.io/publication/bpr/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/publication/bpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous Projects</title>
+      <link>https://mststats.github.io/project/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/project/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Analysis</title>
+      <link>https://mststats.github.io/project/sna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/project/sna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palaeoclimate Reconstruction</title>
+      <link>https://mststats.github.io/project/bpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/project/bpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Genetics</title>
+      <link>https://mststats.github.io/project/statgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/project/statgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text / Topics / Sentiment</title>
+      <link>https://mststats.github.io/project/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/project/text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
