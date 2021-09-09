@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statgen | MST Lab</title>
+    <link>https://mststats.github.io/tag/statgen/</link>
+      <atom:link href="https://mststats.github.io/tag/statgen/index.xml" rel="self" type="application/rss+xml" />
+    <description>statgen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>statgen</title>
+      <link>https://mststats.github.io/tag/statgen/</link>
+    </image>
+    
+    <item>
+      <title>Preprint on Computational modelling of Chromosomally Clustering Protein Domains In Bacteria</title>
+      <link>https://mststats.github.io/post/chr-clust/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0100</pubDate>
+      <guid>https://mststats.github.io/post/chr-clust/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New &lt;a href=&#34;https://twitter.com/hashtag/preprint?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#preprint&lt;/a&gt; on finding gene clusters occurring across bacterial strains with &lt;a href=&#34;https://twitter.com/selenocysteina?ref_src=twsrc%5Etfw&#34;&gt;@selenocysteina&lt;/a&gt; &lt;a href=&#34;https://twitter.com/denshields?ref_src=twsrc%5Etfw&#34;&gt;@denshields&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/icgormley?ref_src=twsrc%5Etfw&#34;&gt;@icgormley&lt;/a&gt; &lt;a href=&#34;https://t.co/nvfiDNKkFP&#34;&gt;https://t.co/nvfiDNKkFP&lt;/a&gt;&lt;/p&gt;&amp;mdash; M. Salter-Townshend (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1435894587386744833?ref_src=twsrc%5Etfw&#34;&gt;September 9, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
