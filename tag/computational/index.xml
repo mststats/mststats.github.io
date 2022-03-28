@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Statistical Genetics</title>
+      <link>https://mststats.github.io/project/statgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/project/statgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Network Analysis</title>
       <link>https://mststats.github.io/project/sna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,14 +33,6 @@
       <link>https://mststats.github.io/project/bpr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/project/bpr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Genetics</title>
-      <link>https://mststats.github.io/project/statgen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/project/statgen/</guid>
       <description></description>
     </item>
     

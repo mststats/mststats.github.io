@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Statistical Genetics</title>
+      <link>https://mststats.github.io/project/statgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/project/statgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New Paper out in GENETICS</title>
       <link>https://mststats.github.io/post/mosaic/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0100</pubDate>
@@ -94,14 +102,6 @@ and thus accurate admixture summaries when one or more ancestries has no good di
 For example, when it is only observed in admixed form, which is particularly common when looking at older admixture events.]
 MOSAIC is shown to yield more accurate results than previously possible and can be applied to any sexually reproducing species.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Statistical Genetics</title>
-      <link>https://mststats.github.io/project/statgen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/project/statgen/</guid>
-      <description></description>
     </item>
     
   </channel>
