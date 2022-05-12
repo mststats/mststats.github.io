@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>topics | MST Lab</title>
+    <title>topics | Home</title>
     <link>https://mststats.github.io/tag/topics/</link>
       <atom:link href="https://mststats.github.io/tag/topics/index.xml" rel="self" type="application/rss+xml" />
     <description>topics</description>
