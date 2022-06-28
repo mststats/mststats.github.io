@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://mststats.github.io/tag/genetics/</loc>
+    <lastmod>2022-06-28T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mststats.github.io/</loc>
     <lastmod>2022-06-28T10:00:00+01:00</lastmod>
   </url>
@@ -34,6 +39,11 @@
   
   <url>
     <loc>https://mststats.github.io/post/</loc>
+    <lastmod>2022-06-28T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mststats.github.io/tag/publications/</loc>
     <lastmod>2022-06-28T10:00:00+01:00</lastmod>
   </url>
   
@@ -213,17 +223,7 @@
   </url>
   
   <url>
-    <loc>https://mststats.github.io/tag/genetics/</loc>
-    <lastmod>2019-06-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mststats.github.io/post/mosaic/</loc>
-    <lastmod>2019-06-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mststats.github.io/tag/publications/</loc>
     <lastmod>2019-06-25T00:00:00+01:00</lastmod>
   </url>
   
