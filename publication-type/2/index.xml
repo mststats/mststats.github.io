@@ -5,9 +5,9 @@
     <link>https://mststats.github.io/publication-type/2/</link>
       <atom:link href="https://mststats.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://mststats.github.io/publication-type/2/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Genome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (Bos taurus/indicus)</title>
       <link>https://mststats.github.io/publication/cattle_nmt/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/cattle_nmt/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Static and dynamic methods in social network analysis reveal the association patterns of desert-dwelling giraffe</title>
       <link>https://mststats.github.io/publication/giraffesna/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/giraffesna/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Fine-scale Inference of Ancestry Segments without Prior Knowledge of Admixing Groups</title>
       <link>https://mststats.github.io/publication/mosaic/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/mosaic/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Statistical challenges in estimating past climate changes</title>
       <link>https://mststats.github.io/publication/wires/</link>
-      <pubDate>Sun, 29 Apr 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/wires/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>The influence of network structures of Wikipedia discussion pages on the efficiency of WikiProjects</title>
       <link>https://mststats.github.io/publication/wiki-edit/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/wiki-edit/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>Role analysis in networks using mixtures of exponential random graph models</title>
       <link>https://mststats.github.io/publication/ego-ergm/</link>
-      <pubDate>Fri, 03 Apr 2015 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/ego-ergm/</guid>
       <description></description>
     </item>
@@ -119,7 +119,7 @@
     <item>
       <title>Review of statistical network analysis: models, algorithms, and software</title>
       <link>https://mststats.github.io/publication/sna-review/</link>
-      <pubDate>Thu, 03 May 2012 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/sna-review/</guid>
       <description></description>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>Bayesian palaeoclimate reconstruction</title>
       <link>https://mststats.github.io/publication/bpr/</link>
-      <pubDate>Sat, 01 Jul 2006 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/bpr/</guid>
       <description></description>
     </item>

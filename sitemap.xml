@@ -1,598 +1,354 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://mststats.github.io/project/statgen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/project/sna/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/project/bpr/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/project/text/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/project/other/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/</loc>
-    <lastmod>2022-08-03T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-03T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/post/gsna/</loc>
-    <lastmod>2022-08-03T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-03T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/post/</loc>
-    <lastmod>2022-08-03T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-03T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/publications/</loc>
-    <lastmod>2022-08-03T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-03T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/sna/</loc>
-    <lastmod>2022-08-03T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-03T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tags/</loc>
-    <lastmod>2022-08-03T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-03T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/genetics/</loc>
-    <lastmod>2022-06-28T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-28T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/post/cattle/</loc>
-    <lastmod>2022-06-28T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-28T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/statgen/</loc>
-    <lastmod>2022-06-28T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-28T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication-type/2/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/authors/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/daniel-g-bradley/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/david-e-machugh/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/cattle_nmt/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/gillian-p-mchugo/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/james-a-ward/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/laurent-af-frantz/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/michael-j-dover/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/michael-salter-townshend/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication_types/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/said-i-nganga/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/tad-s-sonstegard/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/thomas-j-hall/</loc>
-    <lastmod>2022-06-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/emma-e-hart/</loc>
-    <lastmod>2022-04-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/emma-wells/</loc>
-    <lastmod>2022-04-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/julian-fennessy/</loc>
-    <lastmod>2022-04-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/leticia-herrmann/</loc>
-    <lastmod>2022-04-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/simone-ciuti/</loc>
-    <lastmod>2022-04-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/giraffesna/</loc>
-    <lastmod>2022-04-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/chiara-e-cotroneo/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication/chr-clust/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/denis-c-shields/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/isobel-claire-gormley/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/post/chr-clust/</loc>
-    <lastmod>2021-09-09T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-09-09T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/awards/</loc>
-    <lastmod>2021-09-09T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/teaching/</loc>
-    <lastmod>2021-09-09T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/post/teaching-award/</loc>
-    <lastmod>2021-09-09T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/post/inqua/</loc>
-    <lastmod>2019-07-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/palaeoclimate/</loc>
-    <lastmod>2019-07-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/talks/</loc>
-    <lastmod>2019-07-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/food/</loc>
-    <lastmod>2019-07-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/post/beef-sig/</loc>
-    <lastmod>2019-07-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/post/mosaic/</loc>
-    <lastmod>2019-06-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/post/eurodeer/</loc>
-    <lastmod>2019-06-20T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/social-networks/</loc>
-    <lastmod>2019-06-20T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication-type/1/</loc>
-    <lastmod>2019-05-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/mosaic/</loc>
-    <lastmod>2019-05-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/emgm_2019/</loc>
-    <lastmod>2019-05-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/simon-r.-myers/</loc>
-    <lastmod>2019-05-30T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/post/coincidences/</loc>
-    <lastmod>2019-05-18T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/media/</loc>
-    <lastmod>2019-05-18T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/hiring/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/post/crts/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/andrew-c.-parnell/</loc>
-    <lastmod>2018-04-29T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/caitlin-e.-buck/</loc>
-    <lastmod>2018-04-29T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/james-sweeney/</loc>
-    <lastmod>2018-04-29T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/wires/</loc>
-    <lastmod>2018-04-29T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/tamsin-edwards/</loc>
-    <lastmod>2018-04-29T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/multiview/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/tyler-h.-mccormick/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication/online-trans/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/padraig-cunningham/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/xiangju-qin/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/m.-salter-townshend/</loc>
-    <lastmod>2015-10-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/p.-cunningham/</loc>
-    <lastmod>2015-10-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/wiki-edit/</loc>
-    <lastmod>2015-10-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/x.-qin/</loc>
-    <lastmod>2015-10-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/ego-ergm/</loc>
-    <lastmod>2015-04-03T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-04-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/thomas-brendan-murphy/</loc>
-    <lastmod>2015-04-03T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-04-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/brett-a-becker/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/john-regan/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/kevin-casey/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication/irish500/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/andrew-c-parnell/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication/bpr-time/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/brian-huntley/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/john-haslett/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/judy-rm-allen/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/michael-saltertownshend/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/thinh-k-doan/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication/mix-bias/</loc>
     <lastmod>2014-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication/icwsm/</loc>
     <lastmod>2014-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication-type/6/</loc>
-    <lastmod>2013-07-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/sent-online-media/</loc>
-    <lastmod>2013-07-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/vblpcm/</loc>
     <lastmod>2012-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication/fast-inversion/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication-type/0/</loc>
-    <lastmod>2012-09-08T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2012-09-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/signif/</loc>
-    <lastmod>2012-09-08T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2012-09-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/arthur-white/</loc>
-    <lastmod>2012-05-03T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2012-05-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/isabella-gollini/</loc>
-    <lastmod>2012-05-03T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2012-05-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/sna-review/</loc>
-    <lastmod>2012-05-03T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2012-05-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/nips-pred/</loc>
     <lastmod>2010-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/anthony-brew/</loc>
     <lastmod>2010-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/publication/nips-vari/</loc>
     <lastmod>2009-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/andrew-parnell/</loc>
-    <lastmod>2006-08-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2006-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/michael-salter-townsend/</loc>
-    <lastmod>2006-08-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2006-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/iwsm-temp/</loc>
-    <lastmod>2006-08-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2006-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/iwsm/</loc>
-    <lastmod>2006-08-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2006-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/publication/bpr/</loc>
-    <lastmod>2006-07-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/fjg-mitchell/</loc>
-    <lastmod>2006-07-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/jrm-allen/</loc>
-    <lastmod>2006-07-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/matt-whiley/</loc>
-    <lastmod>2006-07-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/simon-p-wilson/</loc>
-    <lastmod>2006-07-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/author/sourabh-bhattacharya/</loc>
-    <lastmod>2006-07-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mststats.github.io/tag/bayesian/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/tag/computational/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/tag/machine-learning/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/author/michael-salter-townshend/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/tag/networks/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/tag/other/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/tag/palaeo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/project/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/tag/sentiment/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/tag/text/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mststats.github.io/tag/topics/</loc>
   </url>
-  
 </urlset>

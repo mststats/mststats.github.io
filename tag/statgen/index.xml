@@ -5,9 +5,9 @@
     <link>https://mststats.github.io/tag/statgen/</link>
       <atom:link href="https://mststats.github.io/tag/statgen/index.xml" rel="self" type="application/rss+xml" />
     <description>statgen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>statgen</title>
       <link>https://mststats.github.io/tag/statgen/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Paper out in iScience showing evidence for mitonuclear coevolution in hybrid African cattle</title>
       <link>https://mststats.github.io/post/cattle/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/post/cattle/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.jamesaward.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James A. Ward&lt;/a&gt;,
 &lt;a href=&#34;https://gillianmchugo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gillian P. McHugo&lt;/a&gt;,
@@ -25,8 +25,9 @@
 &lt;a href=&#34;https://recombinetics.com/our-team/tad-sonstegard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tad S. Sonstegard&lt;/a&gt;,
 &lt;a href=&#34;https://www.tcd.ie/Genetics/molpopgen/dan.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel G. Bradley&lt;/a&gt;,
 &lt;a href=&#34;https://twitter.com/LrFrantz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent A.F. Frantz&lt;/a&gt;,
+&lt;a href=&#34;https://mststats.github.io/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;,
 &lt;a href=&#34;https://people.ucd.ie/david.machugh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David E. MacHugh&lt;/a&gt;
-and I have written a paper on &lt;strong&gt;Genome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (Bos taurus/indicus)&lt;/strong&gt;.&lt;/p&gt;
+have written a paper on &lt;strong&gt;Genome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (Bos taurus/indicus)&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;re delighted to say that this has now been accepted for publication in &lt;a href=&#34;https://www.cell.com/iscience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iScience&lt;/a&gt;. See &lt;a href=&#34;https://doi.org/10.1016/j.isci.2022.104672&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the doi link here&lt;/a&gt;
 and click the tweet below to see a brief explainer thread.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Very excited to see this paper appear! We found increased taurine ancestry in nuclear genes that interact with mtDNA-encoded proteins in African admixed cattle breeds &lt;a href=&#34;https://twitter.com/UCD_Research?ref_src=twsrc%5Etfw&#34;&gt;@UCD_Research&lt;/a&gt; &lt;a href=&#34;https://twitter.com/UCDMathStat?ref_src=twsrc%5Etfw&#34;&gt;@UCDMathStat&lt;/a&gt; &lt;a href=&#34;https://t.co/lUhsFZqRq6&#34;&gt;https://t.co/lUhsFZqRq6&lt;/a&gt;&lt;/p&gt;&amp;mdash; M. Salter-Townshend (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1541440380545241089?ref_src=twsrc%5Etfw&#34;&gt;June 27, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -34,9 +35,9 @@ and click the tweet below to see a brief explainer thread.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Preprint on Computational modelling of Chromosomally Clustering Protein Domains In Bacteria</title>
+      <title>Paper on Computational modelling of Chromosomally Clustering Protein Domains In Bacteria</title>
       <link>https://mststats.github.io/post/chr-clust/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/post/chr-clust/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://shieldslab.ucd.ie/people/chiara-cotroneo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chiara Controneo&lt;/a&gt;, &lt;a href=&#34;http://shieldslab.ucd.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Denis Shields&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/view/clairegormley/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claire Gormley&lt;/a&gt;, and I have written a paper on
 &lt;strong&gt;Computational modelling of Chromosomally Clustering Protein Domains In Bacteria&lt;/strong&gt;.&lt;/p&gt;
