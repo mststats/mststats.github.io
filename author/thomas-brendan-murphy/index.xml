@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Brendan Murphy | Home</title>
-    <link>https://mststats.github.io/author/thomas-brendan-murphy/</link>
-      <atom:link href="https://mststats.github.io/author/thomas-brendan-murphy/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/thomas-brendan-murphy/</link>
+      <atom:link href="/author/thomas-brendan-murphy/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Brendan Murphy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Fri, 03 Apr 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Thomas Brendan Murphy</title>
-      <link>https://mststats.github.io/author/thomas-brendan-murphy/</link>
+      <link>/author/thomas-brendan-murphy/</link>
     </image>
     
     <item>
       <title>Role analysis in networks using mixtures of exponential random graph models</title>
-      <link>https://mststats.github.io/publication/ego-ergm/</link>
+      <link>/publication/ego-ergm/</link>
       <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/ego-ergm/</guid>
+      <guid>/publication/ego-ergm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixtures of biased sentiment analysers</title>
-      <link>https://mststats.github.io/publication/mix-bias/</link>
+      <link>/publication/mix-bias/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/mix-bias/</guid>
+      <guid>/publication/mix-bias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis of Online Media</title>
-      <link>https://mststats.github.io/publication/sent-online-media/</link>
+      <link>/publication/sent-online-media/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/sent-online-media/</guid>
+      <guid>/publication/sent-online-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Bayesian Inference for the Latent Position Cluster Model for network data</title>
-      <link>https://mststats.github.io/publication/vblpcm/</link>
+      <link>/publication/vblpcm/</link>
       <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/vblpcm/</guid>
+      <guid>/publication/vblpcm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of statistical network analysis: models, algorithms, and software</title>
-      <link>https://mststats.github.io/publication/sna-review/</link>
+      <link>/publication/sna-review/</link>
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/sna-review/</guid>
+      <guid>/publication/sna-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Bayesian inference for the latent position cluster model</title>
-      <link>https://mststats.github.io/publication/nips-vari/</link>
+      <link>/publication/nips-vari/</link>
       <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/nips-vari/</guid>
+      <guid>/publication/nips-vari/</guid>
       <description></description>
     </item>
     

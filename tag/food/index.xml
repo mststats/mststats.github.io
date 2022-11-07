@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>food | Home</title>
-    <link>https://mststats.github.io/tag/food/</link>
-      <atom:link href="https://mststats.github.io/tag/food/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/food/</link>
+      <atom:link href="/tag/food/index.xml" rel="self" type="application/rss+xml" />
     <description>food</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>food</title>
-      <link>https://mststats.github.io/tag/food/</link>
+      <link>/tag/food/</link>
     </image>
     
     <item>
       <title>Project Website for Beef-Sig</title>
-      <link>https://mststats.github.io/post/beef-sig/</link>
+      <link>/post/beef-sig/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/beef-sig/</guid>
+      <guid>/post/beef-sig/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Signatures of Irish Grass-fed beef.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;From the website: &lt;br&gt;
 BEEF-SIG is a collaborative research project involving University College Dublin (UCD) and

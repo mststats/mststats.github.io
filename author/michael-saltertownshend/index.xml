@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Salter‐Townshend | Home</title>
-    <link>https://mststats.github.io/author/michael-saltertownshend/</link>
-      <atom:link href="https://mststats.github.io/author/michael-saltertownshend/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/michael-saltertownshend/</link>
+      <atom:link href="/author/michael-saltertownshend/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Salter‐Townshend</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Michael Salter‐Townshend</title>
-      <link>https://mststats.github.io/author/michael-saltertownshend/</link>
+      <link>/author/michael-saltertownshend/</link>
     </image>
     
     <item>
       <title>Bayesian inference for palaeoclimate with time uncertainty and stochastic volatility</title>
-      <link>https://mststats.github.io/publication/bpr-time/</link>
+      <link>/publication/bpr-time/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/bpr-time/</guid>
+      <guid>/publication/bpr-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast inversion of a flexible regression model for multivariate pollen counts data</title>
-      <link>https://mststats.github.io/publication/fast-inversion/</link>
+      <link>/publication/fast-inversion/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/fast-inversion/</guid>
+      <guid>/publication/fast-inversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of statistical network analysis: models, algorithms, and software</title>
-      <link>https://mststats.github.io/publication/sna-review/</link>
+      <link>/publication/sna-review/</link>
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/sna-review/</guid>
+      <guid>/publication/sna-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian palaeoclimate reconstruction</title>
-      <link>https://mststats.github.io/publication/bpr/</link>
+      <link>/publication/bpr/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/bpr/</guid>
+      <guid>/publication/bpr/</guid>
       <description></description>
     </item>
     

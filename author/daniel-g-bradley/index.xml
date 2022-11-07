@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel G Bradley | Home</title>
-    <link>https://mststats.github.io/author/daniel-g-bradley/</link>
-      <atom:link href="https://mststats.github.io/author/daniel-g-bradley/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/daniel-g-bradley/</link>
+      <atom:link href="/author/daniel-g-bradley/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel G Bradley</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Daniel G Bradley</title>
-      <link>https://mststats.github.io/author/daniel-g-bradley/</link>
+      <link>/author/daniel-g-bradley/</link>
     </image>
     
     <item>
       <title>Genome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (Bos taurus/indicus)</title>
-      <link>https://mststats.github.io/publication/cattle_nmt/</link>
+      <link>/publication/cattle_nmt/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/cattle_nmt/</guid>
+      <guid>/publication/cattle_nmt/</guid>
       <description></description>
     </item>
     

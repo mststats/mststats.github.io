@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Home</title>
-    <link>https://mststats.github.io/post/</link>
-      <atom:link href="https://mststats.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://mststats.github.io/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
       <title>Paper published in Behavioral Ecology and Sociobiology volume on social networks of desert-dwelling giraffes</title>
-      <link>https://mststats.github.io/post/gsna/</link>
+      <link>/post/gsna/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/gsna/</guid>
+      <guid>/post/gsna/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/scientific-contributions/Emma-E-Hart-2176499576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma E. Hart&lt;/a&gt;,
 &lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;,
 &lt;a href=&#34;https://www.linkedin.com/in/leticiaherrmann/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leticia Herrmann&lt;/a&gt;,
 &lt;a href=&#34;https://giraffeconservation.org/our-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julian Fennessy&lt;/a&gt;,
 &lt;a href=&#34;https://www.linkedin.com/in/emma-wells-54453330/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma Wells&lt;/a&gt;,
-&lt;a href=&#34;https://mststats.github.io/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
+&lt;a href=&#34;/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
 have published a paper in &lt;a href=&#34;https://link.springer.com/journal/265&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Behavioral Ecology and Sociobiology&lt;/a&gt; on
 &lt;strong&gt;Static and dynamic methods in social network analysis reveal the association patterns of desert-dwelling giraffe&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
@@ -32,9 +32,9 @@ have published a paper in &lt;a href=&#34;https://link.springer.com/journal/265&
     
     <item>
       <title>Paper out in iScience showing evidence for mitonuclear coevolution in hybrid African cattle</title>
-      <link>https://mststats.github.io/post/cattle/</link>
+      <link>/post/cattle/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/cattle/</guid>
+      <guid>/post/cattle/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.jamesaward.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James A. Ward&lt;/a&gt;,
 &lt;a href=&#34;https://gillianmchugo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gillian P. McHugo&lt;/a&gt;,
 &lt;a href=&#34;https://twitter.com/michael_j_dover&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael J. Dover&lt;/a&gt;,
@@ -43,7 +43,7 @@ have published a paper in &lt;a href=&#34;https://link.springer.com/journal/265&
 &lt;a href=&#34;https://recombinetics.com/our-team/tad-sonstegard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tad S. Sonstegard&lt;/a&gt;,
 &lt;a href=&#34;https://www.tcd.ie/Genetics/molpopgen/dan.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel G. Bradley&lt;/a&gt;,
 &lt;a href=&#34;https://twitter.com/LrFrantz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent A.F. Frantz&lt;/a&gt;,
-&lt;a href=&#34;https://mststats.github.io/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;,
+&lt;a href=&#34;/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;,
 &lt;a href=&#34;https://people.ucd.ie/david.machugh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David E. MacHugh&lt;/a&gt;
 have written a paper on &lt;strong&gt;Genome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (Bos taurus/indicus)&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;re delighted to say that this has now been accepted for publication in &lt;a href=&#34;https://www.cell.com/iscience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iScience&lt;/a&gt;. See &lt;a href=&#34;https://doi.org/10.1016/j.isci.2022.104672&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the doi link here&lt;/a&gt;
@@ -54,9 +54,9 @@ and click the tweet below to see a brief explainer thread.&lt;/p&gt;
     
     <item>
       <title>Paper on Computational modelling of Chromosomally Clustering Protein Domains In Bacteria</title>
-      <link>https://mststats.github.io/post/chr-clust/</link>
+      <link>/post/chr-clust/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/chr-clust/</guid>
+      <guid>/post/chr-clust/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://shieldslab.ucd.ie/people/chiara-cotroneo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chiara Controneo&lt;/a&gt;, &lt;a href=&#34;http://shieldslab.ucd.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Denis Shields&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/view/clairegormley/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claire Gormley&lt;/a&gt;, and I have written a paper on
 &lt;strong&gt;Computational modelling of Chromosomally Clustering Protein Domains In Bacteria&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
@@ -67,18 +67,18 @@ and click the tweet below to see a brief explainer thread.&lt;/p&gt;
     
     <item>
       <title>Teaching Excellence Award 2021</title>
-      <link>https://mststats.github.io/post/teaching-award/</link>
+      <link>/post/teaching-award/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/teaching-award/</guid>
+      <guid>/post/teaching-award/</guid>
       <description>&lt;p&gt;In a virtual ceremony in the College of Science Council Meeting in March 2021, I was presented with a Teaching Excellence Award to recognise the variety of techniques to engage and motivate students I use, the continuous revision and development of the curriculum, and my engagement with the Widening Participation programme in UCD.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>INQUA 2019</title>
-      <link>https://mststats.github.io/post/inqua/</link>
+      <link>/post/inqua/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/inqua/</guid>
+      <guid>/post/inqua/</guid>
       <description>&lt;p&gt;&lt;strong&gt;INQUA 2019 is  the congress of the International Union for Quaternary Research.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;With Dr. Niamh Cahill and Prof. Andrew Parnell I co-convened a session on
 &lt;a href=&#34;https://app.oxfordabstracts.com/events/574/program-app/session/4680&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian statistical analysis methods for paleoclimate data&lt;/a&gt;.
@@ -90,9 +90,9 @@ of uncertainty!&lt;/p&gt;
     
     <item>
       <title>Project Website for Beef-Sig</title>
-      <link>https://mststats.github.io/post/beef-sig/</link>
+      <link>/post/beef-sig/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/beef-sig/</guid>
+      <guid>/post/beef-sig/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Signatures of Irish Grass-fed beef.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;From the website: &lt;br&gt;
 BEEF-SIG is a collaborative research project involving University College Dublin (UCD) and
@@ -106,9 +106,9 @@ producers/farmers of the level and timing of various feed inputs (grass, silage,
     
     <item>
       <title>New Paper out in GENETICS</title>
-      <link>https://mststats.github.io/post/mosaic/</link>
+      <link>/post/mosaic/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/mosaic/</guid>
+      <guid>/post/mosaic/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Admixture is a pervasive and important element of human demographic history.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Our new highlighted paper in the journal &lt;a href=&#34;https://www.genetics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GENETICS&lt;/a&gt; deals with modelling complex human population histories.
@@ -190,9 +190,9 @@ MOSAIC is shown to yield more accurate results than previously possible and can 
     
     <item>
       <title>Eurodeer XI</title>
-      <link>https://mststats.github.io/post/eurodeer/</link>
+      <link>/post/eurodeer/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/eurodeer/</guid>
+      <guid>/post/eurodeer/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Eurodeer is a scientific network for data and knowledge sharing on wild roe deer populations.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I was honoured to give a keynote talk on Social Network Analysis to a group of conservation biologists and
 others working in the area of monitoring and researching wild animal movements. People from 33 different
@@ -212,9 +212,9 @@ populations and ultimately inform conservation efforts.&lt;/p&gt;
     
     <item>
       <title>Interview on Newstalk</title>
-      <link>https://mststats.github.io/post/coincidences/</link>
+      <link>/post/coincidences/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/coincidences/</guid>
+      <guid>/post/coincidences/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Coincidences do happen.
 But what do they mean to us and just what are the chances?
 In this special feature episode, we find out&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
@@ -236,9 +236,9 @@ get a set of odds. Hopefully it was entertaining, or illuminating, or perhaps ev
     
     <item>
       <title>SFI CRTs - PhD positions available</title>
-      <link>https://mststats.github.io/post/crts/</link>
+      <link>/post/crts/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/crts/</guid>
+      <guid>/post/crts/</guid>
       <description>&lt;p&gt;I am a named supervisor in two new &lt;strong&gt;Centre&amp;rsquo;s for Research Training&lt;/strong&gt; funded by &lt;strong&gt;Science Foundation Ireland&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://data-science.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Foundations in Data Science&lt;/a&gt;&lt;/li&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>social networks | Home</title>
-    <link>https://mststats.github.io/tag/social-networks/</link>
-      <atom:link href="https://mststats.github.io/tag/social-networks/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/social-networks/</link>
+      <atom:link href="/tag/social-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>social networks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>social networks</title>
-      <link>https://mststats.github.io/tag/social-networks/</link>
+      <link>/tag/social-networks/</link>
     </image>
     
     <item>
       <title>Eurodeer XI</title>
-      <link>https://mststats.github.io/post/eurodeer/</link>
+      <link>/post/eurodeer/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/post/eurodeer/</guid>
+      <guid>/post/eurodeer/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Eurodeer is a scientific network for data and knowledge sharing on wild roe deer populations.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I was honoured to give a keynote talk on Social Network Analysis to a group of conservation biologists and
 others working in the area of monitoring and researching wild animal movements. People from 33 different

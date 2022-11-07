@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JRM Allen | Home</title>
-    <link>https://mststats.github.io/author/jrm-allen/</link>
-      <atom:link href="https://mststats.github.io/author/jrm-allen/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/jrm-allen/</link>
+      <atom:link href="/author/jrm-allen/index.xml" rel="self" type="application/rss+xml" />
     <description>JRM Allen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Sat, 01 Jul 2006 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>JRM Allen</title>
-      <link>https://mststats.github.io/author/jrm-allen/</link>
+      <link>/author/jrm-allen/</link>
     </image>
     
     <item>
       <title>Bayesian palaeoclimate reconstruction</title>
-      <link>https://mststats.github.io/publication/bpr/</link>
+      <link>/publication/bpr/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/bpr/</guid>
+      <guid>/publication/bpr/</guid>
       <description></description>
     </item>
     

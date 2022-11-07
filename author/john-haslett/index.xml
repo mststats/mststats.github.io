@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Haslett | Home</title>
-    <link>https://mststats.github.io/author/john-haslett/</link>
-      <atom:link href="https://mststats.github.io/author/john-haslett/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/john-haslett/</link>
+      <atom:link href="/author/john-haslett/index.xml" rel="self" type="application/rss+xml" />
     <description>John Haslett</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>John Haslett</title>
-      <link>https://mststats.github.io/author/john-haslett/</link>
+      <link>/author/john-haslett/</link>
     </image>
     
     <item>
       <title>Bayesian inference for palaeoclimate with time uncertainty and stochastic volatility</title>
-      <link>https://mststats.github.io/publication/bpr-time/</link>
+      <link>/publication/bpr-time/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/bpr-time/</guid>
+      <guid>/publication/bpr-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast inversion of a flexible regression model for multivariate pollen counts data</title>
-      <link>https://mststats.github.io/publication/fast-inversion/</link>
+      <link>/publication/fast-inversion/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/fast-inversion/</guid>
+      <guid>/publication/fast-inversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling temporal uncertainty in palaeoclimate reconstructions</title>
-      <link>https://mststats.github.io/publication/iwsm-temp/</link>
+      <link>/publication/iwsm-temp/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/iwsm-temp/</guid>
+      <guid>/publication/iwsm-temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling zero inflation of compositional data</title>
-      <link>https://mststats.github.io/publication/iwsm/</link>
+      <link>/publication/iwsm/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/iwsm/</guid>
+      <guid>/publication/iwsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian palaeoclimate reconstruction</title>
-      <link>https://mststats.github.io/publication/bpr/</link>
+      <link>/publication/bpr/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/bpr/</guid>
+      <guid>/publication/bpr/</guid>
       <description></description>
     </item>
     
