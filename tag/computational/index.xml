@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>computational | Home</title>
-    <link>/tag/computational/</link>
-      <atom:link href="/tag/computational/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mststats.github.io/tag/computational/</link>
+      <atom:link href="https://mststats.github.io/tag/computational/index.xml" rel="self" type="application/rss+xml" />
     <description>computational</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>computational</title>
-      <link>/tag/computational/</link>
+      <link>https://mststats.github.io/tag/computational/</link>
     </image>
     
     <item>
       <title>Statistical Genetics</title>
-      <link>/project/statgen/</link>
+      <link>https://mststats.github.io/project/statgen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/statgen/</guid>
+      <guid>https://mststats.github.io/project/statgen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Analysis</title>
-      <link>/project/sna/</link>
+      <link>https://mststats.github.io/project/sna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/sna/</guid>
+      <guid>https://mststats.github.io/project/sna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palaeoclimate Reconstruction</title>
-      <link>/project/bpr/</link>
+      <link>https://mststats.github.io/project/bpr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/bpr/</guid>
+      <guid>https://mststats.github.io/project/bpr/</guid>
       <description></description>
     </item>
     

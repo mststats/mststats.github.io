@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sna | Home</title>
-    <link>/tag/sna/</link>
-      <atom:link href="/tag/sna/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mststats.github.io/tag/sna/</link>
+      <atom:link href="https://mststats.github.io/tag/sna/index.xml" rel="self" type="application/rss+xml" />
     <description>sna</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>sna</title>
-      <link>/tag/sna/</link>
+      <link>https://mststats.github.io/tag/sna/</link>
     </image>
     
     <item>
       <title>Paper published in Behavioral Ecology and Sociobiology volume on social networks of desert-dwelling giraffes</title>
-      <link>/post/gsna/</link>
+      <link>https://mststats.github.io/post/gsna/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/post/gsna/</guid>
+      <guid>https://mststats.github.io/post/gsna/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/scientific-contributions/Emma-E-Hart-2176499576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma E. Hart&lt;/a&gt;,
 &lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;,
 &lt;a href=&#34;https://www.linkedin.com/in/leticiaherrmann/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leticia Herrmann&lt;/a&gt;,
 &lt;a href=&#34;https://giraffeconservation.org/our-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julian Fennessy&lt;/a&gt;,
 &lt;a href=&#34;https://www.linkedin.com/in/emma-wells-54453330/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma Wells&lt;/a&gt;,
-&lt;a href=&#34;/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
+&lt;a href=&#34;https://mststats.github.io/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
 have published a paper in &lt;a href=&#34;https://link.springer.com/journal/265&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Behavioral Ecology and Sociobiology&lt;/a&gt; on
 &lt;strong&gt;Static and dynamic methods in social network analysis reveal the association patterns of desert-dwelling giraffe&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;

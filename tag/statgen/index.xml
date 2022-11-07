@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>statgen | Home</title>
-    <link>/tag/statgen/</link>
-      <atom:link href="/tag/statgen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mststats.github.io/tag/statgen/</link>
+      <atom:link href="https://mststats.github.io/tag/statgen/index.xml" rel="self" type="application/rss+xml" />
     <description>statgen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>statgen</title>
-      <link>/tag/statgen/</link>
+      <link>https://mststats.github.io/tag/statgen/</link>
     </image>
     
     <item>
       <title>Paper out in iScience showing evidence for mitonuclear coevolution in hybrid African cattle</title>
-      <link>/post/cattle/</link>
+      <link>https://mststats.github.io/post/cattle/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/cattle/</guid>
+      <guid>https://mststats.github.io/post/cattle/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.jamesaward.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James A. Ward&lt;/a&gt;,
 &lt;a href=&#34;https://gillianmchugo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gillian P. McHugo&lt;/a&gt;,
 &lt;a href=&#34;https://twitter.com/michael_j_dover&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael J. Dover&lt;/a&gt;,
@@ -25,7 +25,7 @@
 &lt;a href=&#34;https://recombinetics.com/our-team/tad-sonstegard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tad S. Sonstegard&lt;/a&gt;,
 &lt;a href=&#34;https://www.tcd.ie/Genetics/molpopgen/dan.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel G. Bradley&lt;/a&gt;,
 &lt;a href=&#34;https://twitter.com/LrFrantz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent A.F. Frantz&lt;/a&gt;,
-&lt;a href=&#34;/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;,
+&lt;a href=&#34;https://mststats.github.io/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;,
 &lt;a href=&#34;https://people.ucd.ie/david.machugh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David E. MacHugh&lt;/a&gt;
 have written a paper on &lt;strong&gt;Genome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (Bos taurus/indicus)&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;re delighted to say that this has now been accepted for publication in &lt;a href=&#34;https://www.cell.com/iscience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iScience&lt;/a&gt;. See &lt;a href=&#34;https://doi.org/10.1016/j.isci.2022.104672&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the doi link here&lt;/a&gt;
@@ -36,9 +36,9 @@ and click the tweet below to see a brief explainer thread.&lt;/p&gt;
     
     <item>
       <title>Paper on Computational modelling of Chromosomally Clustering Protein Domains In Bacteria</title>
-      <link>/post/chr-clust/</link>
+      <link>https://mststats.github.io/post/chr-clust/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/post/chr-clust/</guid>
+      <guid>https://mststats.github.io/post/chr-clust/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://shieldslab.ucd.ie/people/chiara-cotroneo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chiara Controneo&lt;/a&gt;, &lt;a href=&#34;http://shieldslab.ucd.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Denis Shields&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/view/clairegormley/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claire Gormley&lt;/a&gt;, and I have written a paper on
 &lt;strong&gt;Computational modelling of Chromosomally Clustering Protein Domains In Bacteria&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;

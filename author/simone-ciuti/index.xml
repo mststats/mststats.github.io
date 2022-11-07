@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simone Ciuti | Home</title>
-    <link>/author/simone-ciuti/</link>
-      <atom:link href="/author/simone-ciuti/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mststats.github.io/author/simone-ciuti/</link>
+      <atom:link href="https://mststats.github.io/author/simone-ciuti/index.xml" rel="self" type="application/rss+xml" />
     <description>Simone Ciuti</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Simone Ciuti</title>
-      <link>/author/simone-ciuti/</link>
+      <link>https://mststats.github.io/author/simone-ciuti/</link>
     </image>
     
     <item>
       <title>Static and dynamic methods in social network analysis reveal the association patterns of desert-dwelling giraffe</title>
-      <link>/publication/giraffesna/</link>
+      <link>https://mststats.github.io/publication/giraffesna/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/giraffesna/</guid>
+      <guid>https://mststats.github.io/publication/giraffesna/</guid>
       <description></description>
     </item>
     

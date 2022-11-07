@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>topics | Home</title>
-    <link>/tag/topics/</link>
-      <atom:link href="/tag/topics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mststats.github.io/tag/topics/</link>
+      <atom:link href="https://mststats.github.io/tag/topics/index.xml" rel="self" type="application/rss+xml" />
     <description>topics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>topics</title>
-      <link>/tag/topics/</link>
+      <link>https://mststats.github.io/tag/topics/</link>
     </image>
     
     <item>
       <title>Text / Topics / Sentiment</title>
-      <link>/project/text/</link>
+      <link>https://mststats.github.io/project/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/text/</guid>
+      <guid>https://mststats.github.io/project/text/</guid>
       <description></description>
     </item>
     

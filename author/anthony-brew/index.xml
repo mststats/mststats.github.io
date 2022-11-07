@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anthony Brew | Home</title>
-    <link>/author/anthony-brew/</link>
-      <atom:link href="/author/anthony-brew/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mststats.github.io/author/anthony-brew/</link>
+      <atom:link href="https://mststats.github.io/author/anthony-brew/index.xml" rel="self" type="application/rss+xml" />
     <description>Anthony Brew</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Sat, 11 Dec 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Anthony Brew</title>
-      <link>/author/anthony-brew/</link>
+      <link>https://mststats.github.io/author/anthony-brew/</link>
     </image>
     
     <item>
       <title>A latent space mapping for link prediction</title>
-      <link>/publication/nips-pred/</link>
+      <link>https://mststats.github.io/publication/nips-pred/</link>
       <pubDate>Sat, 11 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/nips-pred/</guid>
+      <guid>https://mststats.github.io/publication/nips-pred/</guid>
       <description></description>
     </item>
     

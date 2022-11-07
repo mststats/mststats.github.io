@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Home</title>
-    <link>/publication-type/1/</link>
-      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mststats.github.io/publication-type/1/</link>
+      <atom:link href="https://mststats.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>/publication-type/1/</link>
+      <link>https://mststats.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>Local Ancestry Inference in Non-Model Organisms</title>
-      <link>/publication/emgm_2019/</link>
+      <link>https://mststats.github.io/publication/emgm_2019/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/emgm_2019/</guid>
+      <guid>https://mststats.github.io/publication/emgm_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Making a Case for an Irish500 List</title>
-      <link>/publication/irish500/</link>
+      <link>https://mststats.github.io/publication/irish500/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/irish500/</guid>
+      <guid>https://mststats.github.io/publication/irish500/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Relationship between Membership Turnover and Productivity in Online Communities</title>
-      <link>/publication/icwsm/</link>
+      <link>https://mststats.github.io/publication/icwsm/</link>
       <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/icwsm/</guid>
+      <guid>https://mststats.github.io/publication/icwsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A latent space mapping for link prediction</title>
-      <link>/publication/nips-pred/</link>
+      <link>https://mststats.github.io/publication/nips-pred/</link>
       <pubDate>Sat, 11 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/nips-pred/</guid>
+      <guid>https://mststats.github.io/publication/nips-pred/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Bayesian inference for the latent position cluster model</title>
-      <link>/publication/nips-vari/</link>
+      <link>https://mststats.github.io/publication/nips-vari/</link>
       <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/nips-vari/</guid>
+      <guid>https://mststats.github.io/publication/nips-vari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling temporal uncertainty in palaeoclimate reconstructions</title>
-      <link>/publication/iwsm-temp/</link>
+      <link>https://mststats.github.io/publication/iwsm-temp/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/iwsm-temp/</guid>
+      <guid>https://mststats.github.io/publication/iwsm-temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling zero inflation of compositional data</title>
-      <link>/publication/iwsm/</link>
+      <link>https://mststats.github.io/publication/iwsm/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/iwsm/</guid>
+      <guid>https://mststats.github.io/publication/iwsm/</guid>
       <description></description>
     </item>
     

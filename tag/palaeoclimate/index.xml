@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>palaeoclimate | Home</title>
-    <link>/tag/palaeoclimate/</link>
-      <atom:link href="/tag/palaeoclimate/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mststats.github.io/tag/palaeoclimate/</link>
+      <atom:link href="https://mststats.github.io/tag/palaeoclimate/index.xml" rel="self" type="application/rss+xml" />
     <description>palaeoclimate</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>palaeoclimate</title>
-      <link>/tag/palaeoclimate/</link>
+      <link>https://mststats.github.io/tag/palaeoclimate/</link>
     </image>
     
     <item>
       <title>INQUA 2019</title>
-      <link>/post/inqua/</link>
+      <link>https://mststats.github.io/post/inqua/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/inqua/</guid>
+      <guid>https://mststats.github.io/post/inqua/</guid>
       <description>&lt;p&gt;&lt;strong&gt;INQUA 2019 is  the congress of the International Union for Quaternary Research.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;With Dr. Niamh Cahill and Prof. Andrew Parnell I co-convened a session on
 &lt;a href=&#34;https://app.oxfordabstracts.com/events/574/program-app/session/4680&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian statistical analysis methods for paleoclimate data&lt;/a&gt;.

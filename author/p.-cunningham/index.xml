@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P. Cunningham | Home</title>
-    <link>/author/p.-cunningham/</link>
-      <atom:link href="/author/p.-cunningham/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mststats.github.io/author/p.-cunningham/</link>
+      <atom:link href="https://mststats.github.io/author/p.-cunningham/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Cunningham</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>P. Cunningham</title>
-      <link>/author/p.-cunningham/</link>
+      <link>https://mststats.github.io/author/p.-cunningham/</link>
     </image>
     
     <item>
       <title>The influence of network structures of Wikipedia discussion pages on the efficiency of WikiProjects</title>
-      <link>/publication/wiki-edit/</link>
+      <link>https://mststats.github.io/publication/wiki-edit/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/wiki-edit/</guid>
+      <guid>https://mststats.github.io/publication/wiki-edit/</guid>
       <description></description>
     </item>
     
