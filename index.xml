@@ -5,7 +5,7 @@
     <link>https://mststats.github.io/</link>
       <atom:link href="https://mststats.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Home</title>
@@ -50,6 +50,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/project/other/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>New preprint on Assessing bias and robustness of social network metrics using GPS based radio-telemetry data</title>
+      <link>https://mststats.github.io/post/anisna/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/post/anisna/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/prabhleen-kaur-963b8a197/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prabhleen Kaur&lt;/a&gt;,
+&lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;,
+&lt;a href=&#34;https://mststats.github.io/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
+and coauthors have published a preprint on
+&lt;strong&gt;Assessing bias and robustness of social network metrics using GPS based radio-telemetry data&lt;/strong&gt;.
+We hope that the animal ecology community agree that this can serve as a useful resource in designing studies that seek to answer questions
+on the structure of animal communities characterised using social networks. We use real datasets on five species of ungulates in differing environmental
+settings to see how robust social network summaries are to downsampling. Typically, researchers can only tag a sample of the individuals in a population and
+inferences about social structure are inferred from these. Knowing how reliable different estimates are at various sample sizes is a crucial consideration,
+made even more complex by factors such as overall population size, autocorrelation of observations, etc. We not only answer some of these questions, but provide a
+step-by-step methodology for analysis and software to perform each of the steps.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Excited to see our work out as a preprint &lt;a href=&#34;https://twitter.com/PrabhleenKaur93?ref_src=twsrc%5Etfw&#34;&gt;@PrabhleenKaur93&lt;/a&gt; &lt;a href=&#34;https://twitter.com/UCD_Wildlife?ref_src=twsrc%5Etfw&#34;&gt;@UCD_Wildlife&lt;/a&gt; &lt;br&gt;&amp;quot;Assessing bias and robustness of social network metrics using GPS based radio-telemetry data&amp;quot; &lt;a href=&#34;https://t.co/3P4AEEp6F2&#34;&gt;https://t.co/3P4AEEp6F2&lt;/a&gt;&lt;/p&gt;&amp;mdash; @mststats@mastodon.social (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1642902956105236481?ref_src=twsrc%5Etfw&#34;&gt;April 3, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
     </item>
     
     <item>
