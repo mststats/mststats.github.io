@@ -5,12 +5,35 @@
     <link>https://mststats.github.io/tag/publications/</link>
       <atom:link href="https://mststats.github.io/tag/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>publications</title>
       <link>https://mststats.github.io/tag/publications/</link>
     </image>
+    
+    <item>
+      <title>New paper: A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance</title>
+      <link>https://mststats.github.io/post/multifac/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/post/multifac/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.insight-centre.org/users/jinbo-zhao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jinbo Zhao&lt;/a&gt;,
+&lt;a href=&#34;https://mststats.github.io/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;,
+&lt;a href=&#34;https://people.ucd.ie/adrian.ohagan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrian O&amp;rsquo;Hagan&lt;/a&gt;
+have published a European Actuarial Journal article on
+&lt;strong&gt;A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance&lt;/strong&gt;.
+With advances in genetic research, the understanding of the genetic structure of disease and the ability to predict disease risk have been enhanced. Polygenic risk scores (PRS)
+have been developed to assess a person’s risk of developing any heritable disease. PRS has two primary utilities that make it particularly relevant for insurers: the ability to
+identify high-risk groups when using PRS independently or in combination with standard risk factors; and the ability to inform early interventions that may alter future
+morbidity and mortality. Using heart disease as a case study, a simulation-based model is designed that introduces polygenic risk scoring into the actuarial analysis framework
+and then quantifies the adverse selection due to information asymmetry introduced by PRS. Individual and parental disease liability as well as PRS were simulated under a
+liability threshold model. A series of validations were conducted to confirm the utility of our simulated data sets. We explored three scenarios describing how insurance
+applicants use their PRS results to guide their insurance purchasing decisions and calculated the increased premiums that insurers would need to change to counteract this.
+The accuracy of PRS has the most significant impact on premiums and the proportion of individuals who know their PRS also has a substantial impact.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;In a new paper with &lt;a href=&#34;https://twitter.com/JinboZhao?ref_src=twsrc%5Etfw&#34;&gt;@JinboZhao&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/DrAOHaganUCD?ref_src=twsrc%5Etfw&#34;&gt;@DrAOHaganUCD&lt;/a&gt; published in the European Actuarial Journal, we explore how advances in Polygenic Risk Scores may impact critical illness insurance &lt;a href=&#34;https://t.co/9pGhoKhWUL&#34;&gt;https://t.co/9pGhoKhWUL&lt;/a&gt;&lt;/p&gt;&amp;mdash; @mststats@mastodon.social (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1646879968708665344?ref_src=twsrc%5Etfw&#34;&gt;April 14, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
     
     <item>
       <title>New preprint on Assessing bias and robustness of social network metrics using GPS based radio-telemetry data</title>
