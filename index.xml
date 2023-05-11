@@ -5,7 +5,7 @@
     <link>https://mststats.github.io/</link>
       <atom:link href="https://mststats.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Home</title>
@@ -50,6 +50,41 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/project/other/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Curbing zoonotic disease spread in multi-host-species systems will require integrating novel data streams and analytical approaches: evidence from a scoping review of bovine tuberculosis</title>
+      <link>https://mststats.github.io/publication/btb/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/btb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New preprint: Curbing zoonotic disease spread in multi-host-species systems will require integrating novel data streams and analytical approaches: evidence from a scoping review of bovine tuberculosis</title>
+      <link>https://mststats.github.io/post/btb/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/post/btb/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.data-science.ie/user/kimberlyconteddu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kimberly Conteddu&lt;/a&gt;,
+&lt;a href=&#34;https://orcid.org/0000-0002-8854-6707&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Holly M. English&lt;/a&gt;,
+&lt;a href=&#34;https://www.researchgate.net/profile/Andrew-Byrne-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew W. Byrne&lt;/a&gt;,
+&lt;a href=&#34;https://scholar.google.com/citations?user=Q2xguAoAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bawan Amin&lt;/a&gt;,
+&lt;a href=&#34;https://twitter.com/lauraelgriffin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura L. Griffin&lt;/a&gt;,
+&lt;a href=&#34;https://www.linkedin.com/in/prabhleen-kaur-963b8a197/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prabhleen Kaur&lt;/a&gt;,
+&lt;a href=&#34;https://ecoevo.social/@virginiamp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virginia Morera-Pujol&lt;/a&gt;,
+&lt;a href=&#34;https://www.researchgate.net/profile/Kilian-Murphy-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kilian J. Murphy&lt;/a&gt;,
+&lt;a href=&#34;https://mststats.github.io/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;,
+&lt;a href=&#34;https://www.researchgate.net/profile/Adam-Smith-152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adam Francis Smith&lt;/a&gt;,
+&lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;
+have posted a preprint to bioRxiv on
+&lt;strong&gt;Curbing zoonotic disease spread in multi-host-species systems will require integrating novel data streams and analytical approaches: evidence from a scoping review of bovine tuberculosis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background&lt;/em&gt;: Zoonotic diseases represent a significant societal challenge in terms of their health and economic impacts. One Health approaches to managing zoonotic diseases are becoming more prevalent, but require novel thinking, tools and cross-disciplinary collaboration. Bovine tuberculosis (bTB) is one example of a costly One Health challenge with a complex epidemiology involving human, domestic animal, wildlife and environmental factors, which require sophisticated collaborative approaches.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective&lt;/em&gt;: We undertook a scoping review of multi-host bTB epidemiology to identify recent trends in species publication focus, methodologies, scales and One Health approaches. We aimed to identify research gaps where novel research could provide insights to inform control policy, for bTB and other zoonoses.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;: The review included 167 articles. We found different levels of research attention across episystems, with a significant proportion of the literature focusing on the badger-cattle-TB episystem, with far less attention given to the multi-host episystems of southern Africa. We found a limited number of studies focusing on management solutions and their efficacy, with very few studies looking at modelling exit strategies. Surprisingly, only a small number of studies looked at the effect of human disturbances on the spread of bTB involving wildlife hosts. Most of the studies we reviewed focused on the effect of badger vaccination and culling on bTB dynamics with few looking at how roads, human perturbations and habitat change may affect wildlife movement and disease spread. Finally, we observed a lack of studies considering the effect of weather variables on bTB spread, which is particularly relevant when studying zoonoses under climate change scenarios.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;: Significant technological and methodological advances have been applied to bTB episystems, providing explicit insights into its spread and maintenance across populations. We identified a prominent bias towards certain species and locations. Generating more high-quality empirical data on wildlife host distribution and abundance, high-resolution individual behaviours and greater use of mathematical models and simulations are key areas for future research. Integrating data sources across disciplines, and a &amp;ldquo;virtuous cycle&amp;rdquo; of well-designed empirical data collection linked with mathematical and simulation modelling could provide additional gains for policy-makers and managers, enabling optimised bTB management with broader insights for other zoonoses.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;Curbing zoonotic disease spread in multi-host-species systems will require integrating novel data streams and analytical approaches: evidence from a scoping review of bovine tuberculosis&amp;quot; &lt;a href=&#34;https://t.co/hZrK7MU8Em&#34;&gt;https://t.co/hZrK7MU8Em&lt;/a&gt;&lt;/p&gt;&amp;mdash; @mststats@mastodon.social (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1656614626711199746?ref_src=twsrc%5Etfw&#34;&gt;May 11, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
     </item>
     
     <item>
