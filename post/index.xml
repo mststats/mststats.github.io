@@ -5,12 +5,26 @@
     <link>https://mststats.github.io/post/</link>
       <atom:link href="https://mststats.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://mststats.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Jinbo&#39;s PhD viva</title>
+      <link>https://mststats.github.io/post/jz_viva/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/post/jz_viva/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Congratulations to Jinbo Zhao on passing her viva-voce examination yesterday!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jinbo successfully defended her thesis to external examiner Peter Joshi and internal examiner Prof. Thomas Brendan Murphy.
+She passed with only some minor corrections! Well done to Jinbo!&lt;/p&gt;
+&lt;p&gt;Thanks to Dr Adrian O&amp;rsquo;Hagan for cosupervising Jinbo throughout her PhD.&lt;/p&gt;
+&lt;p&gt;Thanks also to Dr. Isabella Gollini for chairing the exam.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mststats.github.io/media/img/JZ_celebrate.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New preprint: Curbing zoonotic disease spread in multi-host-species systems will require integrating novel data streams and analytical approaches: evidence from a scoping review of bovine tuberculosis</title>
