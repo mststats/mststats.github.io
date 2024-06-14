@@ -5,7 +5,7 @@
     <link>https://mststats.github.io/author/michael-salter-townshend/</link>
       <atom:link href="https://mststats.github.io/author/michael-salter-townshend/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Salter-Townshend</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Michael Salter-Townshend</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Genomic insights into the population history and adaptive traits of Latin American Criollo cattle.</title>
+      <title>A scoping review on bovine tuberculosis highlights the need for novel data streams and analytical approaches to curb zoonotic diseases</title>
+      <link>https://mststats.github.io/publication/btb/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/btb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic insights into the population history and adaptive traits of Latin American Criollo cattle</title>
       <link>https://mststats.github.io/publication/criollo/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/criollo/</guid>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>Verifying origin claims on dairy products using stable isotope ratio analysis and random forest classification.</title>
+      <title>Verifying origin claims on dairy products using stable isotope ratio analysis and random forest classification</title>
       <link>https://mststats.github.io/publication/dairy_rfs/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/dairy_rfs/</guid>
@@ -29,15 +37,7 @@
     </item>
     
     <item>
-      <title>Curbing zoonotic disease spread in multi-host-species systems will require integrating novel data streams and analytical approaches: evidence from a scoping review of bovine tuberculosis</title>
-      <link>https://mststats.github.io/publication/btb/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/btb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New paper on A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance.</title>
+      <title>A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance</title>
       <link>https://mststats.github.io/publication/multifac/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/multifac/</guid>
@@ -45,7 +45,7 @@
     </item>
     
     <item>
-      <title>Assessing bias and robustness of social network metrics using GPS based radio-telemetry data.</title>
+      <title>Assessing bias and robustness of social network metrics using GPS based radio-telemetry data</title>
       <link>https://mststats.github.io/publication/anisna/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/anisna/</guid>
