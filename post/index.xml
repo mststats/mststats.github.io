@@ -5,12 +5,28 @@
     <link>https://mststats.github.io/post/</link>
       <atom:link href="https://mststats.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://mststats.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New paper: How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort</title>
+      <link>https://mststats.github.io/post/groupstructure/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/post/groupstructure/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/jinbozhao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jinbo Zhao&lt;/a&gt;,
+&lt;a href=&#34;https://people.ucd.ie/adrian.ohagan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrian O&amp;rsquo;Hagan&lt;/a&gt;,
+&lt;a href=&#34;https://mststats.github.io/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
+have published a GENETICS article on
+&lt;strong&gt;How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This paper was selected by GENETICS as a July Feature article.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Delighted to announce that this has been chosen as a Feature for the July issue of GENETICS! &lt;a href=&#34;https://twitter.com/GeneticsGSA?ref_src=twsrc%5Etfw&#34;&gt;@GeneticsGSA&lt;/a&gt; &lt;a href=&#34;https://t.co/iEAmdgCggi&#34;&gt;https://t.co/iEAmdgCggi&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Salter-Townshend (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1810303147975283101?ref_src=twsrc%5Etfw&#34;&gt;July 8, 2024&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
     
     <item>
       <title>Jinbo&#39;s PhD viva</title>
@@ -44,6 +60,7 @@ She passed with only some minor corrections! Well done to Jinbo!&lt;/p&gt;
 &lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;
 have posted a preprint to bioRxiv on
 &lt;strong&gt;Curbing zoonotic disease spread in multi-host-species systems will require integrating novel data streams and analytical approaches: evidence from a scoping review of bovine tuberculosis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE: This is now published in Veterinary Research at &lt;a href=&#34;https://doi.org/10.1186/s13567-024-01314-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1186/s13567-024-01314-w&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Background&lt;/em&gt;: Zoonotic diseases represent a significant societal challenge in terms of their health and economic impacts. One Health approaches to managing zoonotic diseases are becoming more prevalent, but require novel thinking, tools and cross-disciplinary collaboration. Bovine tuberculosis (bTB) is one example of a costly One Health challenge with a complex epidemiology involving human, domestic animal, wildlife and environmental factors, which require sophisticated collaborative approaches.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Objective&lt;/em&gt;: We undertook a scoping review of multi-host bTB epidemiology to identify recent trends in species publication focus, methodologies, scales and One Health approaches. We aimed to identify research gaps where novel research could provide insights to inform control policy, for bTB and other zoonoses.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Results&lt;/em&gt;: The review included 167 articles. We found different levels of research attention across episystems, with a significant proportion of the literature focusing on the badger-cattle-TB episystem, with far less attention given to the multi-host episystems of southern Africa. We found a limited number of studies focusing on management solutions and their efficacy, with very few studies looking at modelling exit strategies. Surprisingly, only a small number of studies looked at the effect of human disturbances on the spread of bTB involving wildlife hosts. Most of the studies we reviewed focused on the effect of badger vaccination and culling on bTB dynamics with few looking at how roads, human perturbations and habitat change may affect wildlife movement and disease spread. Finally, we observed a lack of studies considering the effect of weather variables on bTB spread, which is particularly relevant when studying zoonoses under climate change scenarios.&lt;/p&gt;
