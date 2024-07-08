@@ -5,7 +5,7 @@
     <link>https://mststats.github.io/author/jinbo-zhao/</link>
       <atom:link href="https://mststats.github.io/author/jinbo-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinbo Zhao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Jinbo Zhao</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>New paper on A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance.</title>
+      <title>How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort</title>
+      <link>https://mststats.github.io/publication/groupstruct/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/publication/groupstruct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance</title>
       <link>https://mststats.github.io/publication/multifac/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/publication/multifac/</guid>
