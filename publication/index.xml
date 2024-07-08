@@ -13,6 +13,7 @@
     </image>
     
     <item>
+<<<<<<< HEAD
       <title>How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort</title>
       <link>https://mststats.github.io/publication/groupstruct/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
@@ -21,6 +22,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> c4a3d8bb06eaa996ff49e752027708bfe82b57cb
       <title>A scoping review on bovine tuberculosis highlights the need for novel data streams and analytical approaches to curb zoonotic diseases</title>
       <link>https://mststats.github.io/publication/btb/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>

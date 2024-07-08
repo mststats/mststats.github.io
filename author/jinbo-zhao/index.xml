@@ -13,6 +13,7 @@
     </image>
     
     <item>
+<<<<<<< HEAD
       <title>How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort</title>
       <link>https://mststats.github.io/publication/groupstruct/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
@@ -21,6 +22,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> c4a3d8bb06eaa996ff49e752027708bfe82b57cb
       <title>A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance</title>
       <link>https://mststats.github.io/publication/multifac/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>

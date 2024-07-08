@@ -5,7 +5,11 @@
     <link>https://mststats.github.io/author/michael-salter-townshend/</link>
       <atom:link href="https://mststats.github.io/author/michael-salter-townshend/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Salter-Townshend</description>
+<<<<<<< HEAD
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+>>>>>>> c4a3d8bb06eaa996ff49e752027708bfe82b57cb
     <image>
       <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Michael Salter-Townshend</title>
@@ -13,6 +17,7 @@
     </image>
     
     <item>
+<<<<<<< HEAD
       <title>How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort</title>
       <link>https://mststats.github.io/publication/groupstruct/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
@@ -21,6 +26,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> c4a3d8bb06eaa996ff49e752027708bfe82b57cb
       <title>A scoping review on bovine tuberculosis highlights the need for novel data streams and analytical approaches to curb zoonotic diseases</title>
       <link>https://mststats.github.io/publication/btb/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
