@@ -34,7 +34,7 @@
   
     
   
-  <meta name="description" content="Social network analysis of animal societies allows scientists to test hypotheses about social evolution, behaviour, dynamical processes, and transmission events such as the spread of disease. However, the accuracy of estimated social network metrics depends on the proportion of individuals sampled, actual sample size, and frequency of observations. Robustness of network metrics derived from a sample has thus far been examined through various simulation studies. However, simulated data do not necessarily reflect the nuances of real empirical data. We used some of the largest available GPS telemetry relocation datasets from five species of ungulates characterised by different behavioural and ecological traits and living in distinct environmental contexts to study the bias and robustness of social network metrics. We introduced novel statistical methods to quantify the uncertainty in network metrics obtained from a partial population suited to autocorrelated data such as telemetry relocations. We analysed how social network metrics respond to down-sampling from the observed data and applied pre-network data permutation techniques, a bootstrapping approach, correlation, and regression analyses to assess the stability of network metrics when based on samples of a population. We found that global network metrics like density remain robust when the sample size is lowered, whereas some local network metrics, such as eigenvector centrality, are entirely unreliable when a large proportion of the population is not monitored. We show how to construct confidence intervals around the point estimates of these metrics representing the uncertainty as a function of the number of nodes in the network. Our uncertainty estimates enable the statistical comparison of social network metrics under different conditions, such as analyzing daily and seasonal changes in the density of a network. Despite the striking differences in the ecology and sociality among the five different ungulate species, the various social network metrics behave similarly under down sampling, suggesting that our approach can be applied to a wider range of species across vertebrates. Our methods can guide methodological decisions about animal social network research (e.g., sampling design and sample sizes) and allow more accurate ecological inferences from the available data.">
+  <meta name="description" content="**Background** Social network analysis of animal societies allows scientists to test hypotheses about social evolution, behaviour, and dynamic processes. However, the accuracy of estimated metrics depends on data characteristics like sample proportion, sample size, and frequency. A protocol is needed to assess for bias and robustness of social network metrics estimated for the animal populations especially when a limited number of individuals are monitored. **Methods** We used GPS telemetry datasets of five ungulate species to combine known social network approaches with novel ones into a comprehensive five-step protocol. To quantify the bias and uncertainty in the network metrics obtained from a partial population, we presented novel statistical methods which are particularly suited for autocorrelated data, such as telemetry relocations. The protocol was validated using a sixth species, the fallow deer, with a known population size where   of the individuals have been directly monitored. **Results** Through the protocol, we demonstrated how pre-network data permutations allow researchers to assess non-random aspects of interactions within a population. The protocol assesses bias in global network metrics, obtains confidence intervals, and quantifies uncertainty of global and node-level network metrics based on the number of nodes in the network. We found that global network metrics like density remained robust even with a lowered sample size, while local network metrics like eigenvector centrality were unreliable for four of the species. The fallow deer network showed low uncertainty and bias even at lower sampling proportions, indicating the importance of a thoroughly sampled population while demonstrating the accuracy of our evaluation methods for smaller samples. **Conclusions** The protocol allows researchers to analyse GPS-based radio-telemetry or other data to determine the reliability of social network metrics. The estimates enable the statistical comparison of networks under different conditions, such as analysing daily and seasonal changes in the density of a network. The methods can also guide methodological decisions in animal social network research, such as sampling design and allow more accurate ecological inferences from the available data. The R package aniSNA enables researchers to implement this workflow on their dataset, generating reliable inferences and guiding methodological decisions.">
 
   
   <link rel="alternate" hreflang="en-gb" href="https://mststats.github.io/publication/anisna/">
@@ -285,14 +285,14 @@
   
   <meta property="og:site_name" content="Home">
   <meta property="og:url" content="https://mststats.github.io/publication/anisna/">
-  <meta property="og:title" content="Assessing bias and robustness of social network metrics using GPS based radio-telemetry data | Home">
-  <meta property="og:description" content="Social network analysis of animal societies allows scientists to test hypotheses about social evolution, behaviour, dynamical processes, and transmission events such as the spread of disease. However, the accuracy of estimated social network metrics depends on the proportion of individuals sampled, actual sample size, and frequency of observations. Robustness of network metrics derived from a sample has thus far been examined through various simulation studies. However, simulated data do not necessarily reflect the nuances of real empirical data. We used some of the largest available GPS telemetry relocation datasets from five species of ungulates characterised by different behavioural and ecological traits and living in distinct environmental contexts to study the bias and robustness of social network metrics. We introduced novel statistical methods to quantify the uncertainty in network metrics obtained from a partial population suited to autocorrelated data such as telemetry relocations. We analysed how social network metrics respond to down-sampling from the observed data and applied pre-network data permutation techniques, a bootstrapping approach, correlation, and regression analyses to assess the stability of network metrics when based on samples of a population. We found that global network metrics like density remain robust when the sample size is lowered, whereas some local network metrics, such as eigenvector centrality, are entirely unreliable when a large proportion of the population is not monitored. We show how to construct confidence intervals around the point estimates of these metrics representing the uncertainty as a function of the number of nodes in the network. Our uncertainty estimates enable the statistical comparison of social network metrics under different conditions, such as analyzing daily and seasonal changes in the density of a network. Despite the striking differences in the ecology and sociality among the five different ungulate species, the various social network metrics behave similarly under down sampling, suggesting that our approach can be applied to a wider range of species across vertebrates. Our methods can guide methodological decisions about animal social network research (e.g., sampling design and sample sizes) and allow more accurate ecological inferences from the available data."><meta property="og:image" content="https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png">
+  <meta property="og:title" content="A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data | Home">
+  <meta property="og:description" content="**Background** Social network analysis of animal societies allows scientists to test hypotheses about social evolution, behaviour, and dynamic processes. However, the accuracy of estimated metrics depends on data characteristics like sample proportion, sample size, and frequency. A protocol is needed to assess for bias and robustness of social network metrics estimated for the animal populations especially when a limited number of individuals are monitored. **Methods** We used GPS telemetry datasets of five ungulate species to combine known social network approaches with novel ones into a comprehensive five-step protocol. To quantify the bias and uncertainty in the network metrics obtained from a partial population, we presented novel statistical methods which are particularly suited for autocorrelated data, such as telemetry relocations. The protocol was validated using a sixth species, the fallow deer, with a known population size where   of the individuals have been directly monitored. **Results** Through the protocol, we demonstrated how pre-network data permutations allow researchers to assess non-random aspects of interactions within a population. The protocol assesses bias in global network metrics, obtains confidence intervals, and quantifies uncertainty of global and node-level network metrics based on the number of nodes in the network. We found that global network metrics like density remained robust even with a lowered sample size, while local network metrics like eigenvector centrality were unreliable for four of the species. The fallow deer network showed low uncertainty and bias even at lower sampling proportions, indicating the importance of a thoroughly sampled population while demonstrating the accuracy of our evaluation methods for smaller samples. **Conclusions** The protocol allows researchers to analyse GPS-based radio-telemetry or other data to determine the reliability of social network metrics. The estimates enable the statistical comparison of networks under different conditions, such as analysing daily and seasonal changes in the density of a network. The methods can also guide methodological decisions in animal social network research, such as sampling design and allow more accurate ecological inferences from the available data. The R package aniSNA enables researchers to implement this workflow on their dataset, generating reliable inferences and guiding methodological decisions."><meta property="og:image" content="https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-gb">
   
     
-      <meta property="article:published_time" content="2023-04-03T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2024-08-14T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2023-04-03T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-08-14T00:00:00&#43;00:00">
   
 
   
@@ -316,10 +316,10 @@
     "@type": "WebPage",
     "@id": "https://mststats.github.io/publication/anisna/"
   },
-  "headline": "Assessing bias and robustness of social network metrics using GPS based radio-telemetry data",
+  "headline": "A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data",
   
-  "datePublished": "2023-04-03T00:00:00Z",
-  "dateModified": "2023-04-03T00:00:00Z",
+  "datePublished": "2024-08-14T00:00:00Z",
+  "dateModified": "2024-08-14T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -334,7 +334,7 @@
       "url": "https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Social network analysis of animal societies allows scientists to test hypotheses about social evolution, behaviour, dynamical processes, and transmission events such as the spread of disease. However, the accuracy of estimated social network metrics depends on the proportion of individuals sampled, actual sample size, and frequency of observations. Robustness of network metrics derived from a sample has thus far been examined through various simulation studies. However, simulated data do not necessarily reflect the nuances of real empirical data. We used some of the largest available GPS telemetry relocation datasets from five species of ungulates characterised by different behavioural and ecological traits and living in distinct environmental contexts to study the bias and robustness of social network metrics. We introduced novel statistical methods to quantify the uncertainty in network metrics obtained from a partial population suited to autocorrelated data such as telemetry relocations. We analysed how social network metrics respond to down-sampling from the observed data and applied pre-network data permutation techniques, a bootstrapping approach, correlation, and regression analyses to assess the stability of network metrics when based on samples of a population. We found that global network metrics like density remain robust when the sample size is lowered, whereas some local network metrics, such as eigenvector centrality, are entirely unreliable when a large proportion of the population is not monitored. We show how to construct confidence intervals around the point estimates of these metrics representing the uncertainty as a function of the number of nodes in the network. Our uncertainty estimates enable the statistical comparison of social network metrics under different conditions, such as analyzing daily and seasonal changes in the density of a network. Despite the striking differences in the ecology and sociality among the five different ungulate species, the various social network metrics behave similarly under down sampling, suggesting that our approach can be applied to a wider range of species across vertebrates. Our methods can guide methodological decisions about animal social network research (e.g., sampling design and sample sizes) and allow more accurate ecological inferences from the available data."
+  "description": "**Background** Social network analysis of animal societies allows scientists to test hypotheses about social evolution, behaviour, and dynamic processes. However, the accuracy of estimated metrics depends on data characteristics like sample proportion, sample size, and frequency. A protocol is needed to assess for bias and robustness of social network metrics estimated for the animal populations especially when a limited number of individuals are monitored. **Methods** We used GPS telemetry datasets of five ungulate species to combine known social network approaches with novel ones into a comprehensive five-step protocol. To quantify the bias and uncertainty in the network metrics obtained from a partial population, we presented novel statistical methods which are particularly suited for autocorrelated data, such as telemetry relocations. The protocol was validated using a sixth species, the fallow deer, with a known population size where   of the individuals have been directly monitored. **Results** Through the protocol, we demonstrated how pre-network data permutations allow researchers to assess non-random aspects of interactions within a population. The protocol assesses bias in global network metrics, obtains confidence intervals, and quantifies uncertainty of global and node-level network metrics based on the number of nodes in the network. We found that global network metrics like density remained robust even with a lowered sample size, while local network metrics like eigenvector centrality were unreliable for four of the species. The fallow deer network showed low uncertainty and bias even at lower sampling proportions, indicating the importance of a thoroughly sampled population while demonstrating the accuracy of our evaluation methods for smaller samples. **Conclusions** The protocol allows researchers to analyse GPS-based radio-telemetry or other data to determine the reliability of social network metrics. The estimates enable the statistical comparison of networks under different conditions, such as analysing daily and seasonal changes in the density of a network. The methods can also guide methodological decisions in animal social network research, such as sampling design and allow more accurate ecological inferences from the available data. The R package aniSNA enables researchers to implement this workflow on their dataset, generating reliable inferences and guiding methodological decisions."
 }
 </script>
 
@@ -352,7 +352,7 @@
 
 
 
-  <title>Assessing bias and robustness of social network metrics using GPS based radio-telemetry data | Home</title>
+  <title>A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data | Home</title>
 
 </head>
 
@@ -827,7 +827,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Assessing bias and robustness of social network metrics using GPS based radio-telemetry data</h1>
+  <h1>A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data</h1>
 
   
 
@@ -869,7 +869,7 @@
     
       
     
-    April 2023
+    August 2024
   </span>
   
 
@@ -949,25 +949,9 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1101/2023.03.30.534779" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1186/s40462-024-00494-6" target="_blank" rel="noopener">
     
     DOI
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.biorxiv.org/content/10.1101/2023.03.30.534779v1" target="_blank" rel="noopener">
-    
-    preprint
   </a>
 
 
@@ -983,7 +967,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Social network analysis of animal societies allows scientists to test hypotheses about social evolution, behaviour, dynamical processes, and transmission events such as the spread of disease. However, the accuracy of estimated social network metrics depends on the proportion of individuals sampled, actual sample size, and frequency of observations. Robustness of network metrics derived from a sample has thus far been examined through various simulation studies. However, simulated data do not necessarily reflect the nuances of real empirical data. We used some of the largest available GPS telemetry relocation datasets from five species of ungulates characterised by different behavioural and ecological traits and living in distinct environmental contexts to study the bias and robustness of social network metrics. We introduced novel statistical methods to quantify the uncertainty in network metrics obtained from a partial population suited to autocorrelated data such as telemetry relocations. We analysed how social network metrics respond to down-sampling from the observed data and applied pre-network data permutation techniques, a bootstrapping approach, correlation, and regression analyses to assess the stability of network metrics when based on samples of a population. We found that global network metrics like density remain robust when the sample size is lowered, whereas some local network metrics, such as eigenvector centrality, are entirely unreliable when a large proportion of the population is not monitored. We show how to construct confidence intervals around the point estimates of these metrics representing the uncertainty as a function of the number of nodes in the network. Our uncertainty estimates enable the statistical comparison of social network metrics under different conditions, such as analyzing daily and seasonal changes in the density of a network. Despite the striking differences in the ecology and sociality among the five different ungulate species, the various social network metrics behave similarly under down sampling, suggesting that our approach can be applied to a wider range of species across vertebrates. Our methods can guide methodological decisions about animal social network research (e.g., sampling design and sample sizes) and allow more accurate ecological inferences from the available data.</p>
+    <p class="pub-abstract"><strong>Background</strong> Social network analysis of animal societies allows scientists to test hypotheses about social evolution, behaviour, and dynamic processes. However, the accuracy of estimated metrics depends on data characteristics like sample proportion, sample size, and frequency. A protocol is needed to assess for bias and robustness of social network metrics estimated for the animal populations especially when a limited number of individuals are monitored. <strong>Methods</strong> We used GPS telemetry datasets of five ungulate species to combine known social network approaches with novel ones into a comprehensive five-step protocol. To quantify the bias and uncertainty in the network metrics obtained from a partial population, we presented novel statistical methods which are particularly suited for autocorrelated data, such as telemetry relocations. The protocol was validated using a sixth species, the fallow deer, with a known population size where   of the individuals have been directly monitored. <strong>Results</strong> Through the protocol, we demonstrated how pre-network data permutations allow researchers to assess non-random aspects of interactions within a population. The protocol assesses bias in global network metrics, obtains confidence intervals, and quantifies uncertainty of global and node-level network metrics based on the number of nodes in the network. We found that global network metrics like density remained robust even with a lowered sample size, while local network metrics like eigenvector centrality were unreliable for four of the species. The fallow deer network showed low uncertainty and bias even at lower sampling proportions, indicating the importance of a thoroughly sampled population while demonstrating the accuracy of our evaluation methods for smaller samples. <strong>Conclusions</strong> The protocol allows researchers to analyse GPS-based radio-telemetry or other data to determine the reliability of social network metrics. The estimates enable the statistical comparison of networks under different conditions, such as analysing daily and seasonal changes in the density of a network. The methods can also guide methodological decisions in animal social network research, such as sampling design and allow more accurate ecological inferences from the available data. The R package aniSNA enables researchers to implement this workflow on their dataset, generating reliable inferences and guiding methodological decisions.</p>
     
 
     
@@ -994,8 +978,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#3">
-              Preprint
+            <a href="/publication/#2">
+              Journal article
             </a>
           </div>
         </div>
@@ -1011,7 +995,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">biorxiv</div>
+          <div class="col-12 col-md-9">Movement Ecology</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -1043,7 +1027,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://mststats.github.io/publication/anisna/&amp;text=Assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://mststats.github.io/publication/anisna/&amp;text=A%20protocol%20for%20assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1056,7 +1040,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://mststats.github.io/publication/anisna/&amp;t=Assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://mststats.github.io/publication/anisna/&amp;t=A%20protocol%20for%20assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1069,7 +1053,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data&amp;body=https://mststats.github.io/publication/anisna/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=A%20protocol%20for%20assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data&amp;body=https://mststats.github.io/publication/anisna/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1082,7 +1066,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://mststats.github.io/publication/anisna/&amp;title=Assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://mststats.github.io/publication/anisna/&amp;title=A%20protocol%20for%20assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1095,7 +1079,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data%20https://mststats.github.io/publication/anisna/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=A%20protocol%20for%20assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data%20https://mststats.github.io/publication/anisna/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1108,7 +1092,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://mststats.github.io/publication/anisna/&amp;title=Assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://mststats.github.io/publication/anisna/&amp;title=A%20protocol%20for%20assessing%20bias%20and%20robustness%20of%20social%20network%20metrics%20using%20GPS%20based%20radio-telemetry%20data" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

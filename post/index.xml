@@ -5,12 +5,33 @@
     <link>https://mststats.github.io/post/</link>
       <atom:link href="https://mststats.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://mststats.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New paper on A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data</title>
+      <link>https://mststats.github.io/post/me_anisna/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://mststats.github.io/post/me_anisna/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/prabhleen-kaur-963b8a197/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prabhleen Kaur&lt;/a&gt;,
+&lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;,
+&lt;a href=&#34;https://mststats.github.io/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
+and coauthors have published a preprint on
+&lt;strong&gt;A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data&lt;/strong&gt;
+We hope that the animal ecology community agree that this can serve as a useful resource in designing studies that seek to answer questions
+on the structure of animal communities characterised using social networks. We use real datasets on five species of ungulates in differing environmental
+settings to see how robust social network summaries are to downsampling. Typically, researchers can only tag a sample of the individuals in a population and
+inferences about social structure are inferred from these. Knowing how reliable different estimates are at various sample sizes is a crucial consideration,
+made even more complex by factors such as overall population size, autocorrelation of observations, etc. We not only answer some of these questions, but provide a
+step-by-step methodology for analysis and software to perform each of the steps.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New paper in Movement Ecology by &lt;a href=&#34;https://twitter.com/PrabhleenKaur93?ref_src=twsrc%5Etfw&#34;&gt;@PrabhleenKaur93&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/UCD_Wildlife?ref_src=twsrc%5Etfw&#34;&gt;@UCD_Wildlife&lt;/a&gt;, many contributing ecologist coauthors and myself: &amp;quot;A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data&amp;quot; &lt;a href=&#34;https://t.co/DrTnZAsiLE&#34;&gt;https://t.co/DrTnZAsiLE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Salter-Townshend (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1823727766745047076?ref_src=twsrc%5Etfw&#34;&gt;August 14, 2024&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
     
     <item>
       <title>New paper: How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort</title>
@@ -98,7 +119,8 @@ The accuracy of PRS has the most significant impact on premiums and the proporti
       <link>https://mststats.github.io/post/anisna/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://mststats.github.io/post/anisna/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/prabhleen-kaur-963b8a197/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prabhleen Kaur&lt;/a&gt;,
+      <description>&lt;p&gt;&lt;strong&gt;Update: now published in Movement Ecology. See &lt;a href=&#34;https://mststats.github.io/post/me_anisna&#34;&gt;here.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/prabhleen-kaur-963b8a197/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prabhleen Kaur&lt;/a&gt;,
 &lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;,
 &lt;a href=&#34;https://mststats.github.io/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
 and coauthors have published a preprint on
