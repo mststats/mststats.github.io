@@ -5,12 +5,20 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu7729264130191091259.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Genome-wide local ancestry and the functional consequences of admixture in African and European cattle populations</title>
+      <link>/publication/funccattle/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/funccattle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data</title>

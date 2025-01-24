@@ -34,7 +34,15 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/funccattle/</loc>
+    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/anisna/</loc>
@@ -47,10 +55,6 @@
   </url><url>
     <loc>/post/me_anisna/</loc>
     <lastmod>2024-08-14T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tags/publications/</loc>
