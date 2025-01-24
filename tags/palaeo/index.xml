@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Palaeo | Michael Salter-Townshend</title>
+    <link>/tags/palaeo/</link>
+      <atom:link href="/tags/palaeo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Palaeo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_hu7729264130191091259.png</url>
+      <title>Palaeo</title>
+      <link>/tags/palaeo/</link>
+    </image>
+    
+    <item>
+      <title>Palaeoclimate Reconstruction</title>
+      <link>/project/bpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/bpr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

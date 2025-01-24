@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Michael Salter-Townshend</title>
+    <link>/tags/teaching/</link>
+      <atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7729264130191091259.png</url>
+      <title>Teaching</title>
+      <link>/tags/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Teaching Excellence Award 2021</title>
+      <link>/post/teaching-award/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/teaching-award/</guid>
+      <description>&lt;p&gt;In a virtual ceremony in the College of Science Council Meeting in March 2021, I was presented with a Teaching Excellence Award to recognise the variety of techniques to engage and motivate students I use, the continuous revision and development of the curriculum, and my engagement with the Widening Participation programme in UCD.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

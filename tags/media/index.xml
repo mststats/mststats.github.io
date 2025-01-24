@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media | Michael Salter-Townshend</title>
+    <link>/tags/media/</link>
+      <atom:link href="/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Media</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7729264130191091259.png</url>
+      <title>Media</title>
+      <link>/tags/media/</link>
+    </image>
+    
+    <item>
+      <title>Interview on Newstalk</title>
+      <link>/post/coincidences/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      <guid>/post/coincidences/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Coincidences do happen.
+But what do they mean to us and just what are the chances?
+In this special feature episode, we find out&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This was fun to take part in! Futureproof is a science programme on &lt;a href=&#34;https://www.newstalk.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Newstalk&lt;/a&gt;
+hosted by &lt;a href=&#34;https://twitter.com/jonathan_mccrea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@jonathan_mccrea&lt;/a&gt;. A special issue on Chance and Coincidence
+was recorded with input from Prof. Brian Hughes (&lt;a href=&#34;https://twitter.com/b_m_hughes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@b_m_hughes&lt;/a&gt; (Professor of Psychology at the National University of Ireland, Galway ) and I.&lt;/p&gt;
+&lt;p&gt;Brian explained why we seek out patterns and how this can lead us to apply meaning where there is none.
+I then attempted some rough calculations to estimate the odds of some coincidence stories sent in by listeners.
+Naturally, the marginal odds of any sequence of events is astronomical when you include exact timings and other extraneous details
+so I approached it by simplifying until I had a version of each story that&amp;rsquo;s not worth telling. Once I have this no-coincidence
+version I calculate the odds of the parts that make the story worth telling. Sometimes these parts are independent, sometimes there&amp;rsquo;s
+an order to the conditioning. In any case, I naturally had to use some very rough guessing or use of proxy figures in order to
+get a set of odds. Hopefully it was entertaining, or illuminating, or perhaps even both!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Listen to the &lt;a href=&#34;https://www.newstalk.com/podcasts/futureproof-with-jonathan-mccrea/chances&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;podcast&lt;/a&gt; and judge for yourself.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

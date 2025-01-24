@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sna | Michael Salter-Townshend</title>
+    <link>/tags/sna/</link>
+      <atom:link href="/tags/sna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sna</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7729264130191091259.png</url>
+      <title>Sna</title>
+      <link>/tags/sna/</link>
+    </image>
+    
+    <item>
+      <title>New paper on A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data</title>
+      <link>/post/me_anisna/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/post/me_anisna/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/prabhleen-kaur-963b8a197/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prabhleen Kaur&lt;/a&gt;,
+&lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;,
+&lt;a href=&#34;/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
+and coauthors have published a preprint on
+&lt;strong&gt;A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data&lt;/strong&gt;
+We hope that the animal ecology community agree that this can serve as a useful resource in designing studies that seek to answer questions
+on the structure of animal communities characterised using social networks. We use real datasets on five species of ungulates in differing environmental
+settings to see how robust social network summaries are to downsampling. Typically, researchers can only tag a sample of the individuals in a population and
+inferences about social structure are inferred from these. Knowing how reliable different estimates are at various sample sizes is a crucial consideration,
+made even more complex by factors such as overall population size, autocorrelation of observations, etc. We not only answer some of these questions, but provide a
+step-by-step methodology for analysis and software to perform each of the steps.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New paper in Movement Ecology by &lt;a href=&#34;https://twitter.com/PrabhleenKaur93?ref_src=twsrc%5Etfw&#34;&gt;@PrabhleenKaur93&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/UCD_Wildlife?ref_src=twsrc%5Etfw&#34;&gt;@UCD_Wildlife&lt;/a&gt;, many contributing ecologist coauthors and myself: &amp;quot;A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data&amp;quot; &lt;a href=&#34;https://t.co/DrTnZAsiLE&#34;&gt;https://t.co/DrTnZAsiLE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Salter-Townshend (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1823727766745047076?ref_src=twsrc%5Etfw&#34;&gt;August 14, 2024&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New preprint: Curbing zoonotic disease spread in multi-host-species systems will require integrating novel data streams and analytical approaches: evidence from a scoping review of bovine tuberculosis</title>
+      <link>/post/btb/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>/post/btb/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.data-science.ie/user/kimberlyconteddu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kimberly Conteddu&lt;/a&gt;,
+&lt;a href=&#34;https://orcid.org/0000-0002-8854-6707&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Holly M. English&lt;/a&gt;,
+&lt;a href=&#34;https://www.researchgate.net/profile/Andrew-Byrne-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew W. Byrne&lt;/a&gt;,
+&lt;a href=&#34;https://scholar.google.com/citations?user=Q2xguAoAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bawan Amin&lt;/a&gt;,
+&lt;a href=&#34;https://twitter.com/lauraelgriffin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura L. Griffin&lt;/a&gt;,
+&lt;a href=&#34;https://www.linkedin.com/in/prabhleen-kaur-963b8a197/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prabhleen Kaur&lt;/a&gt;,
+&lt;a href=&#34;https://ecoevo.social/@virginiamp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virginia Morera-Pujol&lt;/a&gt;,
+&lt;a href=&#34;https://www.researchgate.net/profile/Kilian-Murphy-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kilian J. Murphy&lt;/a&gt;,
+&lt;a href=&#34;/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;,
+&lt;a href=&#34;https://www.researchgate.net/profile/Adam-Smith-152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adam Francis Smith&lt;/a&gt;,
+&lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;
+have posted a preprint to bioRxiv on
+&lt;strong&gt;Curbing zoonotic disease spread in multi-host-species systems will require integrating novel data streams and analytical approaches: evidence from a scoping review of bovine tuberculosis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE: This is now published in Veterinary Research at &lt;a href=&#34;https://doi.org/10.1186/s13567-024-01314-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1186/s13567-024-01314-w&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Background&lt;/em&gt;: Zoonotic diseases represent a significant societal challenge in terms of their health and economic impacts. One Health approaches to managing zoonotic diseases are becoming more prevalent, but require novel thinking, tools and cross-disciplinary collaboration. Bovine tuberculosis (bTB) is one example of a costly One Health challenge with a complex epidemiology involving human, domestic animal, wildlife and environmental factors, which require sophisticated collaborative approaches.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objective&lt;/em&gt;: We undertook a scoping review of multi-host bTB epidemiology to identify recent trends in species publication focus, methodologies, scales and One Health approaches. We aimed to identify research gaps where novel research could provide insights to inform control policy, for bTB and other zoonoses.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results&lt;/em&gt;: The review included 167 articles. We found different levels of research attention across episystems, with a significant proportion of the literature focusing on the badger-cattle-TB episystem, with far less attention given to the multi-host episystems of southern Africa. We found a limited number of studies focusing on management solutions and their efficacy, with very few studies looking at modelling exit strategies. Surprisingly, only a small number of studies looked at the effect of human disturbances on the spread of bTB involving wildlife hosts. Most of the studies we reviewed focused on the effect of badger vaccination and culling on bTB dynamics with few looking at how roads, human perturbations and habitat change may affect wildlife movement and disease spread. Finally, we observed a lack of studies considering the effect of weather variables on bTB spread, which is particularly relevant when studying zoonoses under climate change scenarios.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conclusions&lt;/em&gt;: Significant technological and methodological advances have been applied to bTB episystems, providing explicit insights into its spread and maintenance across populations. We identified a prominent bias towards certain species and locations. Generating more high-quality empirical data on wildlife host distribution and abundance, high-resolution individual behaviours and greater use of mathematical models and simulations are key areas for future research. Integrating data sources across disciplines, and a &amp;ldquo;virtuous cycle&amp;rdquo; of well-designed empirical data collection linked with mathematical and simulation modelling could provide additional gains for policy-makers and managers, enabling optimised bTB management with broader insights for other zoonoses.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;Curbing zoonotic disease spread in multi-host-species systems will require integrating novel data streams and analytical approaches: evidence from a scoping review of bovine tuberculosis&amp;quot; &lt;a href=&#34;https://t.co/hZrK7MU8Em&#34;&gt;https://t.co/hZrK7MU8Em&lt;/a&gt;&lt;/p&gt;&amp;mdash; @mststats@mastodon.social (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1656614626711199746?ref_src=twsrc%5Etfw&#34;&gt;May 11, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New preprint on Assessing bias and robustness of social network metrics using GPS based radio-telemetry data</title>
+      <link>/post/anisna/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/post/anisna/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Update: now published in Movement Ecology. See &lt;a href=&#34;/post/me_anisna&#34;&gt;here.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/prabhleen-kaur-963b8a197/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prabhleen Kaur&lt;/a&gt;,
+&lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;,
+&lt;a href=&#34;/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
+and coauthors have published a preprint on
+&lt;strong&gt;Assessing bias and robustness of social network metrics using GPS based radio-telemetry data&lt;/strong&gt;.
+We hope that the animal ecology community agree that this can serve as a useful resource in designing studies that seek to answer questions
+on the structure of animal communities characterised using social networks. We use real datasets on five species of ungulates in differing environmental
+settings to see how robust social network summaries are to downsampling. Typically, researchers can only tag a sample of the individuals in a population and
+inferences about social structure are inferred from these. Knowing how reliable different estimates are at various sample sizes is a crucial consideration,
+made even more complex by factors such as overall population size, autocorrelation of observations, etc. We not only answer some of these questions, but provide a
+step-by-step methodology for analysis and software to perform each of the steps.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Excited to see our work out as a preprint &lt;a href=&#34;https://twitter.com/PrabhleenKaur93?ref_src=twsrc%5Etfw&#34;&gt;@PrabhleenKaur93&lt;/a&gt; &lt;a href=&#34;https://twitter.com/UCD_Wildlife?ref_src=twsrc%5Etfw&#34;&gt;@UCD_Wildlife&lt;/a&gt; &lt;br&gt;&amp;quot;Assessing bias and robustness of social network metrics using GPS based radio-telemetry data&amp;quot; &lt;a href=&#34;https://t.co/3P4AEEp6F2&#34;&gt;https://t.co/3P4AEEp6F2&lt;/a&gt;&lt;/p&gt;&amp;mdash; @mststats@mastodon.social (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1642902956105236481?ref_src=twsrc%5Etfw&#34;&gt;April 3, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper published in Behavioral Ecology and Sociobiology volume on social networks of desert-dwelling giraffes</title>
+      <link>/post/gsna/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/post/gsna/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/scientific-contributions/Emma-E-Hart-2176499576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma E. Hart&lt;/a&gt;,
+&lt;a href=&#34;https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simone Ciuti&lt;/a&gt;,
+&lt;a href=&#34;https://www.linkedin.com/in/leticiaherrmann/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leticia Herrmann&lt;/a&gt;,
+&lt;a href=&#34;https://giraffeconservation.org/our-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julian Fennessy&lt;/a&gt;,
+&lt;a href=&#34;https://www.linkedin.com/in/emma-wells-54453330/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma Wells&lt;/a&gt;,
+&lt;a href=&#34;/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
+have published a paper in &lt;a href=&#34;https://link.springer.com/journal/265&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Behavioral Ecology and Sociobiology&lt;/a&gt; on
+&lt;strong&gt;Static and dynamic methods in social network analysis reveal the association patterns of desert-dwelling giraffe&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New paper published in &lt;a href=&#34;https://twitter.com/hashtag/BehavEcolSociobiol?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#BehavEcolSociobiol&lt;/a&gt; on social networks in desert-dwelling giraffes. Really proud of this collaboration involving &lt;a href=&#34;https://twitter.com/UCD_Wildlife?ref_src=twsrc%5Etfw&#34;&gt;@UCD_Wildlife&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/Save_Giraffe?ref_src=twsrc%5Etfw&#34;&gt;@Save_Giraffe&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/UCDSBES?ref_src=twsrc%5Etfw&#34;&gt;@UCDSBES&lt;/a&gt; &lt;a href=&#34;https://t.co/wbZO8nuQX3&#34;&gt;https://t.co/wbZO8nuQX3&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/giraffe?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#giraffe&lt;/a&gt;&lt;/p&gt;&amp;mdash; M. Salter-Townshend (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1518961477918593024?ref_src=twsrc%5Etfw&#34;&gt;April 26, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

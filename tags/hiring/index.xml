@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiring | Michael Salter-Townshend</title>
+    <link>/tags/hiring/</link>
+      <atom:link href="/tags/hiring/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiring</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7729264130191091259.png</url>
+      <title>Hiring</title>
+      <link>/tags/hiring/</link>
+    </image>
+    
+    <item>
+      <title>SFI CRTs - PhD positions available</title>
+      <link>/post/crts/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/crts/</guid>
+      <description>&lt;p&gt;I am a named supervisor in two new &lt;strong&gt;Centre&amp;rsquo;s for Research Training&lt;/strong&gt; funded by &lt;strong&gt;Science Foundation Ireland&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://data-science.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Foundations in Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://genomicsdatascience.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These offer the fantastic opportunity to enter a fully funded PhD programme with a large cohort of other PhD candidates.
+Use the links to apply!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

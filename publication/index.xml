@@ -1,254 +1,254 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Home</title>
-    <link>https://mststats.github.io/publication/</link>
-      <atom:link href="https://mststats.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Michael Salter-Townshend</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>&amp; copy 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mststats.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>https://mststats.github.io/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
       <title>A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data</title>
-      <link>https://mststats.github.io/publication/anisna/</link>
+      <link>/publication/anisna/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/anisna/</guid>
+      <guid>/publication/anisna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort</title>
-      <link>https://mststats.github.io/publication/groupstruct/</link>
+      <link>/publication/groupstruct/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/groupstruct/</guid>
+      <guid>/publication/groupstruct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A scoping review on bovine tuberculosis highlights the need for novel data streams and analytical approaches to curb zoonotic diseases</title>
-      <link>https://mststats.github.io/publication/btb/</link>
+      <link>/publication/btb/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/btb/</guid>
+      <guid>/publication/btb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genomic insights into the population history and adaptive traits of Latin American Criollo cattle</title>
-      <link>https://mststats.github.io/publication/criollo/</link>
+      <link>/publication/criollo/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/criollo/</guid>
+      <guid>/publication/criollo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verifying origin claims on dairy products using stable isotope ratio analysis and random forest classification</title>
-      <link>https://mststats.github.io/publication/dairy_rfs/</link>
+      <link>/publication/dairy_rfs/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/dairy_rfs/</guid>
+      <guid>/publication/dairy_rfs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance</title>
-      <link>https://mststats.github.io/publication/multifac/</link>
+      <link>/publication/multifac/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/multifac/</guid>
+      <guid>/publication/multifac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (Bos taurus/indicus)</title>
-      <link>https://mststats.github.io/publication/cattle_nmt/</link>
+      <link>/publication/cattle_nmt/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/cattle_nmt/</guid>
+      <guid>/publication/cattle_nmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Static and dynamic methods in social network analysis reveal the association patterns of desert-dwelling giraffe</title>
-      <link>https://mststats.github.io/publication/giraffesna/</link>
+      <link>/publication/giraffesna/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/giraffesna/</guid>
+      <guid>/publication/giraffesna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational modelling of Chromosomally Clustering Protein Domains In Bacteria</title>
-      <link>https://mststats.github.io/publication/chr-clust/</link>
+      <link>/publication/chr-clust/</link>
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/chr-clust/</guid>
+      <guid>/publication/chr-clust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fine-scale Inference of Ancestry Segments without Prior Knowledge of Admixing Groups</title>
-      <link>https://mststats.github.io/publication/mosaic/</link>
+      <link>/publication/mosaic/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/mosaic/</guid>
+      <guid>/publication/mosaic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Ancestry Inference in Non-Model Organisms</title>
-      <link>https://mststats.github.io/publication/emgm_2019/</link>
+      <link>/publication/emgm_2019/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/emgm_2019/</guid>
+      <guid>/publication/emgm_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical challenges in estimating past climate changes</title>
-      <link>https://mststats.github.io/publication/wires/</link>
+      <link>/publication/wires/</link>
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/wires/</guid>
+      <guid>/publication/wires/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent Space Models for Multiview Network Data</title>
-      <link>https://mststats.github.io/publication/multiview/</link>
+      <link>/publication/multiview/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/multiview/</guid>
+      <guid>/publication/multiview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Trans-dimensional von Mises-Fisher Mixture Models for User Profiles</title>
-      <link>https://mststats.github.io/publication/online-trans/</link>
+      <link>/publication/online-trans/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/online-trans/</guid>
+      <guid>/publication/online-trans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The influence of network structures of Wikipedia discussion pages on the efficiency of WikiProjects</title>
-      <link>https://mststats.github.io/publication/wiki-edit/</link>
+      <link>/publication/wiki-edit/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/wiki-edit/</guid>
+      <guid>/publication/wiki-edit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role analysis in networks using mixtures of exponential random graph models</title>
-      <link>https://mststats.github.io/publication/ego-ergm/</link>
+      <link>/publication/ego-ergm/</link>
       <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/ego-ergm/</guid>
+      <guid>/publication/ego-ergm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Making a Case for an Irish500 List</title>
-      <link>https://mststats.github.io/publication/irish500/</link>
+      <link>/publication/irish500/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/irish500/</guid>
+      <guid>/publication/irish500/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian inference for palaeoclimate with time uncertainty and stochastic volatility</title>
-      <link>https://mststats.github.io/publication/bpr-time/</link>
+      <link>/publication/bpr-time/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/bpr-time/</guid>
+      <guid>/publication/bpr-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixtures of biased sentiment analysers</title>
-      <link>https://mststats.github.io/publication/mix-bias/</link>
+      <link>/publication/mix-bias/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/mix-bias/</guid>
+      <guid>/publication/mix-bias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Relationship between Membership Turnover and Productivity in Online Communities</title>
-      <link>https://mststats.github.io/publication/icwsm/</link>
+      <link>/publication/icwsm/</link>
       <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/icwsm/</guid>
+      <guid>/publication/icwsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentiment Analysis of Online Media</title>
-      <link>https://mststats.github.io/publication/sent-online-media/</link>
+      <link>/publication/sent-online-media/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/sent-online-media/</guid>
+      <guid>/publication/sent-online-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Bayesian Inference for the Latent Position Cluster Model for network data</title>
-      <link>https://mststats.github.io/publication/vblpcm/</link>
+      <link>/publication/vblpcm/</link>
       <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/vblpcm/</guid>
+      <guid>/publication/vblpcm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast inversion of a flexible regression model for multivariate pollen counts data</title>
-      <link>https://mststats.github.io/publication/fast-inversion/</link>
+      <link>/publication/fast-inversion/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/fast-inversion/</guid>
+      <guid>/publication/fast-inversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysing my Facebook friends</title>
-      <link>https://mststats.github.io/publication/signif/</link>
+      <link>/publication/signif/</link>
       <pubDate>Sat, 08 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/signif/</guid>
+      <guid>/publication/signif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of statistical network analysis: models, algorithms, and software</title>
-      <link>https://mststats.github.io/publication/sna-review/</link>
+      <link>/publication/sna-review/</link>
       <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/sna-review/</guid>
+      <guid>/publication/sna-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A latent space mapping for link prediction</title>
-      <link>https://mststats.github.io/publication/nips-pred/</link>
+      <link>/publication/nips-pred/</link>
       <pubDate>Sat, 11 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/nips-pred/</guid>
+      <guid>/publication/nips-pred/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Bayesian inference for the latent position cluster model</title>
-      <link>https://mststats.github.io/publication/nips-vari/</link>
+      <link>/publication/nips-vari/</link>
       <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/nips-vari/</guid>
+      <guid>/publication/nips-vari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling temporal uncertainty in palaeoclimate reconstructions</title>
-      <link>https://mststats.github.io/publication/iwsm-temp/</link>
+      <link>/publication/iwsm-temp/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/iwsm-temp/</guid>
+      <guid>/publication/iwsm-temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling zero inflation of compositional data</title>
-      <link>https://mststats.github.io/publication/iwsm/</link>
+      <link>/publication/iwsm/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/iwsm/</guid>
+      <guid>/publication/iwsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian palaeoclimate reconstruction</title>
-      <link>https://mststats.github.io/publication/bpr/</link>
+      <link>/publication/bpr/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      <guid>https://mststats.github.io/publication/bpr/</guid>
+      <guid>/publication/bpr/</guid>
       <description></description>
     </item>
     

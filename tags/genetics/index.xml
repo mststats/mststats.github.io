@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetics | Michael Salter-Townshend</title>
+    <link>/tags/genetics/</link>
+      <atom:link href="/tags/genetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7729264130191091259.png</url>
+      <title>Genetics</title>
+      <link>/tags/genetics/</link>
+    </image>
+    
+    <item>
+      <title>Statistical Genetics</title>
+      <link>/project/statgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/statgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper: How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort</title>
+      <link>/post/groupstructure/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/post/groupstructure/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/jinbozhao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jinbo Zhao&lt;/a&gt;,
+&lt;a href=&#34;https://people.ucd.ie/adrian.ohagan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrian O&amp;rsquo;Hagan&lt;/a&gt;,
+&lt;a href=&#34;/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;
+have published a GENETICS article on
+&lt;strong&gt;How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This paper was selected by GENETICS as a July Feature article.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Delighted to announce that this has been chosen as a Feature for the July issue of GENETICS! &lt;a href=&#34;https://twitter.com/GeneticsGSA?ref_src=twsrc%5Etfw&#34;&gt;@GeneticsGSA&lt;/a&gt; &lt;a href=&#34;https://t.co/iEAmdgCggi&#34;&gt;https://t.co/iEAmdgCggi&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Salter-Townshend (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1810303147975283101?ref_src=twsrc%5Etfw&#34;&gt;July 8, 2024&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper: A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance</title>
+      <link>/post/multifac/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/post/multifac/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.insight-centre.org/users/jinbo-zhao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jinbo Zhao&lt;/a&gt;,
+&lt;a href=&#34;/home/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;,
+&lt;a href=&#34;https://people.ucd.ie/adrian.ohagan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrian O&amp;rsquo;Hagan&lt;/a&gt;
+have published a European Actuarial Journal article on
+&lt;strong&gt;A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance&lt;/strong&gt;.
+With advances in genetic research, the understanding of the genetic structure of disease and the ability to predict disease risk have been enhanced. Polygenic risk scores (PRS)
+have been developed to assess a person’s risk of developing any heritable disease. PRS has two primary utilities that make it particularly relevant for insurers: the ability to
+identify high-risk groups when using PRS independently or in combination with standard risk factors; and the ability to inform early interventions that may alter future
+morbidity and mortality. Using heart disease as a case study, a simulation-based model is designed that introduces polygenic risk scoring into the actuarial analysis framework
+and then quantifies the adverse selection due to information asymmetry introduced by PRS. Individual and parental disease liability as well as PRS were simulated under a
+liability threshold model. A series of validations were conducted to confirm the utility of our simulated data sets. We explored three scenarios describing how insurance
+applicants use their PRS results to guide their insurance purchasing decisions and calculated the increased premiums that insurers would need to change to counteract this.
+The accuracy of PRS has the most significant impact on premiums and the proportion of individuals who know their PRS also has a substantial impact.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;In a new paper with &lt;a href=&#34;https://twitter.com/JinboZhao?ref_src=twsrc%5Etfw&#34;&gt;@JinboZhao&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/DrAOHaganUCD?ref_src=twsrc%5Etfw&#34;&gt;@DrAOHaganUCD&lt;/a&gt; published in the European Actuarial Journal, we explore how advances in Polygenic Risk Scores may impact critical illness insurance &lt;a href=&#34;https://t.co/9pGhoKhWUL&#34;&gt;https://t.co/9pGhoKhWUL&lt;/a&gt;&lt;/p&gt;&amp;mdash; @mststats@mastodon.social (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1646879968708665344?ref_src=twsrc%5Etfw&#34;&gt;April 14, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper out in iScience showing evidence for mitonuclear coevolution in hybrid African cattle</title>
+      <link>/post/cattle/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/post/cattle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.jamesaward.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James A. Ward&lt;/a&gt;,
+&lt;a href=&#34;https://gillianmchugo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gillian P. McHugo&lt;/a&gt;,
+&lt;a href=&#34;https://twitter.com/michael_j_dover&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael J. Dover&lt;/a&gt;,
+&lt;a href=&#34;https://twitter.com/Tom_JHall&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas J. Hall&lt;/a&gt;,
+&lt;a href=&#34;https://www.qmul.ac.uk/sbbs/staff/saidismaelnganga.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Said Ismael Ng&amp;rsquo;ang&amp;rsquo;a&lt;/a&gt;,
+&lt;a href=&#34;https://recombinetics.com/our-team/tad-sonstegard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tad S. Sonstegard&lt;/a&gt;,
+&lt;a href=&#34;https://www.tcd.ie/Genetics/molpopgen/dan.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel G. Bradley&lt;/a&gt;,
+&lt;a href=&#34;https://twitter.com/LrFrantz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent A.F. Frantz&lt;/a&gt;,
+&lt;a href=&#34;/index.html&#34;&gt;Michael Salter-Townshend&lt;/a&gt;,
+&lt;a href=&#34;https://people.ucd.ie/david.machugh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David E. MacHugh&lt;/a&gt;
+have written a paper on &lt;strong&gt;Genome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (Bos taurus/indicus)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re delighted to say that this has now been accepted for publication in &lt;a href=&#34;https://www.cell.com/iscience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iScience&lt;/a&gt;. See &lt;a href=&#34;https://doi.org/10.1016/j.isci.2022.104672&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the doi link here&lt;/a&gt;
+and click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Very excited to see this paper appear! We found increased taurine ancestry in nuclear genes that interact with mtDNA-encoded proteins in African admixed cattle breeds &lt;a href=&#34;https://twitter.com/UCD_Research?ref_src=twsrc%5Etfw&#34;&gt;@UCD_Research&lt;/a&gt; &lt;a href=&#34;https://twitter.com/UCDMathStat?ref_src=twsrc%5Etfw&#34;&gt;@UCDMathStat&lt;/a&gt; &lt;a href=&#34;https://t.co/lUhsFZqRq6&#34;&gt;https://t.co/lUhsFZqRq6&lt;/a&gt;&lt;/p&gt;&amp;mdash; M. Salter-Townshend (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1541440380545241089?ref_src=twsrc%5Etfw&#34;&gt;June 27, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper on Computational modelling of Chromosomally Clustering Protein Domains In Bacteria</title>
+      <link>/post/chr-clust/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/post/chr-clust/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://shieldslab.ucd.ie/people/chiara-cotroneo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chiara Controneo&lt;/a&gt;, &lt;a href=&#34;http://shieldslab.ucd.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Denis Shields&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/view/clairegormley/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claire Gormley&lt;/a&gt;, and I have written a paper on
+&lt;strong&gt;Computational modelling of Chromosomally Clustering Protein Domains In Bacteria&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Click the tweet below to see a brief explainer thread.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Accepted for publication in BMC Bioinformatics 13-December-2021&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New &lt;a href=&#34;https://twitter.com/hashtag/preprint?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#preprint&lt;/a&gt; on finding gene clusters occurring across bacterial strains with &lt;a href=&#34;https://twitter.com/selenocysteina?ref_src=twsrc%5Etfw&#34;&gt;@selenocysteina&lt;/a&gt; &lt;a href=&#34;https://twitter.com/denshields?ref_src=twsrc%5Etfw&#34;&gt;@denshields&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/icgormley?ref_src=twsrc%5Etfw&#34;&gt;@icgormley&lt;/a&gt; &lt;a href=&#34;https://t.co/nvfiDNKkFP&#34;&gt;https://t.co/nvfiDNKkFP&lt;/a&gt;&lt;/p&gt;&amp;mdash; M. Salter-Townshend (@mststats) &lt;a href=&#34;https://twitter.com/mststats/status/1435894587386744833?ref_src=twsrc%5Etfw&#34;&gt;September 9, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Paper out in GENETICS</title>
+      <link>/post/mosaic/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/mosaic/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Admixture is a pervasive and important element of human demographic history.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Our new highlighted paper in the journal &lt;a href=&#34;https://www.genetics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GENETICS&lt;/a&gt; deals with modelling complex human population histories.
+We&amp;rsquo;re particularly interested in something called &amp;ldquo;admixture&amp;rdquo;, which is when two or more previously separated populations
+come together, typically due to migration or the removal of some other barrier ^[e.g. cultural or religious] to
+procreation between the groups. By examining modern genetic samples, we report evidence for such admixture globally and persistently, reflecting the importance of migration
+in shaping modern human populations.&lt;/p&gt;
+&lt;p&gt;Our method, which we term &lt;strong&gt;MOSAIC&lt;/strong&gt;, ^[MOSAIC stands for &amp;ldquo;MOSAIC Organises Segments of Ancestry In Chromosomes&amp;rdquo;]
+allows for the decryption of how such admixture events unfolded; i.e. which groups mixed, in what ratios, and when did this happen? It relies only
+on modern genetic samples to achieve this and crucially does not require assumptions about how these modern samples might relate to the unseen ancient (ad)mixing groups ^[or are descended either directly or indirectly from]. Previous methods exclusively rely on known ^[or assumed known&amp;hellip;] direct correspondence between modern populations and the mixing ancestor groups,
+whereas &lt;strong&gt;MOSAIC&lt;/strong&gt; makes inference on potentially complex patterns of relatedness, based only on the data. This is achieved by fitting a flexible model ^[specifically
+a two-layer (a.k.a. coupled a.k.a. nested) Hidden Markov Model] of &amp;ldquo;haplotype copying&amp;rdquo;; this is essentially a method that ranks how closely related each
+stretch of chromosome in each individual is to the chromosome stretches in individuals from other populations
+^[Such models are often referred to as Li and Stephens models after &lt;a href=&#34;https://www.genetics.org/content/165/4/2213.long&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Li and Stephens 2003&lt;/a&gt;.
+Essentially, this forms the lower layer of our two-layer Hidden Markov Model.].
+Not only does &lt;strong&gt;MOSAIC&lt;/strong&gt; infer how and when admixture arose
+within a population, but it attributes &amp;ldquo;local ancestry&amp;rdquo; to every part of every chromosome for each individual in the dataset.&lt;/p&gt;
+&lt;p&gt;We analyse 95 modern populations using this new approach and identify previously unknown admixture events.
+Highlight findings include the discovery of a complex 4-way admixture in San-Khomani individuals
+from South Africa. We also show that Eastern European populations possess between 1% and 3% ancestry from a group resembling modern-day central Asians.
+In addition the method identifies evidence of recent natural selection favouring sub-Saharan ancestry at the &amp;ldquo;HLA&amp;rdquo; region, ^[The &lt;strong&gt;H&lt;/strong&gt;uman &lt;strong&gt;L&lt;/strong&gt;eukocyte &lt;strong&gt;A&lt;/strong&gt;ntigen is a gene complex that includes many proteins responsible for regulation of the immune system and are therefore a region of the genome upon which natural selection is believed to act]
+across North African individuals.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Read the new &lt;a href=&#34;https://doi.org/10.1534/genetics.119.302139&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper here&lt;/a&gt; for full details.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;See &lt;a href=&#34;https://maths.ucd.ie/~mst/MOSAIC/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The MOSAIC Project Website&lt;/a&gt; for an interactive results browser, manual, and source code.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bullet-point-summary&#34;&gt;Bullet Point Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;By examining modern genetic samples from around the world, we can demonstrate that observed &amp;ldquo;populations&amp;rdquo; are really a mixture of
+older populations.&lt;/li&gt;
+&lt;li&gt;Such mixing events occur globally and throughout history and can be complex, and sudden or ongoing.&lt;/li&gt;
+&lt;li&gt;We have developed a new tool that can probe such events back in time using the patterns left on modern DNA samples by such events.&lt;/li&gt;
+&lt;li&gt;The key contribution is that we do not require specification of surrogate &amp;ldquo;reference populations&amp;rdquo; for the mixing ancestral groups.&lt;/li&gt;
+&lt;li&gt;More accurate characterisation of admixture than previously possible is demonstrated in a variety of situations.&lt;/li&gt;
+&lt;li&gt;We identify previously unknown admixture events including a complex 4-way admixture in San-Khomani individuals from Southern Africa.&lt;/li&gt;
+&lt;li&gt;We show that Eastern European populations possess 1% to 3% ancestry from a group resembling modern-day central Asians.&lt;/li&gt;
+&lt;li&gt;We identify evidence of recent natural selection favouring sub-Saharan ancestry at the HLA region, across North African individuals.&lt;/li&gt;
+&lt;li&gt;Results for all 95 analysed populations are viewable through a browser at &lt;a href=&#34;https://maths.ucd.ie/~mst/MOSAIC/HGDP_browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maths.ucd.ie/~mst/MOSAIC/HGDP_browser)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;additional-detail&#34;&gt;Additional Detail&lt;/h2&gt;
+&lt;p&gt;All populations are admixed when you look at the right time depth and compare to the right mixing sources. In other words, admixture
+is pervasive and&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;there&amp;rsquo;s no such thing as a &amp;ldquo;pure&amp;rdquo; European - or anyone else
+(&lt;a href=&#34;https://www.sciencemag.org/news/2017/05/theres-no-such-thing-pure-european-or-anyone-else&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gibbons, 2016&lt;/a&gt;).^[Nor has there ever been; ancient DNA shows that much older populations were no exception (&lt;a href=&#34;https://www.nature.com/articles/s41559-019-0878-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeong et al, 2019&lt;/a&gt;).]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When a population is isolated ^[even partially isolated] from other populations random genetic differences between them accrue; the longer the separation, the more &amp;ldquo;drifted&amp;rdquo; these populations become from each other. Eventually, given enough such differences, we can statistically tell one group from another
+and assign (albeit noisily) an individual to a population based on which mutations they might carry. Such &amp;ldquo;population structure&amp;rdquo;
+has been shown to &lt;a href=&#34;https://doi.org/10.1038/nature07331&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mirror geography&lt;/a&gt; for example.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been shown before that admixture (the coming together of previously separated populations) is a feature of many
+human populations (&lt;a href=&#34;http://dx.doi.org/10.1126/science.1243518&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hellenthal et al, 2014&lt;/a&gt;). Through sophisticated statistical procedures, heavily informed by known
+biology, ^[The process of chromosomal recombination means that individuals inherit shorter segments from each ancestral
+source with each passing generation since the admixture event.]
+the demographic history can be inferred by careful examination of the telltale patterns of shared
+genetic variation within and between such populations.&lt;/p&gt;
+&lt;p&gt;This is possible because
+the distribution of these ancestral segments (were they known) would enable us to estimate when the event(s) took
+place and what proportion of each source was involved. Although we don&amp;rsquo;t get to directly observe the ancestry of these segments,
+we can accurately infer them when we have &amp;ldquo;reference&amp;rdquo; populations to compare to ^[something called &lt;a href=&#34;http://paintmychromosomes.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;chromosome painting&amp;rdquo;&lt;/a&gt;].
+For such a direct approach to work, these reference populations need to be good surrogates for the (ad)mixing groups. However, since we use modern populations, they&amp;rsquo;ll typically
+be drifted somewhat themselves ^[with respect to the mixing groups] and perhaps even admixed with other populations, hence not direct surrogates. This has formed a central challenge in fitting
+admixture models and motivates the need for our new approach.&lt;/p&gt;
+&lt;p&gt;Our new tool, &lt;strong&gt;MOSAIC&lt;/strong&gt;, is novel in that we replace knowledge of these direct surrogates with a more flexible model. The model
+not only allows for more complex relationships between observed surrogates and the unseen mixing ancestral groups, but it doesn&amp;rsquo;t require prior
+knowledge of these relationships. Rather, we let the data do the talking and make estimates of &amp;ldquo;copying probabilities&amp;rdquo; that can adapt to the
+observed complexity as required ^[MOSAIC also finds estimates of the level of drift between the observed modern populations and the mixing ancestral groups].
+This also allows us to use more reference populations; whereas an admixed population would be unsuitable for use by a tool that assumes
+reference populations are direct surrogates for mixing groups, ^[as they will be heavily confounded by this]
+MOSAIC not only allows this but it can boost the power of the method. ^[compared to leaving such a reference population out of the analysis. In fact MOSAIC can return accurate local ancestry estimates
+and thus accurate admixture summaries when one or more ancestries has no good direct surrogates among the reference populations.
+For example, when it is only observed in admixed form, which is particularly common when looking at older admixture events.]
+MOSAIC is shown to yield more accurate results than previously possible and can be applied to any sexually reproducing species.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

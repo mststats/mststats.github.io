@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Palaeoclimate | Michael Salter-Townshend</title>
+    <link>/tags/palaeoclimate/</link>
+      <atom:link href="/tags/palaeoclimate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Palaeoclimate</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7729264130191091259.png</url>
+      <title>Palaeoclimate</title>
+      <link>/tags/palaeoclimate/</link>
+    </image>
+    
+    <item>
+      <title>INQUA 2019</title>
+      <link>/post/inqua/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/inqua/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;INQUA 2019 is  the congress of the International Union for Quaternary Research.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With Dr. Niamh Cahill and Prof. Andrew Parnell I co-convened a session on
+&lt;a href=&#34;https://app.oxfordabstracts.com/events/574/program-app/session/4680&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian statistical analysis methods for paleoclimate data&lt;/a&gt;.
+This session was very successful in that we had a full room and 6 great talks, along with a poster session. Hopefully we managed to convince
+some of the audience that Bayesian methodology is the way to go for inverse problems such as climate reconstruction with multiple sources
+of uncertainty!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

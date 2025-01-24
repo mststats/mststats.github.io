@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food | Michael Salter-Townshend</title>
+    <link>/tags/food/</link>
+      <atom:link href="/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <description>Food</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7729264130191091259.png</url>
+      <title>Food</title>
+      <link>/tags/food/</link>
+    </image>
+    
+    <item>
+      <title>Project Website for Beef-Sig</title>
+      <link>/post/beef-sig/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/beef-sig/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Signatures of Irish Grass-fed beef.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;From the website: &lt;br&gt;
+BEEF-SIG is a collaborative research project involving University College Dublin (UCD) and
+Teagasc (the Irish Agriculture and Food Development Authority).
+The project is funded by the Irish Department of Agriculture, Food and the Marine and runs for four years from January, 1 st  2019.&lt;/p&gt;
+&lt;p&gt;The project arises in response to the growing reputation of Irish beef internationally. Irish beef is increasingly marketed on the basis of the uniqueness of its grass based production. For example, the U.S. market is interested in beef derived from animals with a &amp;ldquo;More than 80% Grass Diet&amp;rdquo;
+(Bord Bia, 2017). The guarantee to supply beef from animals with a &amp;ldquo;More than 80% Grass Diet&amp;rdquo; is based on mandatory recording by
+producers/farmers of the level and timing of various feed inputs (grass, silage, cereal concentrates, etc) under the Bord Bia Sustainable Beef &amp;amp; Lamb Assurance Scheme (SBLAS) and transmission of this information to meat processors who ultimately make the decision on whether or not the beef is suitable for the U.S. market. BEEF-SIG aims to quantify the feed inputs used on Irish farms by means of novel analytical technologies and consequently assist with the marketing of Irish beef overseas.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
