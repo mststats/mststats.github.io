@@ -5,12 +5,27 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Interview on Newstalk</title>
+      <link>/post/coinflips/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>/post/coinflips/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Have you ever wondered how fair the coin toss actually is?
+Research has shown that perception of how fair the outcome is depends entirely on who led the toss.
+For more on this, Seán is joined by Michael Salter-Townshend, Assistant Professor of Statistics at UCD.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Another light look at statistics on &lt;a href=&#34;https://www.newstalk.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Newstalk&lt;/a&gt;, this time on the &lt;a href=&#34;https://www.newstalk.com/shows/moncrieff-234861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moncrieff Show&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Listen to the &lt;a href=&#34;https://www.newstalk.com/podcasts/highlights-from-moncrieff/how-fair-is-a-coin-toss-actually&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;podcast&lt;/a&gt;.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>New paper on A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data</title>

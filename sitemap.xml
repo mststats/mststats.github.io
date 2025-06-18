@@ -29,6 +29,22 @@
     <loc>/activities/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/post/</loc>
+    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/coinflips/</loc>
+    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/media/</loc>
+    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication_types/2/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -53,10 +69,6 @@
     <lastmod>2024-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2024-08-14T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/post/me_anisna/</loc>
     <lastmod>2024-08-14T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -66,10 +78,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tags/sna/</loc>
-    <lastmod>2024-08-14T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-08-14T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -214,10 +222,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/coincidences/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tags/media/</loc>
     <lastmod>2019-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
