@@ -1,0 +1,25 @@
+---
+title: "Scoping Review on Bovine Tuberculosis and Zoonotic Disease Spread"
+date: "2023-05-11"
+description: "Scoping review of 167 multi-host bTB epidemiology studies identifying analytical and One Health research priorities."
+categories: [paper]
+---
+
+**Update:** Now published in *Veterinary Research* — **[read the published open-access article here](https://doi.org/10.1186/s13567-024-01314-w)**.
+
+[Kimberly Conteddu](https://www.linkedin.com/in/kimberly-conteddu-ph-d-4921b220b/),
+[Holly M. English](https://orcid.org/0000-0002-8854-6707),
+[Andrew W. Byrne](https://www.researchgate.net/profile/Andrew-Byrne-6),
+[Bawan Amin](https://scholar.google.com/citations?user=Q2xguAoAAAAJ&hl=en&oi=ao),
+Laura L. Griffin,
+[Prabhleen Kaur](https://www.linkedin.com/in/prabhleen-kaur-963b8a197/),
+[Virginia Morera-Pujol](https://ecoevo.social/@virginiamp),
+[Kilian J. Murphy](https://www.researchgate.net/profile/Kilian-Murphy-3),
+[Michael Salter-Townshend](../index.qmd),
+[Adam Francis Smith](https://www.researchgate.net/profile/Adam-Smith-152), and
+[Simone Ciuti](https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd) examine multi-host zoonotic epidemiology in **A scoping review on bovine tuberculosis highlights the need for novel data streams and analytical approaches to curb zoonotic diseases**.
+
+- **Background:** Zoonotic diseases represent a major societal challenge in terms of health and economic impacts. One Health approaches to managing zoonoses require cross-disciplinary collaboration, novel data streams, and statistical modelling. Bovine tuberculosis (bTB) is a prime example involving domestic livestock, wildlife hosts, and environmental factors.
+- **Objective:** We undertook a scoping review of multi-host bTB epidemiology to identify trends in host species focus, analytical methodologies, spatial scales, and One Health integration.
+- **Results:** Reviewing 167 articles, we found strong geographic and species concentration on the badger–cattle episystem, with far less attention to multi-host systems in southern Africa. Relatively few studies modelled management exit strategies, human disturbance, habitat change, or weather/climate variables.
+- **Conclusions:** Linking high-resolution empirical wildlife tracking with mathematical and simulation modelling offers a "virtuous cycle" to inform bTB policy and broader zoonotic disease control.

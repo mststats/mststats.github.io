@@ -1,0 +1,12 @@
+---
+title: "Coin Flipping on Newstalk's Moncrieff Show"
+date: "2025-05-13"
+description: "Discussing the physics, probability, and perceived fairness of coin tosses on Newstalk radio."
+categories: [news]
+---
+
+**Have you ever wondered how fair a coin toss actually is? Research has shown that both physical bias and perceptions of fairness can depend on how—and by whom—the toss is led.**
+
+A light-hearted look at probability and statistics on [Newstalk](https://www.newstalk.com/), joining Seán Moncrieff on the [Moncrieff Show](https://www.newstalk.com/shows/moncrieff-234861) to unpack empirical coin-tossing experiments and perceived fairness.
+
+- **Listen back to the segment: [How fair is a coin toss actually?](https://www.newstalk.com/podcasts/highlights-from-moncrieff/how-fair-is-a-coin-toss-actually)**

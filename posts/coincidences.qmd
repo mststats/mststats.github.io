@@ -1,0 +1,14 @@
+---
+title: "Chance and Coincidences on Newstalk's Futureproof"
+date: "2019-05-18"
+description: "Estimating the probability of listener-submitted coincidences on Newstalk's flagship science programme."
+categories: [news]
+---
+
+**Coincidences do happen—but what do they mean to us, and just what are the chances?**
+
+This was great fun to take part in! *Futureproof* is Newstalk's science programme hosted by Jonathan McCrea. A special feature episode on **Chance and Coincidence** ("Chances") was recorded with Prof. Brian Hughes (Professor of Psychology at the University of Galway) and me.
+
+Brian explored why humans naturally seek patterns and assign meaning to random events, after which I worked through back-of-the-envelope probability calculations for coincidence stories sent in by listeners. Because the marginal probability of any hyper-specific sequence of events is tiny once exact times and incidental details are included, I stripped each story back to a baseline "non-coincidence" version and estimated the conditional odds of the surprising overlap that made the story worth telling. Hopefully the result was entertaining, illuminating, or perhaps both!
+
+- **Listen to the episode: [Futureproof — Chances](https://www.newstalk.com/podcasts/futureproof-with-jonathan-mccrea/chances)**

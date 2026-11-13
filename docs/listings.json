@@ -1,0 +1,33 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/statgen.html",
+      "/projects/sna.html",
+      "/projects/bpr.html",
+      "/projects/text.html",
+      "/projects/other.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/coinflips.html",
+      "/posts/groupstructure.html",
+      "/posts/jz_viva.html",
+      "/posts/bTB.html",
+      "/posts/multifac.html",
+      "/posts/aniSNA.html",
+      "/posts/cattle.html",
+      "/posts/gSNA.html",
+      "/posts/chr-clust.html",
+      "/posts/teaching-award.html",
+      "/posts/INQUA.html",
+      "/posts/MOSAIC.html",
+      "/posts/Eurodeer.html",
+      "/posts/coincidences.html",
+      "/posts/CRTs.html",
+      "/posts/Beef-Sig.html"
+    ]
+  }
+]

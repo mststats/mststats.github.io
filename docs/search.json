@@ -1,0 +1,394 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Themes",
+    "section": "",
+    "text": "Statistical Genetics\n\n\nStatistical modelling of population genomics, local ancestry inference, polygenic risk, and evolutionary adaptation.\n\n\n\n\n\n\n\n\n\n\n\n\nNetwork Analysis\n\n\nLatent space models, variational inference, role analysis, and robust sampling methods for social and ecological networks.\n\n\n\n\n\n\n\n\n\n\n\n\nPalaeoclimate Reconstruction\n\n\nBayesian inverse regression and spatio-temporal uncertainty quantification for reconstructing past climates from proxy data.\n\n\n\n\n\n\n\n\n\n\n\n\nText, Topics & Sentiment\n\n\nStatistical modelling of online text streams, annotator bias in sentiment analysis, and directional topic mixtures.\n\n\n\n\n\n\n\n\n\n\n\n\nApplied & Interdisciplinary Statistics\n\n\nCollaborative statistical modelling in food authenticity, actuarial risk, multivariate time series, and animal behaviour.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michael Salter-Townshend",
+    "section": "",
+    "text": "UCD Profile\n  \n  \n    \n     E-mail\n  \n  \n      Google Scholar\n  \n  \n      ORCID\n  \n  \n      ResearchGate\n  \n  \n    \n     GitHub\n  \n  \n    \n     GitLab\n  \n  \n    \n     LinkedIn\n  \n  \n      Bluesky\n  \n\n  \n  \nI am an Associate Professor of Statistics in the School of Mathematics and Statistics at University College Dublin, where I also serve as Head of Graduate Teaching and Learning and Director of Online Programmes in Data Analytics. Before joining UCD as faculty, I was a Postdoctoral Researcher in Simon Myers’ group in the Department of Statistics and a Junior Research Fellow at Mansfield College, University of Oxford.\nMy research develops statistical and computational methods—including Bayesian inference, latent variable and network models, Hidden Markov Models, and statistical machine learning—motivated by substantive problems in population and statistical genetics, social and ecological network analysis, palaeoclimate reconstruction, and text and sentiment modelling. Explore my selected publications, open-source software, or research projects by topic.\n\n\n\nAssociate Professor of Statistics, University College Dublin (2025–present)\nAssistant Professor of Statistics, University College Dublin (2017–2025)\nPostdoctoral Researcher & Junior Research Fellow, Department of Statistics & Mansfield College, University of Oxford (2013–2016)\nPostdoctoral Researcher, Clique Strategic Research Cluster, University College Dublin (2009–2013)\nPhD in Statistics, Trinity College Dublin (2009)\nMSc in High Performance Computing, Trinity College Dublin (2004)\nBA (Mod.) in Computational Physics, Trinity College Dublin (2003)\n\n\nProspective Students & Collaborators: I supervise PhD and MSc researchers across statistical genetics, network science, and applied statistics (including through the Rinn AI Centre and SFI Centres for Research Training). If you are interested in PhD supervision, postdoctoral fellowships, or interdisciplinary collaboration, feel free to get in touch by e-mail (michael.salter-townshend at ucd dot ie) with your CV and research interests."
+  },
+  {
+    "objectID": "index.html#appointments-education",
+    "href": "index.html#appointments-education",
+    "title": "Michael Salter-Townshend",
+    "section": "",
+    "text": "Associate Professor of Statistics, University College Dublin (2025–present)\nAssistant Professor of Statistics, University College Dublin (2017–2025)\nPostdoctoral Researcher & Junior Research Fellow, Department of Statistics & Mansfield College, University of Oxford (2013–2016)\nPostdoctoral Researcher, Clique Strategic Research Cluster, University College Dublin (2009–2013)\nPhD in Statistics, Trinity College Dublin (2009)\nMSc in High Performance Computing, Trinity College Dublin (2004)\nBA (Mod.) in Computational Physics, Trinity College Dublin (2003)\n\n\nProspective Students & Collaborators: I supervise PhD and MSc researchers across statistical genetics, network science, and applied statistics (including through the Rinn AI Centre and SFI Centres for Research Training). If you are interested in PhD supervision, postdoctoral fellowships, or interdisciplinary collaboration, feel free to get in touch by e-mail (michael.salter-townshend at ucd dot ie) with your CV and research interests."
+  },
+  {
+    "objectID": "posts/INQUA.html",
+    "href": "posts/INQUA.html",
+    "title": "Bayesian Palaeoclimate Session at INQUA 2019",
+    "section": "",
+    "text": "INQUA 2019 is the 20th Congress of the International Union for Quaternary Research, hosted in Dublin.\nTogether with Dr. Niamh Cahill and Prof. Andrew Parnell, I co-convened a session on Bayesian statistical analysis methods for paleoclimate data. The session drew a full room with six invited and contributed talks alongside an active poster session, highlighting how hierarchical Bayesian methodology tackles inverse problems such as climate reconstruction under multiple sources of chronological and proxy uncertainty."
+  },
+  {
+    "objectID": "posts/coincidences.html",
+    "href": "posts/coincidences.html",
+    "title": "Chance and Coincidences on Newstalk’s Futureproof",
+    "section": "",
+    "text": "Coincidences do happen—but what do they mean to us, and just what are the chances?\nThis was great fun to take part in! Futureproof is Newstalk’s science programme hosted by Jonathan McCrea. A special feature episode on Chance and Coincidence (“Chances”) was recorded with Prof. Brian Hughes (Professor of Psychology at the University of Galway) and me.\nBrian explored why humans naturally seek patterns and assign meaning to random events, after which I worked through back-of-the-envelope probability calculations for coincidence stories sent in by listeners. Because the marginal probability of any hyper-specific sequence of events is tiny once exact times and incidental details are included, I stripped each story back to a baseline “non-coincidence” version and estimated the conditional odds of the surprising overlap that made the story worth telling. Hopefully the result was entertaining, illuminating, or perhaps both!\n\nListen to the episode: Futureproof — Chances"
+  },
+  {
+    "objectID": "posts/groupstructure.html",
+    "href": "posts/groupstructure.html",
+    "title": "Study of Group Structure and Polygenic Risk in UK Biobank Data",
+    "section": "",
+    "text": "Jinbo Zhao, Adrian O’Hagan, and Michael Salter-Townshend have published an article in GENETICS:\nHow group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort\nWe are delighted that this paper was selected by GENETICS as a July 2024 Issue Highlight / Feature Article."
+  },
+  {
+    "objectID": "posts/bTB.html",
+    "href": "posts/bTB.html",
+    "title": "Scoping Review on Bovine Tuberculosis and Zoonotic Disease Spread",
+    "section": "",
+    "text": "Update: Now published in Veterinary Research — read the published open-access article here.\nKimberly Conteddu, Holly M. English, Andrew W. Byrne, Bawan Amin, Laura L. Griffin, Prabhleen Kaur, Virginia Morera-Pujol, Kilian J. Murphy, Michael Salter-Townshend, Adam Francis Smith, and Simone Ciuti examine multi-host zoonotic epidemiology in A scoping review on bovine tuberculosis highlights the need for novel data streams and analytical approaches to curb zoonotic diseases.\n\nBackground: Zoonotic diseases represent a major societal challenge in terms of health and economic impacts. One Health approaches to managing zoonoses require cross-disciplinary collaboration, novel data streams, and statistical modelling. Bovine tuberculosis (bTB) is a prime example involving domestic livestock, wildlife hosts, and environmental factors.\nObjective: We undertook a scoping review of multi-host bTB epidemiology to identify trends in host species focus, analytical methodologies, spatial scales, and One Health integration.\nResults: Reviewing 167 articles, we found strong geographic and species concentration on the badger–cattle episystem, with far less attention to multi-host systems in southern Africa. Relatively few studies modelled management exit strategies, human disturbance, habitat change, or weather/climate variables.\nConclusions: Linking high-resolution empirical wildlife tracking with mathematical and simulation modelling offers a “virtuous cycle” to inform bTB policy and broader zoonotic disease control."
+  },
+  {
+    "objectID": "posts/MOSAIC.html",
+    "href": "posts/MOSAIC.html",
+    "title": "MOSAIC: Fine-Scale Inference of Multiway Ancestry Without Surrogate Reference Groups",
+    "section": "",
+    "text": "Admixture is a pervasive and important element of human demographic history."
+  },
+  {
+    "objectID": "posts/MOSAIC.html#summary",
+    "href": "posts/MOSAIC.html#summary",
+    "title": "MOSAIC: Fine-Scale Inference of Multiway Ancestry Without Surrogate Reference Groups",
+    "section": "Summary",
+    "text": "Summary\nOur highlighted paper in GENETICS deals with modelling complex human population histories. We focus on admixture—when two or more previously separated populations come together, typically due to migration or the removal of geographical or social barriers1 to interbreeding. By examining modern genetic samples, we report widespread evidence for admixture globally and persistently across human history.\nOur method, MOSAIC2, reconstructs how admixture events unfolded: which ancestral groups mixed, in what proportions, and when. Crucially, it relies only on modern genetic samples and does not require prior assumptions about which modern populations act as direct surrogates for unseen ancient mixing groups. Whereas earlier methods assume a known one-to-one correspondence between modern reference panels and ancestral sources, MOSAIC learns potentially complex copying relationships directly from the data via a two-layer Hidden Markov Model3. In doing so, MOSAIC both characterises population-wide admixture history and assigns locus-specific local ancestry along every chromosome of each individual.\nAnalysing 95 global populations, we identify previously uncharacterised admixture events, including complex four-way admixture in San–Khomani individuals from Southern Africa, 1%–3% ancestry related to modern Central Asians across Eastern European populations, and recent natural selection favouring sub-Saharan ancestry across the HLA immune complex4 in North African populations.\n\nRead the paper in GENETICS: https://doi.org/10.1534/genetics.119.302139\nExplore the MOSAIC Project Website for source code, documentation, and the interactive browser."
+  },
+  {
+    "objectID": "posts/MOSAIC.html#key-takeaways",
+    "href": "posts/MOSAIC.html#key-takeaways",
+    "title": "MOSAIC: Fine-Scale Inference of Multiway Ancestry Without Surrogate Reference Groups",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nModern genetic samples show that observed human populations reflect repeated mixtures of older populations across history.\nMOSAIC infers the timing and proportions of multiway admixture without requiring pre-specified surrogate reference populations.\nSimulation and empirical benchmarks demonstrate substantially improved accuracy when direct ancestral surrogates are unavailable or themselves admixed.\nHighlights across 95 analysed populations include four-way admixture in Southern Africa, subtle East/Central Eurasian gene flow in Eastern Europe, and adaptive introgression at the HLA locus in North Africa.\nInteractive results for all 95 populations are available via the HGDP Results Browser."
+  },
+  {
+    "objectID": "posts/MOSAIC.html#additional-detail",
+    "href": "posts/MOSAIC.html#additional-detail",
+    "title": "MOSAIC: Fine-Scale Inference of Multiway Ancestry Without Surrogate Reference Groups",
+    "section": "Additional Detail",
+    "text": "Additional Detail\nAll populations are admixed when examined at sufficient time depth:\n\n“There’s no such thing as a ‘pure’ European—or anyone else” (Gibbons, Science, 2017).5\n\nWhen populations are partially or fully isolated, random genetic drift causes allele frequencies to diverge over time, producing geographic population structure (Novembre et al., 2008). When previously separated groups later admix, chromosomal recombination breaks down inherited ancestral tracts into progressively shorter segments with each passing generation (Hellenthal et al., 2014).\nIf those ancestral segments were directly observable, their length distribution would reveal when mixing occurred and in what ratios. In practice, chromosome painting compares target haplotypes against modern reference panels—which have themselves drifted and often experienced independent admixture since the historical event. MOSAIC addresses this central challenge by estimating flexible copying probabilities and drift parameters jointly from the data, allowing admixed donor panels to increase statistical power rather than confound inference. The method applies to any sexually reproducing species."
+  },
+  {
+    "objectID": "posts/MOSAIC.html#footnotes",
+    "href": "posts/MOSAIC.html#footnotes",
+    "title": "MOSAIC: Fine-Scale Inference of Multiway Ancestry Without Surrogate Reference Groups",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\ne.g. cultural or linguistic barriers↩︎\nMOSAIC stands for MOSAIC Organises Segments of Ancestry In Chromosomes↩︎\nBuilt upon the Li and Stephens haplotype-copying framework (Li and Stephens, 2003), which forms the lower layer of our coupled Hidden Markov Model.↩︎\nThe Human Leukocyte Antigen complex encodes key immune-system proteins and is a well-known target of natural selection.↩︎\nAncient DNA studies confirm that deep prehistoric populations were similarly shaped by recurrent migration and mixture (Jeong et al., 2019).↩︎"
+  },
+  {
+    "objectID": "posts/CRTs.html",
+    "href": "posts/CRTs.html",
+    "title": "SFI Centres for Research Training",
+    "section": "",
+    "text": "I am a named PhD supervisor in two Centres for Research Training (CRTs) funded by Science Foundation Ireland:\n\nSFI CRT in Foundations of Data Science\nSFI CRT in Genomics Data Science\n\nBoth programmes offer fully funded cohort-based PhD training across data science, statistical methodology, and genomics. Follow the links above for programme and application details."
+  },
+  {
+    "objectID": "posts/chr-clust.html",
+    "href": "posts/chr-clust.html",
+    "title": "Computational Modelling of Chromosomally Clustering Protein Domains in Bacteria",
+    "section": "",
+    "text": "Chiara Cotroneo, Isobel Claire Gormley, Denis C. Shields, and Michael Salter-Townshend have published an article in BMC Bioinformatics:\nComputational modelling of chromosomally clustering protein domains in bacteria"
+  },
+  {
+    "objectID": "posts/cattle.html",
+    "href": "posts/cattle.html",
+    "title": "Genome-Wide Local Ancestry and Mitonuclear Coadaptation in African Hybrid Cattle",
+    "section": "",
+    "text": "James A. Ward, Gillian P. McHugo, Michael J. Dover, Thomas J. Hall, Said Ismael Ng’ang’a, Tad S. Sonstegard, Daniel G. Bradley, Laurent A.F. Frantz, Michael Salter-Townshend, and David E. MacHugh have published a paper in iScience:\nGenome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (Bos taurus/indicus)\nApplying local ancestry inference across admixed African cattle breeds, we find significantly elevated taurine nuclear ancestry at genes whose protein products interact directly with mitochondrially encoded proteins—providing genome-wide functional evidence for mitonuclear coadaptation in hybrid mammals.\n\n\n\nCitationBibTeX citation:@article{2022,\n  author = {},\n  title = {Genome-Wide {Local} {Ancestry} and {Mitonuclear}\n    {Coadaptation} in {African} {Hybrid} {Cattle}},\n  journal = {iScience},\n  date = {2022-06-27},\n  url = {https://doi.org/10.1016/j.isci.2022.104672},\n  doi = {10.1016/j.isci.2022.104672},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“Genome-Wide Local Ancestry and Mitonuclear Coadaptation in\nAfrican Hybrid Cattle.” 2022. iScience, June. https://doi.org/10.1016/j.isci.2022.104672."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New & Updated",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCoin Flipping on Newstalk’s Moncrieff Show\n\n\n\nnews\n\n\n\n\nDiscussing the physics, probability, and perceived fairness of coin tosses on Newstalk radio.\n\n\n\n\n\n\nMay 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nStudy of Group Structure and Polygenic Risk in UK Biobank Data\n\n\n\npaper\n\n\n\n\nGENETICS July Feature article on how population group structure impacts coronary artery disease risk estimates.\n\n\n\n\n\n\nJul 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCongratulations to Dr. Jinbo Zhao\n\n\n\nnews\n\n\n\n\nJinbo Zhao successfully defends her PhD thesis on Statistical Genetics Models with Actuarial Applications.\n\n\n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nScoping Review on Bovine Tuberculosis and Zoonotic Disease Spread\n\n\n\npaper\n\n\n\n\nScoping review of 167 multi-host bTB epidemiology studies identifying analytical and One Health research priorities.\n\n\n\n\n\n\nMay 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nActuarial Science and Polygenic Risk Scores\n\n\n\npaper\n\n\n\n\nNew European Actuarial Journal study quantifying how polygenic risk scores impact critical illness insurance.\n\n\n\n\n\n\nApr 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNew Protocol and Software for Studying Animal Social Networks\n\n\n\npaper\n\n\n\n\nStep-by-step methodology and the aniSNA R package for assessing sampling bias and uncertainty in GPS telemetry social networks.\n\n\n\n\n\n\nApr 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nGenome-Wide Local Ancestry and Mitonuclear Coadaptation in African Hybrid Cattle\n\n\n\npaper\n\n\n\n\nUsing MOSAIC local ancestry inference to uncover mitonuclear coadaptation in admixed Bos taurus/indicus populations.\n\n\n\n\n\n\nJun 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nGiraffe Social Networks\n\n\n\npaper\n\n\n\n\nStatic and dynamic social network analysis uncovers association patterns in desert-dwelling giraffe.\n\n\n\n\n\n\nApr 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nComputational Modelling of Chromosomally Clustering Protein Domains in Bacteria\n\n\n\npaper\n\n\n\n\nStatistical identification of protein-domain chromosomal clusters across bacterial genomes, published in BMC Bioinformatics.\n\n\n\n\n\n\nDec 13, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nUCD College of Science Teaching Excellence Award\n\n\n\nevent\n\n\n\n\nRecognised for student engagement, continuous curriculum development, and contribution to Widening Participation at UCD.\n\n\n\n\n\n\nMar 15, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nBayesian Palaeoclimate Session at INQUA 2019\n\n\n\nevent\n\n\n\n\nCo-convening a session on Bayesian statistical methods for palaeoclimate reconstruction at the INQUA Congress in Dublin.\n\n\n\n\n\n\nJul 31, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nMOSAIC: Fine-Scale Inference of Multiway Ancestry Without Surrogate Reference Groups\n\n\n\npaper\n\n\n\n\nHighlighted GENETICS paper introducing a two-layer Hidden Markov Model to infer complex population admixture histories.\n\n\n\n\n\n\nJul 1, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nKeynote on Social Network Analysis at Eurodeer XI\n\n\n\nevent\n\n\n\n\nKeynote lecture at the Eurodeer XI meeting on statistical network models for wildlife movement and conservation.\n\n\n\n\n\n\nJun 15, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nChance and Coincidences on Newstalk’s Futureproof\n\n\n\nnews\n\n\n\n\nEstimating the probability of listener-submitted coincidences on Newstalk’s flagship science programme.\n\n\n\n\n\n\nMay 18, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nSFI Centres for Research Training\n\n\n\nnews\n\n\n\n\nNamed PhD supervisor in the Foundations of Data Science and Genomics Data Science SFI Centres for Research Training.\n\n\n\n\n\n\nMar 1, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nBEEF-SIG Project on Irish Grass-Fed Beef\n\n\n\nnews\n\n\n\n\nFour-year UCD and Teagasc collaboration developing analytical signatures to verify grass-fed Irish beef.\n\n\n\n\n\n\nJan 15, 2019\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am currently lecturing the following undergraduate, graduate, and online modules in the School of Mathematics and Statistics at University College Dublin:\n\nSTAT30280 — Inference for Data Analytics (2021–present)\nSTAT30010 — Time Series Analysis\nSTAT40700 — Time Series Analysis: Actuarial Applications\nSTAT40860 — Time Series Analysis (Online)"
+  },
+  {
+    "objectID": "teaching.html#current-modules-at-ucd",
+    "href": "teaching.html#current-modules-at-ucd",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am currently lecturing the following undergraduate, graduate, and online modules in the School of Mathematics and Statistics at University College Dublin:\n\nSTAT30280 — Inference for Data Analytics (2021–present)\nSTAT30010 — Time Series Analysis\nSTAT40700 — Time Series Analysis: Actuarial Applications\nSTAT40860 — Time Series Analysis (Online)"
+  },
+  {
+    "objectID": "teaching.html#teaching-recognition",
+    "href": "teaching.html#teaching-recognition",
+    "title": "Teaching",
+    "section": "Teaching Recognition",
+    "text": "Teaching Recognition\n\nCollege of Science Teaching Excellence Award, University College Dublin — awarded in recognition of student engagement techniques, continuous curriculum development, and contribution to UCD’s Widening Participation programme."
+  },
+  {
+    "objectID": "teaching.html#previously-lectured-modules",
+    "href": "teaching.html#previously-lectured-modules",
+    "title": "Teaching",
+    "section": "Previously Lectured Modules",
+    "text": "Previously Lectured Modules\n\nMonte Carlo Inference (in-person and online), University College Dublin (2022–2024)\nBayesian Analysis (Level 2 undergraduate, Level 4 Masters, and online modules), University College Dublin (2017–2021)\nCase Studies in Simulation Science, University College Dublin (2013)\nStatistics Using R for Computational Biologists, University College Dublin (2011–2013)\nTransferable Skills: Statistics I and II (PhD level), University College Dublin (2010–2011)\nStatistics and Mathematics in Computational Biology, University College Dublin (2009–2010)\nAdvanced Quantitative Research Methods, School of Nursing, Trinity College Dublin (2007)\nIntroduction to Management Science, Department of Statistics, Trinity College Dublin (2007)"
+  },
+  {
+    "objectID": "teaching.html#previous-tutoring",
+    "href": "teaching.html#previous-tutoring",
+    "title": "Teaching",
+    "section": "Previous Tutoring",
+    "text": "Previous Tutoring\n\nVisiting Students’ Tutor in Statistics, Mansfield College, University of Oxford (2015–2016)\nStochastic Models in Mathematical Genetics, University of Oxford (2014–2015)\nNumerical Computing, School of Mathematics, Trinity College Dublin (2005–2007)\nIntroduction to Unix, School of Mathematics, Trinity College Dublin (2005–2006)"
+  },
+  {
+    "objectID": "projects/bpr.html",
+    "href": "projects/bpr.html",
+    "title": "Palaeoclimate Reconstruction",
+    "section": "",
+    "text": "Reconstructing past climates from biological and geological proxies (such as fossil pollen counts) poses challenging statistical inverse problems involving zero-inflated compositional responses, non-linear ecological transfer functions, radiocarbon dating uncertainty, and stochastic climate volatility.\nOur research develops fast approximate Bayesian inversion techniques and hierarchical spatio-temporal models that jointly propagate chronological, proxy, and model uncertainties when inferring palaeoclimate trajectories over thousands of years."
+  },
+  {
+    "objectID": "projects/bpr.html#project-publications",
+    "href": "projects/bpr.html#project-publications",
+    "title": "Palaeoclimate Reconstruction",
+    "section": "Project Publications",
+    "text": "Project Publications\n\n\nSweeney, James, Michael Salter-Townshend, Tamsin Edwards, Caitlin E Buck, and Andrew C Parnell. 2018. “Statistical Challenges in Estimating Past Climate Changes.” WIREs Computational Statistics 10 (5): e1437.\n\n\nParnell, Andrew C, James Sweeney, Thinh K Doan, Michael Salter-Townshend, Judy RM Allen, Brian Huntley, and John Haslett. 2015. “Bayesian Inference for Palaeoclimate with Time Uncertainty and Stochastic Volatility.” Journal of the Royal Statistical Society Series C: Applied Statistics 64 (1): 115–38.\n\n\nParnell, Andrew C, James Sweeney, Thinh K Doan, Michael Salter-Townshend, Judy RM Allen, Brian Huntley, and John Haslett. 2012. “On Bayesian Modelling of the Uncertainties in Palaeoclimate Reconstruction.” arXiv Preprint arXiv:1206.5009. https://arxiv.org/abs/1206.5009.\n\n\nSalter-Townshend, Michael, and John Haslett. 2012. “Fast Inversion of a Flexible Regression Model for Multivariate Pollen Counts Data.” Environmetrics 23 (7): 595–605.\n\n\nParnell, Andrew C, John Haslett, Michael Salter-Townshend, Brian Huntley, and Judy RM Allen. 2009. “Quantifying Uncertainty in Palaeoclimate Reconstructions.” In EGU General Assembly Conference Abstracts, 785.\n\n\nSalter-Townshend, Michael. 2009. “Fast Approximate Inverse Bayesian Inference in Non-Parametric Multivariate Regression with Application to Palaeoclimate Reconstruction.” PhD thesis, Trinity College Dublin.\n\n\nHaslett, John, Andrew Parnell, and Michael Salter-Townshend. 2006. “Modelling Temporal Uncertainty in Palaeoclimate Reconstructions.” In Proceedings of the 21st International Workshop on Statistical Modelling, 26–37.\n\n\nHaslett, John, Matt Whiley, Sudipto Bhattacharya, Michael Salter-Townshend, Simon P Wilson, Judy RM Allen, Brian Huntley, and Fraser JG Mitchell. 2006. “Bayesian Palaeoclimate Reconstruction.” Journal of the Royal Statistical Society Series A: Statistics in Society 169 (3): 395–438.\n\n\nSalter-Townshend, Michael, and John Haslett. 2006. “Modelling Zero Inflation of Compositional Data.” In Proceedings of the 21st International Workshop on Statistical Modelling, 448–56."
+  },
+  {
+    "objectID": "projects/other.html",
+    "href": "projects/other.html",
+    "title": "Applied & Interdisciplinary Statistics",
+    "section": "",
+    "text": "Alongside core methodological work, I collaborate across agricultural science, actuarial science, veterinary epidemiology, and financial/econometric time series. Recent projects include multivariate classification of stable isotope and trace-element profiles to verify grass-fed beef and dairy origin claims, quantifying the impact of polygenic risk scores on critical illness insurance, modelling dependent heteroskedastic time series, and prospective behavioural categorisation in animal science."
+  },
+  {
+    "objectID": "projects/other.html#project-publications",
+    "href": "projects/other.html#project-publications",
+    "title": "Applied & Interdisciplinary Statistics",
+    "section": "Project Publications",
+    "text": "Project Publications\n\n\nMoss, Alexandra L, Orlagh O’Reilly, Amy Rand, Amy R Holtby, Siobhan Mullan, Katharyn Mitchell, Emmeline W Hill, Michael Salter-Townshend, and Lisa M Katz. 2026. “Prospective Categorisation of Maternal Care Style in Thoroughbred Broodmares.” Applied Animal Behaviour Science, 107004.\n\n\nWhyte, Hannah, Raquel Cama-Moncunill, Peter G Dunne, Aidan P Moloney, Frank McDermott, Matta Ebaid, Michael Salter-Townshend, Frank J Monahan, and Olaf Schmidt. 2026. “Discrimination of Beef Production System and Regional Geography by Multivariate Analysis of Stable Isotope Ratios (C, N, S, O, H).” Food Control 185: 112054.\n\n\nWhyte, Hannah, Frank McDermott, David van Acken, Peter G Dunne, Aidan Moloney, Raquel Cama-Moncunill, Michael Salter-Townshend, Frank J Monahan, and Olaf Schmidt. 2025. “Discrimination of Beef from Predominantly Grass-Fed and Other Production Systems Using the Trace Elemental Profile of Muscle.” Journal of Agricultural and Food Chemistry 73 (50): 32169–82.\n\n\nConteddu, Kimberly, Holly M English, Andrew W Byrne, Bawan Amin, Laura L Griffin, Prabhleen Kaur, Virginia Morera-Pujol, et al. 2024. “A Scoping Review on Bovine Tuberculosis Highlights the Need for Novel Data Streams and Analytical Approaches to Curb Zoonotic Diseases.” Veterinary Research 55 (1): 64. https://doi.org/10.1186/s13567-024-01314-w.\n\n\nConteddu, Kimberly, Prabhleen Kaur, Michael Brown, Julian Fennessy, Stephanie Fennessy, Emma Hart, Bawan Amin, et al. 2024. “Random Subsamples of Animal Populations Can Reveal Intrinsic Differences in Sociality with Key Implications in Ecology, Conservation and Disease Transmission.” bioRxiv. https://doi.org/10.1101/2024.11.07.622426.\n\n\nO’Sullivan, Roisin, Raquel Cama-Moncunill, Michael Salter-Townshend, Olaf Schmidt, and Frank J Monahan. 2023. “Verifying Origin Claims on Dairy Products Using Stable Isotope Ratio Analysis and Random Forest Classification.” Food Chemistry: X 19: 100858.\n\n\nWang, Fangyijie, and Michael Salter-Townshend. 2023. “Novel Models for Multiple Dependent Heteroskedastic Time Series.” arXiv Preprint arXiv:2310.17760. https://arxiv.org/abs/2310.17760.\n\n\nZhao, Jinbo, Michael Salter-Townshend, and Adrian O’Hagan. 2023. “A Simulation Study for Multifactorial Genetic Disorders to Quantify the Impact of Polygenic Risk Scores on Critical Illness Insurance.” European Actuarial Journal 13 (2): 775–813. https://doi.org/10.1007/s13385-023-00345-5.\n\n\nMcMackin, Leo, and Michael Salter-Townshend. 2018. “Regression Tree Ensembles for Irish Property Valuation.”\n\n\nBecker, Brett A, John Regan, Michael Salter-Townshend, and Kevin Casey. 2015. “Making a Case for an Irish Supercomputer List (Irish500).”"
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Professional Activities",
+    "section": "",
+    "text": "Head of Graduate Teaching and Learning, School of Mathematics and Statistics, UCD (2022–present)\nDirector of Online Programmes, School of Mathematics and Statistics, UCD (2017–present)\nCo-director of Data Science Programme, ADVANCE Centre for Professional Education, UCD (2020–present)\nFunded Investigator, Rinn Centre for Artificial Intelligence\nNamed Supervisor, SFI Centre for Research Training in Foundations of Data Science\nNamed Supervisor, SFI Centre for Research Training in Genomics Data Science"
+  },
+  {
+    "objectID": "activities.html#current-leadership-academic-roles",
+    "href": "activities.html#current-leadership-academic-roles",
+    "title": "Professional Activities",
+    "section": "",
+    "text": "Head of Graduate Teaching and Learning, School of Mathematics and Statistics, UCD (2022–present)\nDirector of Online Programmes, School of Mathematics and Statistics, UCD (2017–present)\nCo-director of Data Science Programme, ADVANCE Centre for Professional Education, UCD (2020–present)\nFunded Investigator, Rinn Centre for Artificial Intelligence\nNamed Supervisor, SFI Centre for Research Training in Foundations of Data Science\nNamed Supervisor, SFI Centre for Research Training in Genomics Data Science"
+  },
+  {
+    "objectID": "activities.html#doctoral-examination",
+    "href": "activities.html#doctoral-examination",
+    "title": "Professional Activities",
+    "section": "Doctoral Examination",
+    "text": "Doctoral Examination\n\nExternal Examiner, PhD in Bioinformatics, Ulster University (2024)\nExternal Examiner, PhD in Statistics, Trinity College Dublin (2027)\nInternal Examiner, PhD in Statistics, University College Dublin (2017, 2018, 2019, 2025, 2026)\nPhD Viva Chair, University College Dublin (2017, 2019, 2021–2026)"
+  },
+  {
+    "objectID": "activities.html#refereeing",
+    "href": "activities.html#refereeing",
+    "title": "Professional Activities",
+    "section": "Refereeing",
+    "text": "Refereeing\n\nStatistical Genetics\n\nGenetics\nJournal of Heredity\nPLOS Computational Biology\nGenome Research\nMolecular Ecology\nMolecular Ecology Resources\nMethods in Ecology and Evolution\n\n\n\nStatistics & Machine Learning\n\nBiometrika\nAnnals of Applied Statistics\nJournal of Computational and Graphical Statistics\nStatistics and Computing\nStatistical Analysis and Data Mining\nMachine Learning\nNetwork Science\nPattern Analysis and Applications\nNeurIPS (2014)\nAISTATS (2012, 2013)\nInternational Statistical Institute World Congress (2011)\n\n\n\nEcology, Environment, etc\n\nAnimal Behaviour\nEnvironmetrics\nIEEE Transactions on Knowledge and Data Engineering\nECML PKDD (2018)"
+  },
+  {
+    "objectID": "activities.html#previous-roles-service",
+    "href": "activities.html#previous-roles-service",
+    "title": "Professional Activities",
+    "section": "Previous Roles & Service",
+    "text": "Previous Roles & Service\n\nInterim Head of Subject for Statistics, School of Mathematics and Statistics, UCD (Jan 2026 – July 2026)\nStatistician, Animal Research Ethics Committee, UCD (2017–2026)\nCommittee Member, Irish Society of Human Genetics (2018–2025)\nEducation Officer, Irish Statistical Association (2017–2019)\nMaintenance Committee, Irish Supercomputer List (2013–2018)\nOrganising Committee, Conference on Applied Statistics in Ireland (CASI) (2017)\nOrganiser of DPhil / Postdoc Seminar Series, Department of Statistics, University of Oxford (2013–2016)\nGreen Impact Committee, Department of Statistics, University of Oxford (2013–2016)\nMathematics Exam Assessor, University of Oxford (2015, 2016)\nAcademic Taster & Admissions Facilitator, Mansfield College, Oxford (2015)\nHiring Interview Board, CeADAR (Centre for Applied Data Analytics Research) (2013)"
+  },
+  {
+    "objectID": "projects/text.html",
+    "href": "projects/text.html",
+    "title": "Text, Topics & Sentiment",
+    "section": "",
+    "text": "Online media and collaborative platforms generate rich text streams alongside structured user interactions. Our work in this area includes mixture models that correct for systematic bias across sentiment classifiers and human annotators, online trans-dimensional von Mises–Fisher directional mixtures for evolving user topic profiles, and network-text analyses of collaborative efficiency in online communities.\nCurrent research in the group (funded through the AIMSIR Centre) extends social media sentiment and natural language modelling to real-time impact verification of severe weather warnings."
+  },
+  {
+    "objectID": "projects/text.html#project-publications",
+    "href": "projects/text.html#project-publications",
+    "title": "Text, Topics & Sentiment",
+    "section": "Project Publications",
+    "text": "Project Publications\n\n\nQin, Xiangju, Pádraig Cunningham, and Michael Salter-Townshend. 2016. “Online Trans-Dimensional von Mises–Fisher Mixture Models for User Profiles.” Journal of Machine Learning Research 17 (200): 1–51.\n\n\nQin, Xiangju, Pádraig Cunningham, and Michael Salter-Townshend. 2015. “The Influence of Network Structures of Wikipedia Discussion Pages on the Efficiency of WikiProjects.” Social Networks 43: 1–15.\n\n\nQin, Xiangju, Michael Salter-Townshend, and Pádraig Cunningham. 2014. “Exploring the Relationship Between Membership Turnover and Productivity in Online Communities.” In Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 8:406–15. 1.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2014. “Mixtures of Biased Sentiment Analysers.” Advances in Data Analysis and Classification 8 (1): 85–103.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2012. “Sentiment Analysis of Online Media.” In Algorithms from and for Nature and Life. Studies in Classification, Data Analysis, and Knowledge Organization. Springer."
+  },
+  {
+    "objectID": "projects/statgen.html",
+    "href": "projects/statgen.html",
+    "title": "Statistical Genetics",
+    "section": "",
+    "text": "Our work in statistical genetics develops probabilistic and computational models to uncover demographic history, recombination patterns, natural selection, and complex trait architecture from high-dimensional genomic data. A central contribution is MOSAIC, a two-layer Hidden Markov Model for multiway local ancestry inference that reconstructs historical admixture events without requiring direct surrogate reference populations.\nRecent and ongoing collaborations span human biobank cohorts (quantifying group-structure effects on polygenic risk scores in the UK Biobank and mitonuclear discordance in Parkinson’s disease), livestock and equine functional genomics (mitonuclear coadaptation and trypanotolerance in hybrid African cattle; imputation and exercise genomics in Thoroughbred horses), and bacterial comparative genomics."
+  },
+  {
+    "objectID": "projects/statgen.html#project-publications",
+    "href": "projects/statgen.html#project-publications",
+    "title": "Statistical Genetics",
+    "section": "Project Publications",
+    "text": "Project Publications\n\n\nFeng, Mian, Thomas J Hall, John F O’Grady, Kseniia Maksimova, Michael Salter-Townshend, John A Browne, David E MacHugh, Lisa M Katz, Beatrice A McGivney, and Emmeline W Hill. 2026. “Integrative Genomic and Transcriptomic Analyses Identify Functionally Relevant Causal Genes for Exercise in a Large Animal Model.”\n\n\nMahoney, Catherine F, Michael Salter-Townshend, Darren J Fitzpatrick, and Denis C Shields. 2026. “Detecting Genomic Regions Enriched for Reciprocal Recombination in Autism Spectrum Disorder.” bioRxiv. https://doi.org/10.1101/2026.05.26.727863.\n\n\nMcHugo, Gillian P, James A Ward, Said Ismael Ng’ang’a, Laurent AF Frantz, John A Browne, Michael Salter-Townshend, Grace M O’Gorman, et al. 2026. “Integrative Genomics Identifies Candidate Genes Underlying Trypanotolerance in Hybrid African Cattle.” Evolutionary Applications 19 (6): e70274. https://doi.org/10.1111/eva.70274.\n\n\nMcHugo, Gillian P, James A Ward, Said Ismael Ng’ang’a, Laurent AF Frantz, Michael Salter-Townshend, Emmeline W Hill, Grace M O’Gorman, Kieran G Meade, Thomas J Hall, and David E MacHugh. 2025. “Genome-Wide Local Ancestry and the Functional Consequences of Admixture in African and European Cattle Populations.” Heredity 134 (1): 49–63. https://doi.org/10.1038/s41437-024-00734-w.\n\n\nMaksimova, Kseniia, Emmeline W Hill, Beatrice A McGivney, David E MacHugh, and Michael Salter-Townshend. 2024. “Exploring Genetic Diversity and Identifying Key Contributors in the Thoroughbred Horse Population for Development of an Imputation Reference Panel.”\n\n\nWard, James A, Said I Ng’ang’a, Imtiaz AS Randhawa, Gillian P McHugo, John F O’Grady, Julio M Flórez, John A Browne, et al. 2024. “Genomic Insights into the Population History and Adaptive Traits of Latin American Criollo Cattle.” Royal Society Open Science 11 (3): 231388.\n\n\nZhao, Jinbo, Adrian O’Hagan, and Michael Salter-Townshend. 2024. “How Group Structure Impacts the Numbers at Risk for Coronary Artery Disease: Polygenic Risk Scores and Nongenetic Risk Factors in the UK Biobank Cohort.” Genetics 227 (3): iyae086. https://doi.org/10.1093/genetics/iyae086.\n\n\nZhao, Jinbo, Michael Salter-Townshend, and Adrian O’Hagan. 2023. “A Simulation Study for Multifactorial Genetic Disorders to Quantify the Impact of Polygenic Risk Scores on Critical Illness Insurance.” European Actuarial Journal 13 (2): 775–813. https://doi.org/10.1007/s13385-023-00345-5.\n\n\nWard, James A, Gillian P McHugo, Michael J Dover, Thomas J Hall, Said Ismael Ng’ang’a, Tad S Sonstegard, Daniel G Bradley, Laurent AF Frantz, Michael Salter-Townshend, and David E MacHugh. 2022. “Genome-Wide Local Ancestry and Evidence for Mitonuclear Coadaptation in African Hybrid Cattle Populations.” iScience 25 (7): 104672. https://doi.org/10.1016/j.isci.2022.104672.\n\n\nZhao, Jinbo, Adrian O’Hagan, and Michael Salter-Townshend. 2022. “Polygenic Risk Scores for Determining Number at Risk.” In Irish Journal of Medical Science, 191:S70. Suppl 3. Springer.\n\n\nCotroneo, Chiara E, Isobel Claire Gormley, Denis C Shields, and Michael Salter-Townshend. 2021. “Computational Modelling of Chromosomally Clustering Protein Domains in Bacteria.” BMC Bioinformatics 22 (1): 593. https://doi.org/10.1186/s12859-021-04512-x.\n\n\nSalter-Townshend, Michael, and Simon Myers. 2019a. “Fine-Scale Inference of Ancestry Segments Without Prior Knowledge of Admixing Groups.” Genetics 212 (3): 869–89. https://doi.org/10.1534/genetics.119.302139.\n\n\nSalter-Townshend, Michael, and Simon Myers. 2019b. “Local Ancestry Inference in Non-Model Organisms.” In Human Heredity (European Meeting on Mathematical Genetics), 83:244. 5. Karger."
+  },
+  {
+    "objectID": "projects/sna.html",
+    "href": "projects/sna.html",
+    "title": "Network Analysis",
+    "section": "",
+    "text": "Network data—comprising relational links between interacting individuals or entities—arise across the social, biological, and information sciences. Our methodological research develops scalable Bayesian and variational inference algorithms for latent space cluster models (VBLPCM), multiview network representations, and ego-network role clustering via mixtures of exponential random graph models (egoTERGM).\nIn collaboration with wildlife and movement ecologists, we also study how partial sampling and GPS radio-telemetry design affect the bias and uncertainty of animal social network metrics, accompanied by open-source diagnostic protocols and the aniSNA R package."
+  },
+  {
+    "objectID": "projects/sna.html#project-publications",
+    "href": "projects/sna.html#project-publications",
+    "title": "Network Analysis",
+    "section": "Project Publications",
+    "text": "Project Publications\n\n\nKaur, Prabhleen, Simone Ciuti, Michael Salter-Townshend, and Damien R Farine. 2025. “Using an Agent-Based Model to Inform Sampling Design for Animal Social Network Analysis.” Behavioral Ecology and Sociobiology 79 (3): 45. https://doi.org/10.1007/s00265-025-03586-4.\n\n\nConteddu, Kimberly, Holly M English, Andrew W Byrne, Bawan Amin, Laura L Griffin, Prabhleen Kaur, Virginia Morera-Pujol, et al. 2024. “A Scoping Review on Bovine Tuberculosis Highlights the Need for Novel Data Streams and Analytical Approaches to Curb Zoonotic Diseases.” Veterinary Research 55 (1): 64. https://doi.org/10.1186/s13567-024-01314-w.\n\n\nConteddu, Kimberly, Prabhleen Kaur, Michael Brown, Julian Fennessy, Stephanie Fennessy, Emma Hart, Bawan Amin, et al. 2024. “Random Subsamples of Animal Populations Can Reveal Intrinsic Differences in Sociality with Key Implications in Ecology, Conservation and Disease Transmission.” bioRxiv. https://doi.org/10.1101/2024.11.07.622426.\n\n\nKaur, Prabhleen, Simone Ciuti, Federico Ossi, Francesca Cagnacci, Nicolas Morellet, Anne Loison, Kamal Atmeh, et al. 2024. “A Protocol for Assessing Bias and Robustness of Social Network Metrics Using GPS Based Radio-Telemetry Data.” Movement Ecology 12 (1): 55. https://doi.org/10.1186/s40462-024-00494-6.\n\n\nKaur, Prabhleen, Simone Ciuti, Adele K Reinking, Jeffrey L Beck, and Michael Salter-Townshend. 2024. “aniSNA: An R Package to Assess Bias and Uncertainty in Social Networks Obtained from Animals Sampled via Direct Observations or Satellite Telemetry.” bioRxiv.\n\n\nHart, Emma E, Simone Ciuti, Leticia Herrmann, Julian Fennessy, Emma Wells, and Michael Salter-Townshend. 2022. “Static and Dynamic Methods in Social Network Analysis Reveal the Association Patterns of Desert-Dwelling Giraffe.” Behavioral Ecology and Sociobiology 76 (5): 62. https://doi.org/10.1007/s00265-022-03167-9.\n\n\nSalter-Townshend, Michael, and Tyler H McCormick. 2017. “Latent Space Models for Multiview Network Data.” The Annals of Applied Statistics 11 (3): 1217–44.\n\n\nQin, Xiangju, Pádraig Cunningham, and Michael Salter-Townshend. 2015. “The Influence of Network Structures of Wikipedia Discussion Pages on the Efficiency of WikiProjects.” Social Networks 43: 1–15.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2015. “Role Analysis in Networks Using Mixtures of Exponential Random Graph Models.” Journal of Computational and Graphical Statistics 24 (2): 520–38.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2014. “Mixtures of Biased Sentiment Analysers.” Advances in Data Analysis and Classification 8 (1): 85–103.\n\n\nSalter-Townshend, Michael. 2012. “Analysing My Facebook Friends.” Significance 9 (4): 40–42.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2012. “Variational Bayesian Inference for the Latent Position Cluster Model for Network Data.” Computational Statistics & Data Analysis 57 (1): 661–71.\n\n\nSalter-Townshend, Michael, Arthur White, Isabella Gollini, and Thomas Brendan Murphy. 2012. “Review of Statistical Network Analysis: Models, Algorithms, and Software.” Statistical Analysis and Data Mining 5 (4): 243–64.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2011. “Clustering Nodes in a Network by Role.” In Conference on Applied Statistics in Ireland (CASI), 17.\n\n\nBrew, Anthony, and Michael Salter-Townshend. 2010. “A Latent Space Mapping for Link Prediction.” In Networks Across Disciplines: Theory and Applications; NIPS Workshop.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2009. “Variational Bayesian Inference for the Latent Position Cluster Model.” In Analyzing Networks and Learning with Graphs; NIPS Workshop."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Modelling Multiway Admixture Using Dense Genotype Data\nMOSAIC (MOSAIC Organises Segments of Ancestry In Chromosomes) fits a two-layer Hidden Markov Model to infer fine-scale local ancestry segments and characterise multiway admixture events—including mixing proportions and dates—without requiring prior specification of direct surrogate reference populations.\n\nLinks: Project Website & Manual · HGDP Interactive Results Browser · Genetics (2019) Paper"
+  },
+  {
+    "objectID": "software.html#population-statistical-genetics",
+    "href": "software.html#population-statistical-genetics",
+    "title": "Software",
+    "section": "",
+    "text": "Modelling Multiway Admixture Using Dense Genotype Data\nMOSAIC (MOSAIC Organises Segments of Ancestry In Chromosomes) fits a two-layer Hidden Markov Model to infer fine-scale local ancestry segments and characterise multiway admixture events—including mixing proportions and dates—without requiring prior specification of direct surrogate reference populations.\n\nLinks: Project Website & Manual · HGDP Interactive Results Browser · Genetics (2019) Paper"
+  },
+  {
+    "objectID": "software.html#statistical-network-analysis",
+    "href": "software.html#statistical-network-analysis",
+    "title": "Software",
+    "section": "Statistical Network Analysis",
+    "text": "Statistical Network Analysis\n\naniSNA\nStatistical Network Analysis of Animal Social Networks\nConstructs network structures from animal GPS telemetry or observational data and statistically assesses their adequacy and robustness for social network analysis. Includes pre-network data permutations, bootstrapping for confidence intervals on global and node-level metrics, and correlation/regression tools for local network summaries.\ninstall.packages(\"aniSNA\")\n\nLinks: CRAN Package · Movement Ecology (2024) Protocol Paper\n\n\n\nVBLPCM\nVariational Bayes Latent Position Cluster Model for Networks\nFits and simulates latent position and cluster models for social and relational network data using a fast Variational Bayes approximation, scaling latent space network inference to substantially larger graphs than MCMC alone.\ninstall.packages(\"VBLPCM\")\n\nLinks: CRAN Package · CSDA (2012) Paper\n\n\n\negoTERGM\nEstimation of Ego-Temporal Exponential Random Graph Models\nEstimates ego-centric temporal exponential random graph models (ego-TERGMs) and mixtures for longitudinal and role-structured ego-networks.\ninstall.packages(\"egoTERGM\")\n\nLinks: CRAN Package · JCGS (2015) Role Analysis Paper\n\n\n\nStatistical Network Analysis Review — Companion R Code\nWorked Examples in Network Modelling\nArchived directory of input datasets and R scripts reproducing the examples in the supplementary tutorial to “Review of Statistical Network Analysis: Models, Algorithms, and Software” (Statistical Analysis and Data Mining, 2012).\n\nLinks: Download Archive (.zip)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Selected Publications",
+    "section": "",
+    "text": "Google Scholar  ORCID  ResearchGate  Web of Science"
+  },
+  {
+    "objectID": "publications.html#academic-profiles",
+    "href": "publications.html#academic-profiles",
+    "title": "Selected Publications",
+    "section": "",
+    "text": "Google Scholar  ORCID  ResearchGate  Web of Science"
+  },
+  {
+    "objectID": "publications.html#highlighted-work",
+    "href": "publications.html#highlighted-work",
+    "title": "Selected Publications",
+    "section": "Highlighted Work",
+    "text": "Highlighted Work\nThe papers below highlight key research directions across statistical genetics, network analysis, and applied Bayesian modelling (ordered newest first). For a complete chronological record, see All Publications or browse by topic under Projects.\n\n\nMcHugo, Gillian P, James A Ward, Said Ismael Ng’ang’a, Laurent AF Frantz, John A Browne, Michael Salter-Townshend, Grace M O’Gorman, et al. 2026. “Integrative Genomics Identifies Candidate Genes Underlying Trypanotolerance in Hybrid African Cattle.” Evolutionary Applications 19 (6): e70274. https://doi.org/10.1111/eva.70274.\n\n\nKaur, Prabhleen, Simone Ciuti, Michael Salter-Townshend, and Damien R Farine. 2025. “Using an Agent-Based Model to Inform Sampling Design for Animal Social Network Analysis.” Behavioral Ecology and Sociobiology 79 (3): 45. https://doi.org/10.1007/s00265-025-03586-4.\n\n\nMcHugo, Gillian P, James A Ward, Said Ismael Ng’ang’a, Laurent AF Frantz, Michael Salter-Townshend, Emmeline W Hill, Grace M O’Gorman, Kieran G Meade, Thomas J Hall, and David E MacHugh. 2025. “Genome-Wide Local Ancestry and the Functional Consequences of Admixture in African and European Cattle Populations.” Heredity 134 (1): 49–63. https://doi.org/10.1038/s41437-024-00734-w.\n\n\nKaur, Prabhleen, Simone Ciuti, Federico Ossi, Francesca Cagnacci, Nicolas Morellet, Anne Loison, Kamal Atmeh, et al. 2024. “A Protocol for Assessing Bias and Robustness of Social Network Metrics Using GPS Based Radio-Telemetry Data.” Movement Ecology 12 (1): 55. https://doi.org/10.1186/s40462-024-00494-6.\n\n\nZhao, Jinbo, Adrian O’Hagan, and Michael Salter-Townshend. 2024. “How Group Structure Impacts the Numbers at Risk for Coronary Artery Disease: Polygenic Risk Scores and Nongenetic Risk Factors in the UK Biobank Cohort.” Genetics 227 (3): iyae086. https://doi.org/10.1093/genetics/iyae086.\n\n\nZhao, Jinbo, Michael Salter-Townshend, and Adrian O’Hagan. 2023. “A Simulation Study for Multifactorial Genetic Disorders to Quantify the Impact of Polygenic Risk Scores on Critical Illness Insurance.” European Actuarial Journal 13 (2): 775–813. https://doi.org/10.1007/s13385-023-00345-5.\n\n\nHart, Emma E, Simone Ciuti, Leticia Herrmann, Julian Fennessy, Emma Wells, and Michael Salter-Townshend. 2022. “Static and Dynamic Methods in Social Network Analysis Reveal the Association Patterns of Desert-Dwelling Giraffe.” Behavioral Ecology and Sociobiology 76 (5): 62. https://doi.org/10.1007/s00265-022-03167-9.\n\n\nWard, James A, Gillian P McHugo, Michael J Dover, Thomas J Hall, Said Ismael Ng’ang’a, Tad S Sonstegard, Daniel G Bradley, Laurent AF Frantz, Michael Salter-Townshend, and David E MacHugh. 2022. “Genome-Wide Local Ancestry and Evidence for Mitonuclear Coadaptation in African Hybrid Cattle Populations.” iScience 25 (7): 104672. https://doi.org/10.1016/j.isci.2022.104672.\n\n\nCotroneo, Chiara E, Isobel Claire Gormley, Denis C Shields, and Michael Salter-Townshend. 2021. “Computational Modelling of Chromosomally Clustering Protein Domains in Bacteria.” BMC Bioinformatics 22 (1): 593. https://doi.org/10.1186/s12859-021-04512-x.\n\n\nSalter-Townshend, Michael, and Simon Myers. 2019. “Fine-Scale Inference of Ancestry Segments Without Prior Knowledge of Admixing Groups.” Genetics 212 (3): 869–89. https://doi.org/10.1534/genetics.119.302139.\n\n\nSalter-Townshend, Michael, and Tyler H McCormick. 2017. “Latent Space Models for Multiview Network Data.” The Annals of Applied Statistics 11 (3): 1217–44."
+  },
+  {
+    "objectID": "pub-listing.html",
+    "href": "pub-listing.html",
+    "title": "All Publications",
+    "section": "",
+    "text": "Works are listed in reverse chronological order. For curated highlights see Selected Publications, or visit Google Scholar for up-to-date citation metrics."
+  },
+  {
+    "objectID": "pub-listing.html#published-works-preprints",
+    "href": "pub-listing.html#published-works-preprints",
+    "title": "All Publications",
+    "section": "Published Works & Preprints",
+    "text": "Published Works & Preprints\n\n\nFeng, Mian, Thomas J Hall, John F O’Grady, Kseniia Maksimova, Michael Salter-Townshend, John A Browne, David E MacHugh, Lisa M Katz, Beatrice A McGivney, and Emmeline W Hill. 2026. “Integrative Genomic and Transcriptomic Analyses Identify Functionally Relevant Causal Genes for Exercise in a Large Animal Model.”\n\n\nMahoney, Catherine F, Michael Salter-Townshend, Darren J Fitzpatrick, and Denis C Shields. 2026. “Detecting Genomic Regions Enriched for Reciprocal Recombination in Autism Spectrum Disorder.” bioRxiv. https://doi.org/10.1101/2026.05.26.727863.\n\n\nMcHugo, Gillian P, James A Ward, Said Ismael Ng’ang’a, Laurent AF Frantz, John A Browne, Michael Salter-Townshend, Grace M O’Gorman, et al. 2026. “Integrative Genomics Identifies Candidate Genes Underlying Trypanotolerance in Hybrid African Cattle.” Evolutionary Applications 19 (6): e70274. https://doi.org/10.1111/eva.70274.\n\n\nMoss, Alexandra L, Orlagh O’Reilly, Amy Rand, Amy R Holtby, Siobhan Mullan, Katharyn Mitchell, Emmeline W Hill, Michael Salter-Townshend, and Lisa M Katz. 2026. “Prospective Categorisation of Maternal Care Style in Thoroughbred Broodmares.” Applied Animal Behaviour Science, 107004.\n\n\nWhyte, Hannah, Raquel Cama-Moncunill, Peter G Dunne, Aidan P Moloney, Frank McDermott, Matta Ebaid, Michael Salter-Townshend, Frank J Monahan, and Olaf Schmidt. 2026. “Discrimination of Beef Production System and Regional Geography by Multivariate Analysis of Stable Isotope Ratios (C, N, S, O, H).” Food Control 185: 112054.\n\n\nKaur, Prabhleen, Simone Ciuti, Michael Salter-Townshend, and Damien R Farine. 2025. “Using an Agent-Based Model to Inform Sampling Design for Animal Social Network Analysis.” Behavioral Ecology and Sociobiology 79 (3): 45. https://doi.org/10.1007/s00265-025-03586-4.\n\n\nMcHugo, Gillian P, James A Ward, Said Ismael Ng’ang’a, Laurent AF Frantz, Michael Salter-Townshend, Emmeline W Hill, Grace M O’Gorman, Kieran G Meade, Thomas J Hall, and David E MacHugh. 2025. “Genome-Wide Local Ancestry and the Functional Consequences of Admixture in African and European Cattle Populations.” Heredity 134 (1): 49–63. https://doi.org/10.1038/s41437-024-00734-w.\n\n\nWhyte, Hannah, Frank McDermott, David van Acken, Peter G Dunne, Aidan Moloney, Raquel Cama-Moncunill, Michael Salter-Townshend, Frank J Monahan, and Olaf Schmidt. 2025. “Discrimination of Beef from Predominantly Grass-Fed and Other Production Systems Using the Trace Elemental Profile of Muscle.” Journal of Agricultural and Food Chemistry 73 (50): 32169–82.\n\n\nConteddu, Kimberly, Holly M English, Andrew W Byrne, Bawan Amin, Laura L Griffin, Prabhleen Kaur, Virginia Morera-Pujol, et al. 2024. “A Scoping Review on Bovine Tuberculosis Highlights the Need for Novel Data Streams and Analytical Approaches to Curb Zoonotic Diseases.” Veterinary Research 55 (1): 64. https://doi.org/10.1186/s13567-024-01314-w.\n\n\nConteddu, Kimberly, Prabhleen Kaur, Michael Brown, Julian Fennessy, Stephanie Fennessy, Emma Hart, Bawan Amin, et al. 2024. “Random Subsamples of Animal Populations Can Reveal Intrinsic Differences in Sociality with Key Implications in Ecology, Conservation and Disease Transmission.” bioRxiv. https://doi.org/10.1101/2024.11.07.622426.\n\n\nKaur, Prabhleen, Simone Ciuti, Federico Ossi, Francesca Cagnacci, Nicolas Morellet, Anne Loison, Kamal Atmeh, et al. 2024. “A Protocol for Assessing Bias and Robustness of Social Network Metrics Using GPS Based Radio-Telemetry Data.” Movement Ecology 12 (1): 55. https://doi.org/10.1186/s40462-024-00494-6.\n\n\nKaur, Prabhleen, Simone Ciuti, Adele K Reinking, Jeffrey L Beck, and Michael Salter-Townshend. 2024. “aniSNA: An R Package to Assess Bias and Uncertainty in Social Networks Obtained from Animals Sampled via Direct Observations or Satellite Telemetry.” bioRxiv.\n\n\nMaksimova, Kseniia, Emmeline W Hill, Beatrice A McGivney, David E MacHugh, and Michael Salter-Townshend. 2024. “Exploring Genetic Diversity and Identifying Key Contributors in the Thoroughbred Horse Population for Development of an Imputation Reference Panel.”\n\n\nWard, James A, Said I Ng’ang’a, Imtiaz AS Randhawa, Gillian P McHugo, John F O’Grady, Julio M Flórez, John A Browne, et al. 2024. “Genomic Insights into the Population History and Adaptive Traits of Latin American Criollo Cattle.” Royal Society Open Science 11 (3): 231388.\n\n\nZhao, Jinbo, Adrian O’Hagan, and Michael Salter-Townshend. 2024. “How Group Structure Impacts the Numbers at Risk for Coronary Artery Disease: Polygenic Risk Scores and Nongenetic Risk Factors in the UK Biobank Cohort.” Genetics 227 (3): iyae086. https://doi.org/10.1093/genetics/iyae086.\n\n\nO’Sullivan, Roisin, Raquel Cama-Moncunill, Michael Salter-Townshend, Olaf Schmidt, and Frank J Monahan. 2023. “Verifying Origin Claims on Dairy Products Using Stable Isotope Ratio Analysis and Random Forest Classification.” Food Chemistry: X 19: 100858.\n\n\nWang, Fangyijie, and Michael Salter-Townshend. 2023. “Novel Models for Multiple Dependent Heteroskedastic Time Series.” arXiv Preprint arXiv:2310.17760. https://arxiv.org/abs/2310.17760.\n\n\nZhao, Jinbo, Michael Salter-Townshend, and Adrian O’Hagan. 2023. “A Simulation Study for Multifactorial Genetic Disorders to Quantify the Impact of Polygenic Risk Scores on Critical Illness Insurance.” European Actuarial Journal 13 (2): 775–813. https://doi.org/10.1007/s13385-023-00345-5.\n\n\nHart, Emma E, Simone Ciuti, Leticia Herrmann, Julian Fennessy, Emma Wells, and Michael Salter-Townshend. 2022. “Static and Dynamic Methods in Social Network Analysis Reveal the Association Patterns of Desert-Dwelling Giraffe.” Behavioral Ecology and Sociobiology 76 (5): 62. https://doi.org/10.1007/s00265-022-03167-9.\n\n\nWard, James A, Gillian P McHugo, Michael J Dover, Thomas J Hall, Said Ismael Ng’ang’a, Tad S Sonstegard, Daniel G Bradley, Laurent AF Frantz, Michael Salter-Townshend, and David E MacHugh. 2022. “Genome-Wide Local Ancestry and Evidence for Mitonuclear Coadaptation in African Hybrid Cattle Populations.” iScience 25 (7): 104672. https://doi.org/10.1016/j.isci.2022.104672.\n\n\nZhao, Jinbo, Adrian O’Hagan, and Michael Salter-Townshend. 2022. “Polygenic Risk Scores for Determining Number at Risk.” In Irish Journal of Medical Science, 191:S70. Suppl 3. Springer.\n\n\nCotroneo, Chiara E, Isobel Claire Gormley, Denis C Shields, and Michael Salter-Townshend. 2021. “Computational Modelling of Chromosomally Clustering Protein Domains in Bacteria.” BMC Bioinformatics 22 (1): 593. https://doi.org/10.1186/s12859-021-04512-x.\n\n\nSalter-Townshend, Michael, and Simon Myers. 2019a. “Fine-Scale Inference of Ancestry Segments Without Prior Knowledge of Admixing Groups.” Genetics 212 (3): 869–89. https://doi.org/10.1534/genetics.119.302139.\n\n\nSalter-Townshend, Michael, and Simon Myers. 2019b. “Local Ancestry Inference in Non-Model Organisms.” In Human Heredity (European Meeting on Mathematical Genetics), 83:244. 5. Karger.\n\n\nMcMackin, Leo, and Michael Salter-Townshend. 2018. “Regression Tree Ensembles for Irish Property Valuation.”\n\n\nSweeney, James, Michael Salter-Townshend, Tamsin Edwards, Caitlin E Buck, and Andrew C Parnell. 2018. “Statistical Challenges in Estimating Past Climate Changes.” WIREs Computational Statistics 10 (5): e1437.\n\n\nSalter-Townshend, Michael, and Tyler H McCormick. 2017. “Latent Space Models for Multiview Network Data.” The Annals of Applied Statistics 11 (3): 1217–44.\n\n\nQin, Xiangju, Pádraig Cunningham, and Michael Salter-Townshend. 2016. “Online Trans-Dimensional von Mises–Fisher Mixture Models for User Profiles.” Journal of Machine Learning Research 17 (200): 1–51.\n\n\nBecker, Brett A, John Regan, Michael Salter-Townshend, and Kevin Casey. 2015. “Making a Case for an Irish Supercomputer List (Irish500).”\n\n\nParnell, Andrew C, James Sweeney, Thinh K Doan, Michael Salter-Townshend, Judy RM Allen, Brian Huntley, and John Haslett. 2015. “Bayesian Inference for Palaeoclimate with Time Uncertainty and Stochastic Volatility.” Journal of the Royal Statistical Society Series C: Applied Statistics 64 (1): 115–38.\n\n\nQin, Xiangju, Pádraig Cunningham, and Michael Salter-Townshend. 2015. “The Influence of Network Structures of Wikipedia Discussion Pages on the Efficiency of WikiProjects.” Social Networks 43: 1–15.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2015. “Role Analysis in Networks Using Mixtures of Exponential Random Graph Models.” Journal of Computational and Graphical Statistics 24 (2): 520–38.\n\n\nQin, Xiangju, Michael Salter-Townshend, and Pádraig Cunningham. 2014. “Exploring the Relationship Between Membership Turnover and Productivity in Online Communities.” In Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 8:406–15. 1.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2014. “Mixtures of Biased Sentiment Analysers.” Advances in Data Analysis and Classification 8 (1): 85–103.\n\n\nParnell, Andrew C, James Sweeney, Thinh K Doan, Michael Salter-Townshend, Judy RM Allen, Brian Huntley, and John Haslett. 2012. “On Bayesian Modelling of the Uncertainties in Palaeoclimate Reconstruction.” arXiv Preprint arXiv:1206.5009. https://arxiv.org/abs/1206.5009.\n\n\nSalter-Townshend, Michael. 2012. “Analysing My Facebook Friends.” Significance 9 (4): 40–42.\n\n\nSalter-Townshend, Michael, and John Haslett. 2012. “Fast Inversion of a Flexible Regression Model for Multivariate Pollen Counts Data.” Environmetrics 23 (7): 595–605.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2012a. “Sentiment Analysis of Online Media.” In Algorithms from and for Nature and Life. Studies in Classification, Data Analysis, and Knowledge Organization. Springer.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2012b. “Variational Bayesian Inference for the Latent Position Cluster Model for Network Data.” Computational Statistics & Data Analysis 57 (1): 661–71.\n\n\nSalter-Townshend, Michael, Arthur White, Isabella Gollini, and Thomas Brendan Murphy. 2012. “Review of Statistical Network Analysis: Models, Algorithms, and Software.” Statistical Analysis and Data Mining 5 (4): 243–64.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2011. “Clustering Nodes in a Network by Role.” In Conference on Applied Statistics in Ireland (CASI), 17.\n\n\nBrew, Anthony, and Michael Salter-Townshend. 2010. “A Latent Space Mapping for Link Prediction.” In Networks Across Disciplines: Theory and Applications; NIPS Workshop.\n\n\nParnell, Andrew C, John Haslett, Michael Salter-Townshend, Brian Huntley, and Judy RM Allen. 2009. “Quantifying Uncertainty in Palaeoclimate Reconstructions.” In EGU General Assembly Conference Abstracts, 785.\n\n\nSalter-Townshend, Michael. 2009. “Fast Approximate Inverse Bayesian Inference in Non-Parametric Multivariate Regression with Application to Palaeoclimate Reconstruction.” PhD thesis, Trinity College Dublin.\n\n\nSalter-Townshend, Michael, and Thomas Brendan Murphy. 2009. “Variational Bayesian Inference for the Latent Position Cluster Model.” In Analyzing Networks and Learning with Graphs; NIPS Workshop.\n\n\nHaslett, John, Andrew Parnell, and Michael Salter-Townshend. 2006. “Modelling Temporal Uncertainty in Palaeoclimate Reconstructions.” In Proceedings of the 21st International Workshop on Statistical Modelling, 26–37.\n\n\nHaslett, John, Matt Whiley, Sudipto Bhattacharya, Michael Salter-Townshend, Simon P Wilson, Judy RM Allen, Brian Huntley, and Fraser JG Mitchell. 2006. “Bayesian Palaeoclimate Reconstruction.” Journal of the Royal Statistical Society Series A: Statistics in Society 169 (3): 395–438.\n\n\nSalter-Townshend, Michael, and John Haslett. 2006. “Modelling Zero Inflation of Compositional Data.” In Proceedings of the 21st International Workshop on Statistical Modelling, 448–56."
+  },
+  {
+    "objectID": "posts/jz_viva.html",
+    "href": "posts/jz_viva.html",
+    "title": "Congratulations to Dr. Jinbo Zhao",
+    "section": "",
+    "text": "Congratulations to Jinbo Zhao on passing her PhD viva-voce examination!\nJinbo successfully defended her thesis, “Statistical Genetics Models with Actuarial Applications”, before external examiner Dr. Peter Joshi and internal examiner Prof. Thomas Brendan Murphy, passing with minor corrections.\nMany thanks to Dr. Adrian O’Hagan for co-supervising Jinbo throughout her PhD, and to Dr. Isabella Gollini for chairing the examination.\n\n\n\nCelebrating Dr. Jinbo Zhao’s PhD defence"
+  },
+  {
+    "objectID": "posts/coinflips.html",
+    "href": "posts/coinflips.html",
+    "title": "Coin Flipping on Newstalk’s Moncrieff Show",
+    "section": "",
+    "text": "Have you ever wondered how fair a coin toss actually is? Research has shown that both physical bias and perceptions of fairness can depend on how—and by whom—the toss is led.\nA light-hearted look at probability and statistics on Newstalk, joining Seán Moncrieff on the Moncrieff Show to unpack empirical coin-tossing experiments and perceived fairness.\n\nListen back to the segment: How fair is a coin toss actually?"
+  },
+  {
+    "objectID": "posts/Beef-Sig.html",
+    "href": "posts/Beef-Sig.html",
+    "title": "BEEF-SIG Project on Irish Grass-Fed Beef",
+    "section": "",
+    "text": "Signatures of Irish Grass-Fed Beef (BEEF-SIG)\nBEEF-SIG is a four-year collaborative research project between University College Dublin (UCD) and Teagasc (the Irish Agriculture and Food Development Authority), funded by the Department of Agriculture, Food and the Marine starting 1 January 2019.\nIrish beef is internationally recognised for its pasture-based production—for example, export markets such as the United States seek verification of animals raised on a predominantly grass diet under Bord Bia’s Sustainable Beef & Lamb Assurance Scheme (SBLAS). BEEF-SIG combines stable isotope ratio analysis, trace elemental profiling, and multivariate statistical classification to objectively quantify farm feed inputs (grass, silage, concentrates) and verify grass-fed origin claims."
+  },
+  {
+    "objectID": "posts/Eurodeer.html",
+    "href": "posts/Eurodeer.html",
+    "title": "Keynote on Social Network Analysis at Eurodeer XI",
+    "section": "",
+    "text": "Eurodeer is an international scientific network for data and knowledge sharing on wild roe deer populations.\nI was honoured to deliver a keynote lecture on Social Network Analysis to conservation biologists and movement ecologists from 33 research centres and environmental institutes at the Eurodeer XI meeting in Dublin. The network brings researchers together annually to harmonise telemetry datasets and collaborate on ecological studies.\nFollowing the workshop, our collaboration applies statistical network models—including stochastic blockmodels, role analysis, and latent space approaches—to multi-site GPS telemetry across diverse terrain, climate, and vegetation regimes, quantifying how supplemental feeding stations affect movement patterns and social interactions in wild deer populations."
+  },
+  {
+    "objectID": "posts/teaching-award.html",
+    "href": "posts/teaching-award.html",
+    "title": "UCD College of Science Teaching Excellence Award",
+    "section": "",
+    "text": "At the UCD College of Science Council Meeting in March 2021, I was honoured to receive a Teaching Excellence Award in recognition of the variety of techniques used to engage and motivate students, continuous curriculum revision and development, and engagement with the Widening Participation programme at University College Dublin."
+  },
+  {
+    "objectID": "posts/multifac.html",
+    "href": "posts/multifac.html",
+    "title": "Actuarial Science and Polygenic Risk Scores",
+    "section": "",
+    "text": "Jinbo Zhao, Michael Salter-Townshend, and Adrian O’Hagan have published an article in the European Actuarial Journal:\nA simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance\nPolygenic risk scores (PRS) assess inherited predisposition to complex diseases and have two primary utilities relevant to insurance: identifying high-risk groups alongside standard clinical factors, and informing early preventive interventions. Using coronary heart disease as a case study under a liability threshold model, we introduce PRS into an actuarial modelling framework to quantify adverse selection arising from information asymmetry. Exploring three applicant behaviour scenarios, we show that PRS predictive accuracy and the proportion of applicants aware of their genetic risk have the largest impact on equilibrium insurance premiums."
+  },
+  {
+    "objectID": "posts/aniSNA.html",
+    "href": "posts/aniSNA.html",
+    "title": "New Protocol and Software for Studying Animal Social Networks",
+    "section": "",
+    "text": "Update: Now published in Movement Ecology — read the published paper here and install the companion R package aniSNA on CRAN.\nPrabhleen Kaur, Simone Ciuti, Michael Salter-Townshend, and co-authors present A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data.\nIn wildlife studies, researchers can typically tag only a subset of individuals in a population, inferring broader social structure from that sample. Using empirical telemetry datasets across five ungulate species in diverse environments, we evaluate how robust global and local network summaries are to downsampling, autocorrelation, and population density—and provide both a step-by-step statistical protocol and open-source software (aniSNA) to carry out each stage of the analysis."
+  },
+  {
+    "objectID": "posts/gSNA.html",
+    "href": "posts/gSNA.html",
+    "title": "Giraffe Social Networks",
+    "section": "",
+    "text": "Emma E. Hart, Simone Ciuti, Leticia Herrmann, Julian Fennessy, Emma Wells, and Michael Salter-Townshend have published an article in Behavioral Ecology and Sociobiology:\nStatic and dynamic methods in social network analysis reveal the association patterns of desert-dwelling giraffe"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Research Group",
+    "section": "",
+    "text": "Alan Kamara (2026–present; co-supervised with Brendan Murphy)\n\nThesis topic: “Exploring the role of Mitonuclear Discordance in Parkinson’s Disease”\nFunded by the Rinn Centre for Artificial Intelligence\n\nJoshua Musau (2026–present; co-supervised with Brendan Murphy)\n\nThesis topic: “Social media sentiment analysis for severe weather warnings verification”\nFunded by the AIMSIR Centre\n\nKseniia Maksimova (2022–2026; co-supervised with Emmeline Hill)\n\nThesis topic: “Novel population genomics approaches for trait mapping using the Thoroughbred horse model”\nFunded by Genomics Data Science, SFI Centre for Research Training"
+  },
+  {
+    "objectID": "people.html#current-phd-students",
+    "href": "people.html#current-phd-students",
+    "title": "Research Group",
+    "section": "",
+    "text": "Alan Kamara (2026–present; co-supervised with Brendan Murphy)\n\nThesis topic: “Exploring the role of Mitonuclear Discordance in Parkinson’s Disease”\nFunded by the Rinn Centre for Artificial Intelligence\n\nJoshua Musau (2026–present; co-supervised with Brendan Murphy)\n\nThesis topic: “Social media sentiment analysis for severe weather warnings verification”\nFunded by the AIMSIR Centre\n\nKseniia Maksimova (2022–2026; co-supervised with Emmeline Hill)\n\nThesis topic: “Novel population genomics approaches for trait mapping using the Thoroughbred horse model”\nFunded by Genomics Data Science, SFI Centre for Research Training"
+  },
+  {
+    "objectID": "people.html#former-phd-students",
+    "href": "people.html#former-phd-students",
+    "title": "Research Group",
+    "section": "Former PhD Students",
+    "text": "Former PhD Students\n\nDr. Prabhleen Kaur (2019–2024; co-supervised with Simone Ciuti)\n\nThesis: “Social Network Analysis of Animal Social Networks: robustness and methods”\nFunded by Foundations of Data Science, SFI Centre for Research Training\nSubsequent role: Data Scientist at Microsoft\n\nDr. Kim Conteddu (2021–2024; primary supervisor Simone Ciuti)\n\nThesis: “Modelling the effect of human pressures on wildlife social-networks to improve our understanding of multispecies disease transmission”\nFunded by Foundations of Data Science, SFI Centre for Research Training\nSubsequent role: Manager Statistician at Bristol Myers Squibb\n\nDr. Jinbo Zhao (2017–2023; co-supervised with Adrian O’Hagan)\n\nThesis: “Statistical Genetics Models with Actuarial Applications”\nFunded by Insight SFI Research Centre for Data Analytics\nSubsequent role: Clinical Research Tutor in Biostatistics, UCD School of Medicine\n\nDr. Catherine Mahoney (2019–2023; primary supervisor Denis Shields)\n\nThesis: “Discovering genomic regions enriched for de novo recombination events”\nFunded by IRC Enterprise Partnership, Bioinformatics and Systems Biology\nSubsequent role: Associate Director, Digital Diagnostics and AI at AstraZeneca\n\nDr. James Ward (2019–2023; primary supervisor David MacHugh)\n\nThesis: “High resolution functional population genomics of modern, historical and ancient cattle (Bos spp.)”\nFunded by Genomics Data Science, SFI Centre for Research Training\nSubsequent role: Postdoctoral Researcher, Population Genomics Group (Prof. Medugorac), LMU Munich, Germany\n\nDr. Chiara Cotroneo (2017–2020; primary supervisor Denis Shields)\n\nThesis: “Identification of chromosomal clusters of protein domain coding regions in Bacteria and Archaea”\nFunded by the Wellcome Trust (Computational Infection Biology)\nSubsequent role: Senior Data Scientist | ML Engineer at Bolt"
+  },
+  {
+    "objectID": "people.html#msc-supervision",
+    "href": "people.html#msc-supervision",
+    "title": "Research Group",
+    "section": "MSc Supervision",
+    "text": "MSc Supervision\nI have supervised MSc dissertation projects across the following taught graduate programmes:\n\nMSc in Statistical Data Science, University College Dublin\nMSc in Statistics, University College Dublin (2017–present)\nMSc in Data and Computational Science, University College Dublin (2017–present)\nMSc in Actuarial Science, University College Dublin\nMSc in Applied Statistics, University of Oxford (2014, 2016)"
+  }
+]

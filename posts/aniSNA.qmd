@@ -1,0 +1,14 @@
+---
+title: "New Protocol and Software for Studying Animal Social Networks"
+date: "2023-04-03"
+description: "Step-by-step methodology and the aniSNA R package for assessing sampling bias and uncertainty in GPS telemetry social networks."
+categories: [paper]
+---
+
+**Update:** Now published in *Movement Ecology* — **[read the published paper here](https://doi.org/10.1186/s40462-024-00494-6)** and install the companion R package [**aniSNA** on CRAN](https://cran.r-project.org/package=aniSNA).
+
+[Prabhleen Kaur](https://www.linkedin.com/in/prabhleen-kaur-963b8a197/),
+[Simone Ciuti](https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd),
+[Michael Salter-Townshend](../index.qmd), and co-authors present **A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data**.
+
+In wildlife studies, researchers can typically tag only a subset of individuals in a population, inferring broader social structure from that sample. Using empirical telemetry datasets across five ungulate species in diverse environments, we evaluate how robust global and local network summaries are to downsampling, autocorrelation, and population density—and provide both a step-by-step statistical protocol and open-source software ([`aniSNA`](../software.qmd)) to carry out each stage of the analysis.

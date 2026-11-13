@@ -1,0 +1,17 @@
+---
+title: "All Publications"
+subtitle: "Complete chronological list of journal articles, preprints, book chapters, and proceedings"
+description-meta: "Full publication list of Michael Salter-Townshend"
+title-block-banner: false
+toc: false
+bibliography: publications.bib
+nocite: |
+  @*
+---
+
+Works are listed in reverse chronological order. For curated highlights see [Selected Publications](publications.qmd), or visit [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=uuxt2JMAAAAJ) for up-to-date citation metrics.
+
+## Published Works & Preprints
+
+::: {#refs}
+:::

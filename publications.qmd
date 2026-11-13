@@ -1,0 +1,36 @@
+---
+title: "Selected Publications"
+subtitle: "Key methodological and collaborative papers from recent years"
+description-meta: "Selected publications of Michael Salter-Townshend"
+title-block-banner: false
+toc: false
+bibliography: publications.bib
+nocite: |
+  @mchugo2026integrative,
+  @kaur2025using,
+  @mchugo2025genome,
+  @zhao2024group,
+  @kaur2024protocol,
+  @zhao2023simulation,
+  @ward2022genome,
+  @hart2022static,
+  @cotroneo2021computational,
+  @salter2019fine,
+  @salter2017latent
+---
+
+## Academic Profiles
+
+:::{.profile-pills}
+[{{< ai google-scholar >}} Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=uuxt2JMAAAAJ)
+[{{< ai orcid >}} ORCID](https://orcid.org/0000-0001-6232-9109)
+[{{< ai researchgate >}} ResearchGate](https://www.researchgate.net/profile/Michael_Salter-Townshend)
+[{{< ai webofscience >}} Web of Science](https://www.webofscience.com/wos/author/record/S-9350-2019)
+:::
+
+## Highlighted Work
+
+The papers below highlight key research directions across statistical genetics, network analysis, and applied Bayesian modelling (ordered newest first). For a complete chronological record, see [All Publications](pub-listing.qmd) or browse by topic under [Projects](projects.qmd).
+
+::: {#refs}
+:::

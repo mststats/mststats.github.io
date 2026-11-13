@@ -1,0 +1,72 @@
+---
+title: "Software"
+subtitle: "Open-source statistical software and R packages"
+description-meta: "Statistical genetics and network analysis R packages by Michael Salter-Townshend"
+title-block-banner: false
+---
+
+## Population & Statistical Genetics
+
+:::{.software-item}
+### [MOSAIC](https://maths.ucd.ie/~mst/MOSAIC/)
+
+**Modelling Multiway Admixture Using Dense Genotype Data**
+
+MOSAIC (*MOSAIC Organises Segments of Ancestry In Chromosomes*) fits a two-layer Hidden Markov Model to infer fine-scale local ancestry segments and characterise multiway admixture events—including mixing proportions and dates—without requiring prior specification of direct surrogate reference populations.
+
+- **Links:** [Project Website & Manual](https://maths.ucd.ie/~mst/MOSAIC/) · [HGDP Interactive Results Browser](https://maths.ucd.ie/~mst/MOSAIC/HGDP_browser) · [Genetics (2019) Paper](https://doi.org/10.1534/genetics.119.302139)
+:::
+
+## Statistical Network Analysis
+
+:::{.software-item}
+### [aniSNA](https://cran.r-project.org/package=aniSNA)
+
+**Statistical Network Analysis of Animal Social Networks**
+
+Constructs network structures from animal GPS telemetry or observational data and statistically assesses their adequacy and robustness for social network analysis. Includes pre-network data permutations, bootstrapping for confidence intervals on global and node-level metrics, and correlation/regression tools for local network summaries.
+
+```r
+install.packages("aniSNA")
+```
+
+- **Links:** [CRAN Package](https://cran.r-project.org/package=aniSNA) · [Movement Ecology (2024) Protocol Paper](https://doi.org/10.1186/s40462-024-00494-6)
+:::
+
+:::{.software-item}
+### [VBLPCM](https://cran.r-project.org/package=VBLPCM)
+
+**Variational Bayes Latent Position Cluster Model for Networks**
+
+Fits and simulates latent position and cluster models for social and relational network data using a fast Variational Bayes approximation, scaling latent space network inference to substantially larger graphs than MCMC alone.
+
+```r
+install.packages("VBLPCM")
+```
+
+- **Links:** [CRAN Package](https://cran.r-project.org/package=VBLPCM) · [CSDA (2012) Paper](projects/sna.qmd)
+:::
+
+:::{.software-item}
+### [egoTERGM](https://cran.r-project.org/package=egoTERGM)
+
+**Estimation of Ego-Temporal Exponential Random Graph Models**
+
+Estimates ego-centric temporal exponential random graph models (ego-TERGMs) and mixtures for longitudinal and role-structured ego-networks.
+
+```r
+install.packages("egoTERGM")
+```
+
+- **Links:** [CRAN Package](https://cran.r-project.org/package=egoTERGM) · [JCGS (2015) Role Analysis Paper](projects/sna.qmd)
+:::
+
+:::{.software-item}
+### [Statistical Network Analysis Review — Companion R Code](https://maths.ucd.ie/~mst/networks/R/supplement.zip)
+
+**Worked Examples in Network Modelling**
+
+Archived directory of input datasets and R scripts reproducing the examples in the supplementary tutorial to *"Review of Statistical Network Analysis: Models, Algorithms, and Software"* (*Statistical Analysis and Data Mining*, 2012).
+
+- **Links:** [Download Archive (.zip)](https://maths.ucd.ie/~mst/networks/R/supplement.zip)
+:::

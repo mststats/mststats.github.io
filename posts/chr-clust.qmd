@@ -1,0 +1,10 @@
+---
+title: "Computational Modelling of Chromosomally Clustering Protein Domains in Bacteria"
+date: "2021-12-13"
+description: "Statistical identification of protein-domain chromosomal clusters across bacterial genomes, published in BMC Bioinformatics."
+categories: [paper]
+---
+
+[Chiara Cotroneo](https://www.linkedin.com/in/chiaraec/), [Isobel Claire Gormley](https://sites.google.com/view/clairegormley/), [Denis C. Shields](https://people.ucd.ie/denis.shields), and [Michael Salter-Townshend](../index.qmd) have published an article in *BMC Bioinformatics*:
+
+**[Computational modelling of chromosomally clustering protein domains in bacteria](https://doi.org/10.1186/s12859-021-04512-x)**

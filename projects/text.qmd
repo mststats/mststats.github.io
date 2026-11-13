@@ -1,0 +1,24 @@
+---
+title: "Text, Topics & Sentiment"
+description: "Statistical modelling of online text streams, annotator bias in sentiment analysis, and directional topic mixtures."
+order: 4
+categories: ["sentiment", "bayesian", "machine-learning", "topics", "text"]
+image: "/files/images/text.png"
+toc: false
+bibliography: ../publications.bib
+nocite: |
+  @qin2016online,
+  @qin2015influence,
+  @qin2014exploring,
+  @salter2014mixtures,
+  @salter2012sentiment
+---
+
+Online media and collaborative platforms generate rich text streams alongside structured user interactions. Our work in this area includes mixture models that correct for systematic bias across sentiment classifiers and human annotators, online trans-dimensional von Mises–Fisher directional mixtures for evolving user topic profiles, and network-text analyses of collaborative efficiency in online communities.
+
+Current research in the [group](../people.qmd) (funded through the [AIMSIR Centre](https://www.ucd.ie/aimsir/)) extends social media sentiment and natural language modelling to real-time impact verification of severe weather warnings.
+
+## Project Publications
+
+::: {#refs}
+:::

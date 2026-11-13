@@ -1,0 +1,12 @@
+---
+title: "Study of Group Structure and Polygenic Risk in UK Biobank Data"
+date: "2024-07-08"
+description: "GENETICS July Feature article on how population group structure impacts coronary artery disease risk estimates."
+categories: [paper]
+---
+
+[Jinbo Zhao](https://www.linkedin.com/in/jinbozhao/), [Adrian O'Hagan](https://people.ucd.ie/adrian.ohagan), and [Michael Salter-Townshend](../index.qmd) have published an article in *GENETICS*:
+
+**[How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort](https://doi.org/10.1093/genetics/iyae086)**
+
+We are delighted that this paper was selected by *GENETICS* as a **July 2024 Issue Highlight / Feature Article**.

@@ -1,0 +1,80 @@
+project:
+  type: website
+  output-dir: docs
+
+# Meta
+description-meta: "Academic website of Michael Salter-Townshend, Associate Professor of Statistics at University College Dublin"
+author-meta: "Michael Salter-Townshend"
+
+website:
+  title: "Michael Salter-Townshend"
+  description: "Associate Professor of Statistics at University College Dublin"
+
+  navbar:
+    background: light
+    left:
+      - text: Publications
+        menu:
+          - text: Selected Publications
+            href: publications.qmd
+          - text: All Publications
+            href: pub-listing.qmd
+      - text: Research 
+        href: projects.qmd
+      - text: Software
+        href: software.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Activities
+        href: activities.qmd
+      - text: Group
+        href: people.qmd
+      - text: News
+        href: posts.qmd
+
+    right:
+      - text: CV
+        href: files/MST_cv.pdf
+        target: _blank
+      - icon: github
+        href: https://github.com/mststats
+        aria-label: GitHub
+        target: _blank
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app/profile/mststats.bsky.social
+        aria-label: Bluesky
+        target: _blank
+
+  page-navigation: true
+
+  page-footer:
+    left: "[Michael Salter-Townshend](https://maths.ucd.ie/~mst/) &copy; <script>document.write(new Date().getFullYear())</script>"
+    right: "[School of Mathematics and Statistics](https://www.ucd.ie/mathstat/), [UCD](https://www.ucd.ie/)"
+
+  search:
+    location: navbar
+    type: textbox
+
+  reader-mode: true
+  draft-mode: unlinked
+
+  repo-url: https://github.com/mststats/quarto-academic-website
+  open-graph: true
+  twitter-card: true
+  site-url: "https://mststats.github.io/quarto-academic-website"
+
+csl: files/includes/chronological.csl
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript

@@ -1,0 +1,166 @@
+/* ==========================================================================
+   Academic Website Styles — Michael Salter-Townshend
+   ========================================================================== */
+
+:root {
+  --mst-accent: #00447c;
+  --mst-accent-hover: #002d54;
+  --mst-muted: #5a6572;
+  --mst-surface: #f8fafc;
+  --mst-border: #e2e8f0;
+}
+
+body {
+  line-height: 1.65;
+  color: #22292f;
+}
+
+/* Navbar polish */
+.navbar {
+  border-bottom: 1px solid var(--mst-border);
+}
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Links */
+main a {
+  color: var(--mst-accent);
+  text-decoration: none;
+}
+
+main a:hover {
+  color: var(--mst-accent-hover);
+  text-decoration: underline;
+}
+
+/* Section headings */
+main h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--mst-border);
+  font-weight: 600;
+  font-size: 1.45rem;
+}
+
+main h3 {
+  margin-top: 1.35rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  font-size: 1.15rem;
+}
+
+/* Homepage About (Trestles) layout */
+.quarto-about-trestles .about-image {
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.09);
+  border: 3px solid #ffffff;
+}
+
+.quarto-about-trestles .about-links {
+  gap: 0.4rem;
+}
+
+.quarto-about-trestles .about-link {
+  border-radius: 6px;
+  font-size: 0.86rem;
+  padding: 0.3rem 0.65rem;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+/* Bibliography / Publications spacing */
+div.csl-bib-body {
+  margin-top: 1rem;
+}
+
+div.csl-entry {
+  margin-bottom: 0.95rem;
+  line-height: 1.55;
+}
+
+div.csl-entry a {
+  word-break: break-word;
+}
+
+/* Profile link pills on Publications page */
+.profile-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 0.75rem 0 1.5rem 0;
+}
+
+.profile-pills a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.38rem 0.8rem;
+  background-color: var(--mst-surface);
+  border: 1px solid var(--mst-border);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--mst-accent);
+  text-decoration: none;
+  transition: background-color 0.15s ease, border-color 0.15s ease, transform 0.12s ease;
+}
+
+.profile-pills a:hover {
+  background-color: #eef4fa;
+  border-color: #b8cde0;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+/* Project grid cards */
+.quarto-grid-item.card {
+  border: 1px solid var(--mst-border);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.16s ease, box-shadow 0.16s ease;
+}
+
+.quarto-grid-item.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(0, 36, 72, 0.08);
+}
+
+.quarto-grid-item img.thumbnail-image {
+  object-fit: contain;
+  background-color: var(--mst-surface);
+  padding: 0.6rem;
+  border-bottom: 1px solid var(--mst-border);
+}
+
+/* Subtle info box (e.g. Prospective Students) */
+.info-panel {
+  background-color: var(--mst-surface);
+  border-left: 4px solid var(--mst-accent);
+  padding: 0.95rem 1.2rem;
+  border-radius: 0 6px 6px 0;
+  margin-top: 1.5rem;
+}
+
+.info-panel p:last-child {
+  margin-bottom: 0;
+}
+
+/* Software cards / blocks */
+.software-item {
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+  background-color: var(--mst-surface);
+  border: 1px solid var(--mst-border);
+  border-radius: 8px;
+}
+
+.software-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+}
+
+.software-item p:last-child {
+  margin-bottom: 0;
+}

@@ -1,0 +1,35 @@
+---
+title: "Network Analysis"
+description: "Latent space models, variational inference, role analysis, and robust sampling methods for social and ecological networks."
+order: 2
+categories: ["networks", "bayesian", "machine-learning", "computational"]
+image: "/files/images/sna.png"
+toc: false
+bibliography: ../publications.bib
+nocite: |
+  @kaur2025using,
+  @kaur2024protocol,
+  @kaur2024anisna,
+  @conteddu2024random,
+  @conteddu2024scoping,
+  @hart2022static,
+  @salter2017latent,
+  @salter2015role,
+  @qin2015influence,
+  @salter2014mixtures,
+  @salter2012review,
+  @salter2012variational,
+  @salter2012analysing,
+  @salter2011clustering,
+  @brew2010latent,
+  @salter2009variational
+---
+
+Network data—comprising relational links between interacting individuals or entities—arise across the social, biological, and information sciences. Our methodological research develops scalable Bayesian and variational inference algorithms for latent space cluster models ([**VBLPCM**](../software.qmd)), multiview network representations, and ego-network role clustering via mixtures of exponential random graph models ([**egoTERGM**](../software.qmd)).
+
+In collaboration with wildlife and movement ecologists, we also study how partial sampling and GPS radio-telemetry design affect the bias and uncertainty of animal social network metrics, accompanied by open-source diagnostic protocols and the [**aniSNA**](../software.qmd) R package.
+
+## Project Publications
+
+::: {#refs}
+:::

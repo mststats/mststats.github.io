@@ -1,0 +1,29 @@
+---
+title: "Genome-Wide Local Ancestry and Mitonuclear Coadaptation in African Hybrid Cattle"
+subtitle: "*iScience*"
+date: "2022-06-27"
+description: "Using MOSAIC local ancestry inference to uncover mitonuclear coadaptation in admixed Bos taurus/indicus populations."
+categories: [paper]
+citation:
+  type: article-journal
+  container-title: "iScience"
+  doi: "10.1016/j.isci.2022.104672"
+  url: https://doi.org/10.1016/j.isci.2022.104672
+google-scholar: true
+image: /files/images/cattle.jpg
+---
+
+[James A. Ward](https://www.jamesaward.com/),
+[Gillian P. McHugo](https://gillianmchugo.github.io/),
+Michael J. Dover,
+Thomas J. Hall,
+[Said Ismael Ng'ang'a](https://www.qmul.ac.uk/sbbs/staff/saidismaelnganga.html),
+Tad S. Sonstegard,
+[Daniel G. Bradley](https://www.tcd.ie/Genetics/molpopgen/dan.php),
+Laurent A.F. Frantz,
+[Michael Salter-Townshend](../index.qmd), and
+[David E. MacHugh](https://people.ucd.ie/david.machugh) have published a paper in [*iScience*](https://www.cell.com/iscience):
+
+**[Genome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (*Bos taurus/indicus*)](https://doi.org/10.1016/j.isci.2022.104672)**
+
+Applying local ancestry inference across admixed African cattle breeds, we find significantly elevated taurine nuclear ancestry at genes whose protein products interact directly with mitochondrially encoded proteins—providing genome-wide functional evidence for mitonuclear coadaptation in hybrid mammals.

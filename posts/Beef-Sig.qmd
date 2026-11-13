@@ -1,0 +1,12 @@
+---
+title: "BEEF-SIG Project on Irish Grass-Fed Beef"
+date: "2019-01-15"
+description: "Four-year UCD and Teagasc collaboration developing analytical signatures to verify grass-fed Irish beef."
+categories: [news]
+---
+
+**Signatures of Irish Grass-Fed Beef (BEEF-SIG)**
+
+BEEF-SIG is a four-year collaborative research project between University College Dublin (UCD) and Teagasc (the Irish Agriculture and Food Development Authority), funded by the Department of Agriculture, Food and the Marine starting 1 January 2019.
+
+Irish beef is internationally recognised for its pasture-based production—for example, export markets such as the United States seek verification of animals raised on a predominantly grass diet under Bord Bia's Sustainable Beef & Lamb Assurance Scheme (SBLAS). BEEF-SIG combines stable isotope ratio analysis, trace elemental profiling, and multivariate statistical classification to objectively quantify farm feed inputs (grass, silage, concentrates) and verify grass-fed origin claims.

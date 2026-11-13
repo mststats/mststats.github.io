@@ -1,0 +1,15 @@
+---
+title: "Research Themes"
+subtitle: "Methodological and collaborative research themes"
+description-meta: "Research projects and themes of Michael Salter-Townshend"
+title-block-banner: false
+toc: false
+listing:
+  contents: projects
+  type: grid
+  grid-columns: 3
+  image-height: "200px"
+  grid-item-border: true
+  fields: [image, title, description]
+  sort: "order asc"
+---

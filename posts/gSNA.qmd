@@ -1,0 +1,15 @@
+---
+title: "Giraffe Social Networks"
+date: "2022-04-26"
+description: "Static and dynamic social network analysis uncovers association patterns in desert-dwelling giraffe."
+categories: [paper]
+---
+
+[Emma E. Hart](https://www.researchgate.net/scientific-contributions/Emma-E-Hart-2176499576),
+[Simone Ciuti](https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd),
+[Leticia Herrmann](https://www.linkedin.com/in/leticiaherrmann/),
+[Julian Fennessy](https://giraffeconservation.org/our-team/),
+[Emma Wells](https://www.linkedin.com/in/emma-wells-54453330/), and
+[Michael Salter-Townshend](../index.qmd) have published an article in [*Behavioral Ecology and Sociobiology*](https://link.springer.com/journal/265):
+
+**[Static and dynamic methods in social network analysis reveal the association patterns of desert-dwelling giraffe](https://doi.org/10.1007/s00265-022-03167-9)**

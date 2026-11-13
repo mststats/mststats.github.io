@@ -1,0 +1,12 @@
+---
+title: "Keynote on Social Network Analysis at Eurodeer XI"
+date: "2019-06-15"
+description: "Keynote lecture at the Eurodeer XI meeting on statistical network models for wildlife movement and conservation."
+categories: [event]
+---
+
+**Eurodeer is an international scientific network for data and knowledge sharing on wild roe deer populations.**
+
+I was honoured to deliver a keynote lecture on Social Network Analysis to conservation biologists and movement ecologists from 33 research centres and environmental institutes at the Eurodeer XI meeting in Dublin. The network brings researchers together annually to harmonise telemetry datasets and collaborate on ecological studies.
+
+Following the workshop, our collaboration applies statistical network models—including stochastic blockmodels, role analysis, and latent space approaches—to multi-site GPS telemetry across diverse terrain, climate, and vegetation regimes, quantifying how supplemental feeding stations affect movement patterns and social interactions in wild deer populations.

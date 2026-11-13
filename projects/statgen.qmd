@@ -1,0 +1,32 @@
+---
+title: "Statistical Genetics"
+description: "Statistical modelling of population genomics, local ancestry inference, polygenic risk, and evolutionary adaptation."
+order: 1
+categories: ["genetics", "bayesian", "computational"]
+image: "/files/images/statgen.png"
+toc: false
+bibliography: ../publications.bib
+nocite: |
+  @mchugo2026integrative,
+  @mahoney2026detecting,
+  @feng2026integrative,
+  @mchugo2025genome,
+  @zhao2024group,
+  @ward2024genomic,
+  @maksimova2024exploring,
+  @zhao2023simulation,
+  @ward2022genome,
+  @zhao2022polygenic,
+  @cotroneo2021computational,
+  @salter2019fine,
+  @salter2019local
+---
+
+Our work in statistical genetics develops probabilistic and computational models to uncover demographic history, recombination patterns, natural selection, and complex trait architecture from high-dimensional genomic data. A central contribution is [**MOSAIC**](../software.qmd), a two-layer Hidden Markov Model for multiway local ancestry inference that reconstructs historical admixture events without requiring direct surrogate reference populations.
+
+Recent and ongoing collaborations span human biobank cohorts (quantifying group-structure effects on polygenic risk scores in the UK Biobank and mitonuclear discordance in Parkinson's disease), livestock and equine functional genomics (mitonuclear coadaptation and trypanotolerance in hybrid African cattle; imputation and exercise genomics in Thoroughbred horses), and bacterial comparative genomics.
+
+## Project Publications
+
+::: {#refs}
+:::

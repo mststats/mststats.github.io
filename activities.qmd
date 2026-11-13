@@ -1,0 +1,69 @@
+---
+title: "Professional Activities"
+subtitle: "Academic leadership, doctoral examination, peer review, and service"
+description-meta: "Professional service, leadership, and refereeing activities of Michael Salter-Townshend"
+title-block-banner: false
+---
+
+## Current Leadership & Academic Roles
+
+- **Head of Graduate Teaching and Learning**, School of Mathematics and Statistics, UCD (2022–present)
+- **Director of [Online Programmes](https://www.ucd.ie/online/dataanalytics)**, School of Mathematics and Statistics, UCD (2017–present)
+- **Co-director of Data Science Programme**, ADVANCE Centre for Professional Education, UCD (2020–present)
+- **Funded Investigator**, [Rinn Centre for Artificial Intelligence](https://www.rinn-network.ie/rinn-ai/)
+- **Named Supervisor**, [SFI Centre for Research Training in Foundations of Data Science](https://www.data-science.ie/)
+- **Named Supervisor**, [SFI Centre for Research Training in Genomics Data Science](https://genomicsdatascience.ie/)
+
+## Doctoral Examination
+
+- **External Examiner**, PhD in Bioinformatics, Ulster University (2024)
+- **External Examiner**, PhD in Statistics, Trinity College Dublin (2027)
+- **Internal Examiner**, PhD in Statistics, University College Dublin (2017, 2018, 2019, 2025, 2026)
+- **PhD Viva Chair**, University College Dublin (2017, 2019, 2021–2026)
+
+## Refereeing
+
+### Statistical Genetics
+
+- [Genetics](https://academic.oup.com/genetics)
+- [Journal of Heredity](https://academic.oup.com/jhered)
+- [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)
+- [Genome Research](https://genome.cshlp.org/)
+- [Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x)
+- [Molecular Ecology Resources](https://onlinelibrary.wiley.com/journal/17550998)
+- [Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210X)
+
+### Statistics & Machine Learning
+
+- [Biometrika](https://academic.oup.com/biomet)
+- [Annals of Applied Statistics](https://projecteuclid.org/journals/annals-of-applied-statistics)
+- [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/journals/ucgs20)
+- [Statistics and Computing](https://link.springer.com/journal/11222)
+- [Statistical Analysis and Data Mining](https://onlinelibrary.wiley.com/journal/19321872)
+- [Machine Learning](https://link.springer.com/journal/10994)
+- [Network Science](https://www.cambridge.org/core/journals/network-science)
+- [Pattern Analysis and Applications](https://link.springer.com/journal/10044)
+- [NeurIPS](https://neurips.cc/) (2014)
+- [AISTATS](https://www.aistats.org/) (2012, 2013)
+- [International Statistical Institute World Congress](https://www.isi-web.org/) (2011)
+
+### Ecology, Environment, etc
+
+- [Animal Behaviour](https://www.sciencedirect.com/journal/animal-behaviour)
+- [Environmetrics](https://onlinelibrary.wiley.com/journal/1099095x)
+- [IEEE Transactions on Knowledge and Data Engineering](https://www.computer.org/csdl/journal/tk)
+- [ECML PKDD](https://ecmlpkdd.org/) (2018)
+
+## Previous Roles & Service
+
+- **Interim Head of Subject for Statistics**, School of Mathematics and Statistics, UCD (Jan 2026 – July 2026)
+- **Statistician**, [Animal Research Ethics Committee](https://www.ucd.ie/researchethics/committees/arec/), UCD (2017–2026)
+- **Committee Member**, [Irish Society of Human Genetics](https://ishg.ie/) (2018–2025)
+- **Education Officer**, [Irish Statistical Association](https://istat.ie/) (2017–2019)
+- **Maintenance Committee**, Irish Supercomputer List (2013–2018)
+- **Organising Committee**, [Conference on Applied Statistics in Ireland (CASI)](https://casi.ie/CASI_2017/index.html) (2017)
+- **Organiser of DPhil / Postdoc Seminar Series**, Department of Statistics, University of Oxford (2013–2016)
+- **Green Impact Committee**, Department of Statistics, University of Oxford (2013–2016)
+- **Mathematics Exam Assessor**, [University of Oxford](https://www.ox.ac.uk/) (2015, 2016)
+- **Academic Taster & Admissions Facilitator**, [Mansfield College, Oxford](https://www.mansfield.ox.ac.uk/) (2015)
+- **Hiring Interview Board**, CeADAR (Centre for Applied Data Analytics Research) (2013)

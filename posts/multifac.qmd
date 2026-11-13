@@ -1,0 +1,12 @@
+---
+title: "Actuarial Science and Polygenic Risk Scores"
+date: "2023-04-14"
+description: "New European Actuarial Journal study quantifying how polygenic risk scores impact critical illness insurance."
+categories: [paper]
+---
+
+[Jinbo Zhao](https://www.linkedin.com/in/jinbozhao/), [Michael Salter-Townshend](../index.qmd), and [Adrian O'Hagan](https://people.ucd.ie/adrian.ohagan) have published an article in the *European Actuarial Journal*:
+
+**[A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance](https://doi.org/10.1007/s13385-023-00345-5)**
+
+Polygenic risk scores (PRS) assess inherited predisposition to complex diseases and have two primary utilities relevant to insurance: identifying high-risk groups alongside standard clinical factors, and informing early preventive interventions. Using coronary heart disease as a case study under a liability threshold model, we introduce PRS into an actuarial modelling framework to quantify adverse selection arising from information asymmetry. Exploring three applicant behaviour scenarios, we show that PRS predictive accuracy and the proportion of applicants aware of their genetic risk have the largest impact on equilibrium insurance premiums.

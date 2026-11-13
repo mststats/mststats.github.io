@@ -1,0 +1,19 @@
+---
+title: "What’s New & Updated"
+subtitle: "Posts about papers, events, media appearances, and group news"
+description-meta: "News, publications, and events from Michael Salter-Townshend's group"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  page-size: 25
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  fields: [date, title, description, categories, image]
+draft-mode: unlinked
+page-navigation: false
+title-block-banner: false
+toc: false
+---

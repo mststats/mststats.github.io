@@ -1,0 +1,13 @@
+---
+title: "SFI Centres for Research Training"
+date: "2019-03-01"
+description: "Named PhD supervisor in the Foundations of Data Science and Genomics Data Science SFI Centres for Research Training."
+categories: [news]
+---
+
+I am a named PhD supervisor in two **Centres for Research Training (CRTs)** funded by **Science Foundation Ireland**:
+
+- [SFI CRT in Foundations of Data Science](https://www.data-science.ie/)
+- [SFI CRT in Genomics Data Science](https://genomicsdatascience.ie/)
+
+Both programmes offer fully funded cohort-based PhD training across data science, statistical methodology, and genomics. Follow the links above for programme and application details.

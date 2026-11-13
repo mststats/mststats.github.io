@@ -1,0 +1,37 @@
+---
+title: "MOSAIC: Fine-Scale Inference of Multiway Ancestry Without Surrogate Reference Groups"
+date: "2019-07-01"
+description: "Highlighted GENETICS paper introducing a two-layer Hidden Markov Model to infer complex population admixture histories."
+categories: [paper]
+---
+
+**Admixture is a pervasive and important element of human demographic history.**
+
+## Summary
+
+Our highlighted paper in [*GENETICS*](https://academic.oup.com/genetics) deals with modelling complex human population histories. We focus on *admixture*—when two or more previously separated populations come together, typically due to migration or the removal of geographical or social barriers^[e.g. cultural or linguistic barriers] to interbreeding. By examining modern genetic samples, we report widespread evidence for admixture globally and persistently across human history.
+
+Our method, [**MOSAIC**](https://maths.ucd.ie/~mst/MOSAIC/)^[MOSAIC stands for *MOSAIC Organises Segments of Ancestry In Chromosomes*], reconstructs how admixture events unfolded: which ancestral groups mixed, in what proportions, and when. Crucially, it relies only on modern genetic samples and does not require prior assumptions about which modern populations act as direct surrogates for unseen ancient mixing groups. Whereas earlier methods assume a known one-to-one correspondence between modern reference panels and ancestral sources, **MOSAIC** learns potentially complex copying relationships directly from the data via a two-layer Hidden Markov Model^[Built upon the Li and Stephens haplotype-copying framework ([Li and Stephens, 2003](https://doi.org/10.1093/genetics/165.4.2213)), which forms the lower layer of our coupled Hidden Markov Model.]. In doing so, **MOSAIC** both characterises population-wide admixture history and assigns locus-specific local ancestry along every chromosome of each individual.
+
+Analysing 95 global populations, we identify previously uncharacterised admixture events, including complex four-way admixture in San–Khomani individuals from Southern Africa, 1%–3% ancestry related to modern Central Asians across Eastern European populations, and recent natural selection favouring sub-Saharan ancestry across the HLA immune complex^[The **H**uman **L**eukocyte **A**ntigen complex encodes key immune-system proteins and is a well-known target of natural selection.] in North African populations.
+
+- **Read the paper in *GENETICS*: [https://doi.org/10.1534/genetics.119.302139](https://doi.org/10.1534/genetics.119.302139)**
+- **Explore the [MOSAIC Project Website](https://maths.ucd.ie/~mst/MOSAIC/) for source code, documentation, and the interactive browser.**
+
+## Key Takeaways
+
+- Modern genetic samples show that observed human populations reflect repeated mixtures of older populations across history.
+- **MOSAIC** infers the timing and proportions of multiway admixture without requiring pre-specified surrogate reference populations.
+- Simulation and empirical benchmarks demonstrate substantially improved accuracy when direct ancestral surrogates are unavailable or themselves admixed.
+- Highlights across 95 analysed populations include four-way admixture in Southern Africa, subtle East/Central Eurasian gene flow in Eastern Europe, and adaptive introgression at the HLA locus in North Africa.
+- Interactive results for all 95 populations are available via the [HGDP Results Browser](https://maths.ucd.ie/~mst/MOSAIC/HGDP_browser).
+
+## Additional Detail
+
+All populations are admixed when examined at sufficient time depth:
+
+> "There's no such thing as a 'pure' European—or anyone else" ([Gibbons, *Science*, 2017](https://www.science.org/content/article/theres-no-such-thing-pure-european-or-anyone-else)).^[Ancient DNA studies confirm that deep prehistoric populations were similarly shaped by recurrent migration and mixture ([Jeong et al., 2019](https://www.nature.com/articles/s41559-019-0878-2)).]
+
+When populations are partially or fully isolated, random genetic drift causes allele frequencies to diverge over time, producing geographic population structure ([Novembre et al., 2008](https://doi.org/10.1038/nature07331)). When previously separated groups later admix, chromosomal recombination breaks down inherited ancestral tracts into progressively shorter segments with each passing generation ([Hellenthal et al., 2014](https://doi.org/10.1126/science.1243518)).
+
+If those ancestral segments were directly observable, their length distribution would reveal when mixing occurred and in what ratios. In practice, chromosome painting compares target haplotypes against modern reference panels—which have themselves drifted and often experienced independent admixture since the historical event. **MOSAIC** addresses this central challenge by estimating flexible copying probabilities and drift parameters jointly from the data, allowing admixed donor panels to increase statistical power rather than confound inference. The method applies to any sexually reproducing species.

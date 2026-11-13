@@ -1,0 +1,28 @@
+---
+title: "Palaeoclimate Reconstruction"
+description: "Bayesian inverse regression and spatio-temporal uncertainty quantification for reconstructing past climates from proxy data."
+order: 3
+categories: ["palaeo", "bayesian", "computational"]
+image: "/files/images/bpr.png"
+toc: false
+bibliography: ../publications.bib
+nocite: |
+  @sweeney2018statistical,
+  @parnell2015bayesian,
+  @salter2012fast,
+  @parnell2012bayesian,
+  @salter2009fast,
+  @parnell2009quantifying,
+  @haslett2006bayesian,
+  @haslett2006modelling,
+  @salter2006modelling
+---
+
+Reconstructing past climates from biological and geological proxies (such as fossil pollen counts) poses challenging statistical inverse problems involving zero-inflated compositional responses, non-linear ecological transfer functions, radiocarbon dating uncertainty, and stochastic climate volatility.
+
+Our research develops fast approximate Bayesian inversion techniques and hierarchical spatio-temporal models that jointly propagate chronological, proxy, and model uncertainties when inferring palaeoclimate trajectories over thousands of years.
+
+## Project Publications
+
+::: {#refs}
+:::

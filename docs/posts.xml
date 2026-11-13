@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Michael Salter-Townshend</title>
+<link>https://mststats.github.io/quarto-academic-website/posts.html</link>
+<atom:link href="https://mststats.github.io/quarto-academic-website/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Associate Professor of Statistics at University College Dublin</description>
+<generator>quarto-1.11.9</generator>
+<lastBuildDate>Mon, 12 May 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Coin Flipping on Newstalk’s Moncrieff Show</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/coinflips.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Have you ever wondered how fair a coin toss actually is? Research has shown that both physical bias and perceptions of fairness can depend on how—and by whom—the toss is led.</strong></p>
+<p>A light-hearted look at probability and statistics on <a href="https://www.newstalk.com/">Newstalk</a>, joining Seán Moncrieff on the <a href="https://www.newstalk.com/shows/moncrieff-234861">Moncrieff Show</a> to unpack empirical coin-tossing experiments and perceived fairness.</p>
+<ul>
+<li><strong>Listen back to the segment: <a href="https://www.newstalk.com/podcasts/highlights-from-moncrieff/how-fair-is-a-coin-toss-actually">How fair is a coin toss actually?</a></strong></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/coinflips.html</guid>
+  <pubDate>Mon, 12 May 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Study of Group Structure and Polygenic Risk in UK Biobank Data</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/groupstructure.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.linkedin.com/in/jinbozhao/">Jinbo Zhao</a>, <a href="https://people.ucd.ie/adrian.ohagan">Adrian O’Hagan</a>, and <a href="../index.html">Michael Salter-Townshend</a> have published an article in <em>GENETICS</em>:</p>
+<p><strong><a href="https://doi.org/10.1093/genetics/iyae086">How group structure impacts the numbers at risk for coronary artery disease: polygenic risk scores and nongenetic risk factors in the UK Biobank cohort</a></strong></p>
+<p>We are delighted that this paper was selected by <em>GENETICS</em> as a <strong>July 2024 Issue Highlight / Feature Article</strong>.</p>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/groupstructure.html</guid>
+  <pubDate>Sun, 07 Jul 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Congratulations to Dr. Jinbo Zhao</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/jz_viva.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Congratulations to Jinbo Zhao on passing her PhD viva-voce examination!</strong></p>
+<p>Jinbo successfully defended her thesis, <em>“Statistical Genetics Models with Actuarial Applications”</em>, before external examiner Dr.&nbsp;Peter Joshi and internal examiner Prof.&nbsp;Thomas Brendan Murphy, passing with minor corrections.</p>
+<p>Many thanks to Dr.&nbsp;Adrian O’Hagan for co-supervising Jinbo throughout her PhD, and to Dr.&nbsp;Isabella Gollini for chairing the examination.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mststats.github.io/quarto-academic-website/files/images/JZ_celebrate.jpg" class="img-fluid figure-img"></p>
+<figcaption>Celebrating Dr.&nbsp;Jinbo Zhao’s PhD defence</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/jz_viva.html</guid>
+  <pubDate>Wed, 14 Jun 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://mststats.github.io/quarto-academic-website/files/images/JZ_celebrate.jpg" medium="image" type="image/jpeg" height="99" width="144"/>
+</item>
+<item>
+  <title>Scoping Review on Bovine Tuberculosis and Zoonotic Disease Spread</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/bTB.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Update:</strong> Now published in <em>Veterinary Research</em> — <strong><a href="https://doi.org/10.1186/s13567-024-01314-w">read the published open-access article here</a></strong>.</p>
+<p><a href="https://www.linkedin.com/in/kimberly-conteddu-ph-d-4921b220b/">Kimberly Conteddu</a>, <a href="https://orcid.org/0000-0002-8854-6707">Holly M. English</a>, <a href="https://www.researchgate.net/profile/Andrew-Byrne-6">Andrew W. Byrne</a>, <a href="https://scholar.google.com/citations?user=Q2xguAoAAAAJ&amp;hl=en&amp;oi=ao">Bawan Amin</a>, Laura L. Griffin, <a href="https://www.linkedin.com/in/prabhleen-kaur-963b8a197/">Prabhleen Kaur</a>, <a href="https://ecoevo.social/@virginiamp">Virginia Morera-Pujol</a>, <a href="https://www.researchgate.net/profile/Kilian-Murphy-3">Kilian J. Murphy</a>, <a href="../index.html">Michael Salter-Townshend</a>, <a href="https://www.researchgate.net/profile/Adam-Smith-152">Adam Francis Smith</a>, and <a href="https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd">Simone Ciuti</a> examine multi-host zoonotic epidemiology in <strong>A scoping review on bovine tuberculosis highlights the need for novel data streams and analytical approaches to curb zoonotic diseases</strong>.</p>
+<ul>
+<li><strong>Background:</strong> Zoonotic diseases represent a major societal challenge in terms of health and economic impacts. One Health approaches to managing zoonoses require cross-disciplinary collaboration, novel data streams, and statistical modelling. Bovine tuberculosis (bTB) is a prime example involving domestic livestock, wildlife hosts, and environmental factors.</li>
+<li><strong>Objective:</strong> We undertook a scoping review of multi-host bTB epidemiology to identify trends in host species focus, analytical methodologies, spatial scales, and One Health integration.</li>
+<li><strong>Results:</strong> Reviewing 167 articles, we found strong geographic and species concentration on the badger–cattle episystem, with far less attention to multi-host systems in southern Africa. Relatively few studies modelled management exit strategies, human disturbance, habitat change, or weather/climate variables.</li>
+<li><strong>Conclusions:</strong> Linking high-resolution empirical wildlife tracking with mathematical and simulation modelling offers a “virtuous cycle” to inform bTB policy and broader zoonotic disease control.</li>
+</ul>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/bTB.html</guid>
+  <pubDate>Wed, 10 May 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Actuarial Science and Polygenic Risk Scores</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/multifac.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.linkedin.com/in/jinbozhao/">Jinbo Zhao</a>, <a href="../index.html">Michael Salter-Townshend</a>, and <a href="https://people.ucd.ie/adrian.ohagan">Adrian O’Hagan</a> have published an article in the <em>European Actuarial Journal</em>:</p>
+<p><strong><a href="https://doi.org/10.1007/s13385-023-00345-5">A simulation study for multifactorial genetic disorders to quantify the impact of polygenic risk scores on critical illness insurance</a></strong></p>
+<p>Polygenic risk scores (PRS) assess inherited predisposition to complex diseases and have two primary utilities relevant to insurance: identifying high-risk groups alongside standard clinical factors, and informing early preventive interventions. Using coronary heart disease as a case study under a liability threshold model, we introduce PRS into an actuarial modelling framework to quantify adverse selection arising from information asymmetry. Exploring three applicant behaviour scenarios, we show that PRS predictive accuracy and the proportion of applicants aware of their genetic risk have the largest impact on equilibrium insurance premiums.</p>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/multifac.html</guid>
+  <pubDate>Thu, 13 Apr 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New Protocol and Software for Studying Animal Social Networks</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/aniSNA.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Update:</strong> Now published in <em>Movement Ecology</em> — <strong><a href="https://doi.org/10.1186/s40462-024-00494-6">read the published paper here</a></strong> and install the companion R package <a href="https://cran.r-project.org/package=aniSNA"><strong>aniSNA</strong> on CRAN</a>.</p>
+<p><a href="https://www.linkedin.com/in/prabhleen-kaur-963b8a197/">Prabhleen Kaur</a>, <a href="https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd">Simone Ciuti</a>, <a href="../index.html">Michael Salter-Townshend</a>, and co-authors present <strong>A protocol for assessing bias and robustness of social network metrics using GPS based radio-telemetry data</strong>.</p>
+<p>In wildlife studies, researchers can typically tag only a subset of individuals in a population, inferring broader social structure from that sample. Using empirical telemetry datasets across five ungulate species in diverse environments, we evaluate how robust global and local network summaries are to downsampling, autocorrelation, and population density—and provide both a step-by-step statistical protocol and open-source software (<a href="../software.html"><code>aniSNA</code></a>) to carry out each stage of the analysis.</p>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/aniSNA.html</guid>
+  <pubDate>Sun, 02 Apr 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Genome-Wide Local Ancestry and Mitonuclear Coadaptation in African Hybrid Cattle</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/cattle.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.jamesaward.com/">James A. Ward</a>, <a href="https://gillianmchugo.github.io/">Gillian P. McHugo</a>, Michael J. Dover, Thomas J. Hall, <a href="https://www.qmul.ac.uk/sbbs/staff/saidismaelnganga.html">Said Ismael Ng’ang’a</a>, Tad S. Sonstegard, <a href="https://www.tcd.ie/Genetics/molpopgen/dan.php">Daniel G. Bradley</a>, Laurent A.F. Frantz, <a href="../index.html">Michael Salter-Townshend</a>, and <a href="https://people.ucd.ie/david.machugh">David E. MacHugh</a> have published a paper in <a href="https://www.cell.com/iscience"><em>iScience</em></a>:</p>
+<p><strong><a href="https://doi.org/10.1016/j.isci.2022.104672">Genome-wide local ancestry and evidence for mitonuclear coadaptation in African hybrid cattle populations (<em>Bos taurus/indicus</em>)</a></strong></p>
+<p>Applying local ancestry inference across admixed African cattle breeds, we find significantly elevated taurine nuclear ancestry at genes whose protein products interact directly with mitochondrially encoded proteins—providing genome-wide functional evidence for mitonuclear coadaptation in hybrid mammals.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><div class="code-copy-outer-scaffold"><pre class="sourceCode quarto-appendix-bibtex code-with-copy"><code class="sourceCode bibtex">@article{2022,
+  author = {},
+  title = {Genome-Wide {Local} {Ancestry} and {Mitonuclear}
+    {Coadaptation} in {African} {Hybrid} {Cattle}},
+  journal = {iScience},
+  date = {2022-06-27},
+  url = {https://doi.org/10.1016/j.isci.2022.104672},
+  doi = {10.1016/j.isci.2022.104672},
+  langid = {en}
+}
+</code></pre></div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-2022" class="csl-entry quarto-appendix-citeas">
+<span>“Genome-Wide Local Ancestry and Mitonuclear Coadaptation in
+African Hybrid Cattle.”</span> 2022. <em>iScience</em>, June. <a href="https://doi.org/10.1016/j.isci.2022.104672">https://doi.org/10.1016/j.isci.2022.104672</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/cattle.html</guid>
+  <pubDate>Sun, 26 Jun 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://mststats.github.io/quarto-academic-website/files/images/cattle.jpg" medium="image" type="image/jpeg" height="144" width="144"/>
+</item>
+<item>
+  <title>Giraffe Social Networks</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/gSNA.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.researchgate.net/scientific-contributions/Emma-E-Hart-2176499576">Emma E. Hart</a>, <a href="https://sites.google.com/ucd.ie/wildl-ecol-behav-at-ucd">Simone Ciuti</a>, <a href="https://www.linkedin.com/in/leticiaherrmann/">Leticia Herrmann</a>, <a href="https://giraffeconservation.org/our-team/">Julian Fennessy</a>, <a href="https://www.linkedin.com/in/emma-wells-54453330/">Emma Wells</a>, and <a href="../index.html">Michael Salter-Townshend</a> have published an article in <a href="https://link.springer.com/journal/265"><em>Behavioral Ecology and Sociobiology</em></a>:</p>
+<p><strong><a href="https://doi.org/10.1007/s00265-022-03167-9">Static and dynamic methods in social network analysis reveal the association patterns of desert-dwelling giraffe</a></strong></p>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/gSNA.html</guid>
+  <pubDate>Mon, 25 Apr 2022 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Computational Modelling of Chromosomally Clustering Protein Domains in Bacteria</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/chr-clust.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.linkedin.com/in/chiaraec/">Chiara Cotroneo</a>, <a href="https://sites.google.com/view/clairegormley/">Isobel Claire Gormley</a>, <a href="https://people.ucd.ie/denis.shields">Denis C. Shields</a>, and <a href="../index.html">Michael Salter-Townshend</a> have published an article in <em>BMC Bioinformatics</em>:</p>
+<p><strong><a href="https://doi.org/10.1186/s12859-021-04512-x">Computational modelling of chromosomally clustering protein domains in bacteria</a></strong></p>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/chr-clust.html</guid>
+  <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>UCD College of Science Teaching Excellence Award</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/teaching-award.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>At the UCD College of Science Council Meeting in March 2021, I was honoured to receive a <strong>Teaching Excellence Award</strong> in recognition of the variety of techniques used to engage and motivate students, continuous curriculum revision and development, and engagement with the Widening Participation programme at University College Dublin.</p>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/teaching-award.html</guid>
+  <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Bayesian Palaeoclimate Session at INQUA 2019</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/INQUA.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>INQUA 2019 is the 20th Congress of the International Union for Quaternary Research, hosted in Dublin.</strong></p>
+<p>Together with Dr.&nbsp;Niamh Cahill and Prof.&nbsp;Andrew Parnell, I co-convened a session on <a href="https://app.oxfordabstracts.com/events/574/program-app/session/4680">Bayesian statistical analysis methods for paleoclimate data</a>. The session drew a full room with six invited and contributed talks alongside an active poster session, highlighting how hierarchical Bayesian methodology tackles inverse problems such as climate reconstruction under multiple sources of chronological and proxy uncertainty.</p>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/INQUA.html</guid>
+  <pubDate>Tue, 30 Jul 2019 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>MOSAIC: Fine-Scale Inference of Multiway Ancestry Without Surrogate Reference Groups</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/MOSAIC.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Admixture is a pervasive and important element of human demographic history.</strong></p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Our highlighted paper in <a href="https://academic.oup.com/genetics"><em>GENETICS</em></a> deals with modelling complex human population histories. We focus on <em>admixture</em>—when two or more previously separated populations come together, typically due to migration or the removal of geographical or social barriers<sup>1</sup> to interbreeding. By examining modern genetic samples, we report widespread evidence for admixture globally and persistently across human history.</p>
+<p>Our method, <a href="https://maths.ucd.ie/~mst/MOSAIC/"><strong>MOSAIC</strong></a><sup>2</sup>, reconstructs how admixture events unfolded: which ancestral groups mixed, in what proportions, and when. Crucially, it relies only on modern genetic samples and does not require prior assumptions about which modern populations act as direct surrogates for unseen ancient mixing groups. Whereas earlier methods assume a known one-to-one correspondence between modern reference panels and ancestral sources, <strong>MOSAIC</strong> learns potentially complex copying relationships directly from the data via a two-layer Hidden Markov Model<sup>3</sup>. In doing so, <strong>MOSAIC</strong> both characterises population-wide admixture history and assigns locus-specific local ancestry along every chromosome of each individual.</p>
+<p>Analysing 95 global populations, we identify previously uncharacterised admixture events, including complex four-way admixture in San–Khomani individuals from Southern Africa, 1%–3% ancestry related to modern Central Asians across Eastern European populations, and recent natural selection favouring sub-Saharan ancestry across the HLA immune complex<sup>4</sup> in North African populations.</p>
+<ul>
+<li><strong>Read the paper in <em>GENETICS</em>: <a href="https://doi.org/10.1534/genetics.119.302139">https://doi.org/10.1534/genetics.119.302139</a></strong></li>
+<li><strong>Explore the <a href="https://maths.ucd.ie/~mst/MOSAIC/">MOSAIC Project Website</a> for source code, documentation, and the interactive browser.</strong></li>
+</ul>
+</section>
+<section id="key-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="key-takeaways">Key Takeaways</h2>
+<ul>
+<li>Modern genetic samples show that observed human populations reflect repeated mixtures of older populations across history.</li>
+<li><strong>MOSAIC</strong> infers the timing and proportions of multiway admixture without requiring pre-specified surrogate reference populations.</li>
+<li>Simulation and empirical benchmarks demonstrate substantially improved accuracy when direct ancestral surrogates are unavailable or themselves admixed.</li>
+<li>Highlights across 95 analysed populations include four-way admixture in Southern Africa, subtle East/Central Eurasian gene flow in Eastern Europe, and adaptive introgression at the HLA locus in North Africa.</li>
+<li>Interactive results for all 95 populations are available via the <a href="https://maths.ucd.ie/~mst/MOSAIC/HGDP_browser">HGDP Results Browser</a>.</li>
+</ul>
+</section>
+<section id="additional-detail" class="level2">
+<h2 class="anchored" data-anchor-id="additional-detail">Additional Detail</h2>
+<p>All populations are admixed when examined at sufficient time depth:</p>
+<blockquote class="blockquote">
+<p>“There’s no such thing as a ‘pure’ European—or anyone else” (<a href="https://www.science.org/content/article/theres-no-such-thing-pure-european-or-anyone-else">Gibbons, <em>Science</em>, 2017</a>).<sup>5</sup></p>
+</blockquote>
+<p>When populations are partially or fully isolated, random genetic drift causes allele frequencies to diverge over time, producing geographic population structure (<a href="https://doi.org/10.1038/nature07331">Novembre et al., 2008</a>). When previously separated groups later admix, chromosomal recombination breaks down inherited ancestral tracts into progressively shorter segments with each passing generation (<a href="https://doi.org/10.1126/science.1243518">Hellenthal et al., 2014</a>).</p>
+<p>If those ancestral segments were directly observable, their length distribution would reveal when mixing occurred and in what ratios. In practice, chromosome painting compares target haplotypes against modern reference panels—which have themselves drifted and often experienced independent admixture since the historical event. <strong>MOSAIC</strong> addresses this central challenge by estimating flexible copying probabilities and drift parameters jointly from the data, allowing admixed donor panels to increase statistical power rather than confound inference. The method applies to any sexually reproducing species.</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>e.g.&nbsp;cultural or linguistic barriers↩︎</p></li>
+<li id="fn2"><p>MOSAIC stands for <em>MOSAIC Organises Segments of Ancestry In Chromosomes</em>↩︎</p></li>
+<li id="fn3"><p>Built upon the Li and Stephens haplotype-copying framework (<a href="https://doi.org/10.1093/genetics/165.4.2213">Li and Stephens, 2003</a>), which forms the lower layer of our coupled Hidden Markov Model.↩︎</p></li>
+<li id="fn4"><p>The <strong>H</strong>uman <strong>L</strong>eukocyte <strong>A</strong>ntigen complex encodes key immune-system proteins and is a well-known target of natural selection.↩︎</p></li>
+<li id="fn5"><p>Ancient DNA studies confirm that deep prehistoric populations were similarly shaped by recurrent migration and mixture (<a href="https://www.nature.com/articles/s41559-019-0878-2">Jeong et al., 2019</a>).↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/MOSAIC.html</guid>
+  <pubDate>Sun, 30 Jun 2019 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Keynote on Social Network Analysis at Eurodeer XI</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/Eurodeer.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Eurodeer is an international scientific network for data and knowledge sharing on wild roe deer populations.</strong></p>
+<p>I was honoured to deliver a keynote lecture on Social Network Analysis to conservation biologists and movement ecologists from 33 research centres and environmental institutes at the Eurodeer XI meeting in Dublin. The network brings researchers together annually to harmonise telemetry datasets and collaborate on ecological studies.</p>
+<p>Following the workshop, our collaboration applies statistical network models—including stochastic blockmodels, role analysis, and latent space approaches—to multi-site GPS telemetry across diverse terrain, climate, and vegetation regimes, quantifying how supplemental feeding stations affect movement patterns and social interactions in wild deer populations.</p>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/Eurodeer.html</guid>
+  <pubDate>Fri, 14 Jun 2019 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Chance and Coincidences on Newstalk’s Futureproof</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/coincidences.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Coincidences do happen—but what do they mean to us, and just what are the chances?</strong></p>
+<p>This was great fun to take part in! <em>Futureproof</em> is Newstalk’s science programme hosted by Jonathan McCrea. A special feature episode on <strong>Chance and Coincidence</strong> (“Chances”) was recorded with Prof.&nbsp;Brian Hughes (Professor of Psychology at the University of Galway) and me.</p>
+<p>Brian explored why humans naturally seek patterns and assign meaning to random events, after which I worked through back-of-the-envelope probability calculations for coincidence stories sent in by listeners. Because the marginal probability of any hyper-specific sequence of events is tiny once exact times and incidental details are included, I stripped each story back to a baseline “non-coincidence” version and estimated the conditional odds of the surprising overlap that made the story worth telling. Hopefully the result was entertaining, illuminating, or perhaps both!</p>
+<ul>
+<li><strong>Listen to the episode: <a href="https://www.newstalk.com/podcasts/futureproof-with-jonathan-mccrea/chances">Futureproof — Chances</a></strong></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/coincidences.html</guid>
+  <pubDate>Fri, 17 May 2019 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>SFI Centres for Research Training</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/CRTs.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I am a named PhD supervisor in two <strong>Centres for Research Training (CRTs)</strong> funded by <strong>Science Foundation Ireland</strong>:</p>
+<ul>
+<li><a href="https://www.data-science.ie/">SFI CRT in Foundations of Data Science</a></li>
+<li><a href="https://genomicsdatascience.ie/">SFI CRT in Genomics Data Science</a></li>
+</ul>
+<p>Both programmes offer fully funded cohort-based PhD training across data science, statistical methodology, and genomics. Follow the links above for programme and application details.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/CRTs.html</guid>
+  <pubDate>Fri, 01 Mar 2019 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>BEEF-SIG Project on Irish Grass-Fed Beef</title>
+  <link>https://mststats.github.io/quarto-academic-website/posts/Beef-Sig.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Signatures of Irish Grass-Fed Beef (BEEF-SIG)</strong></p>
+<p>BEEF-SIG is a four-year collaborative research project between University College Dublin (UCD) and Teagasc (the Irish Agriculture and Food Development Authority), funded by the Department of Agriculture, Food and the Marine starting 1 January 2019.</p>
+<p>Irish beef is internationally recognised for its pasture-based production—for example, export markets such as the United States seek verification of animals raised on a predominantly grass diet under Bord Bia’s Sustainable Beef &amp; Lamb Assurance Scheme (SBLAS). BEEF-SIG combines stable isotope ratio analysis, trace elemental profiling, and multivariate statistical classification to objectively quantify farm feed inputs (grass, silage, concentrates) and verify grass-fed origin claims.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://mststats.github.io/quarto-academic-website/posts/Beef-Sig.html</guid>
+  <pubDate>Tue, 15 Jan 2019 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,62 @@
+---
+title: "Research Group"
+subtitle: "Current and former PhD and MSc researchers"
+description-meta: "PhD and MSc students supervised by Michael Salter-Townshend at UCD and Oxford"
+title-block-banner: false
+---
+
+## Current PhD Students
+
+- **[Alan Kamara](https://www.linkedin.com/in/lankam154/)** (2026–present; co-supervised with [Brendan Murphy](https://people.ucd.ie/brendan.murphy))
+  - *Thesis topic:* "Exploring the role of Mitonuclear Discordance in Parkinson's Disease"
+  - Funded by the [Rinn Centre for Artificial Intelligence](https://www.rinn-network.ie/rinn-ai/)
+
+- **[Joshua Musau](https://www.linkedin.com/in/joshua-musau-b01b14105/)** (2026–present; co-supervised with [Brendan Murphy](https://people.ucd.ie/brendan.murphy))
+  - *Thesis topic:* "Social media sentiment analysis for severe weather warnings verification"
+  - Funded by the [AIMSIR Centre](https://www.ucd.ie/aimsir/)
+
+- **[Kseniia Maksimova](https://www.linkedin.com/in/ksenia-maximova-089767205/)** (2022–2026; co-supervised with [Emmeline Hill](https://people.ucd.ie/emmeline.hill))
+  - *Thesis topic:* "Novel population genomics approaches for trait mapping using the Thoroughbred horse model"
+  - Funded by [Genomics Data Science, SFI Centre for Research Training](https://genomicsdatascience.ie/)
+
+## Former PhD Students
+
+- **[Dr. Prabhleen Kaur](https://www.linkedin.com/in/prabhleen-kaur-963b8a197/)** (2019–2024; co-supervised with [Simone Ciuti](https://people.ucd.ie/simone.ciuti))
+  - *Thesis:* "Social Network Analysis of Animal Social Networks: robustness and methods"
+  - Funded by [Foundations of Data Science, SFI Centre for Research Training](https://www.data-science.ie/)
+  - *Subsequent role:* Data Scientist at Microsoft
+
+- **[Dr. Kim Conteddu](https://www.linkedin.com/in/kimberly-conteddu-ph-d-4921b220b/)** (2021–2024; primary supervisor [Simone Ciuti](https://people.ucd.ie/simone.ciuti))
+  - *Thesis:* "Modelling the effect of human pressures on wildlife social-networks to improve our understanding of multispecies disease transmission"
+  - Funded by [Foundations of Data Science, SFI Centre for Research Training](https://www.data-science.ie/)
+  - *Subsequent role:* Manager Statistician at Bristol Myers Squibb
+
+- **[Dr. Jinbo Zhao](https://www.linkedin.com/in/jinbozhao/)** (2017–2023; co-supervised with [Adrian O'Hagan](https://people.ucd.ie/adrian.ohagan))
+  - *Thesis:* "Statistical Genetics Models with Actuarial Applications"
+  - Funded by [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org/)
+  - *Subsequent role:* Clinical Research Tutor in Biostatistics, UCD School of Medicine
+
+- **[Dr. Catherine Mahoney](https://ie.linkedin.com/in/catherine-mahoney-4789a767)** (2019–2023; primary supervisor [Denis Shields](https://people.ucd.ie/denis.shields))
+  - *Thesis:* "Discovering genomic regions enriched for de novo recombination events"
+  - Funded by IRC Enterprise Partnership, Bioinformatics and Systems Biology
+  - *Subsequent role:* Associate Director, Digital Diagnostics and AI at AstraZeneca
+
+- **[Dr. James Ward](https://www.linkedin.com/in/james-w-324890266/)** (2019–2023; primary supervisor [David MacHugh](https://people.ucd.ie/david.machugh))
+  - *Thesis:* "High resolution functional population genomics of modern, historical and ancient cattle (*Bos* spp.)"
+  - Funded by [Genomics Data Science, SFI Centre for Research Training](https://genomicsdatascience.ie/)
+  - *Subsequent role:* Postdoctoral Researcher, Population Genomics Group (Prof. Medugorac), LMU Munich, Germany
+
+- **[Dr. Chiara Cotroneo](https://www.linkedin.com/in/chiaraec/)** (2017–2020; primary supervisor [Denis Shields](https://people.ucd.ie/denis.shields))
+  - *Thesis:* "Identification of chromosomal clusters of protein domain coding regions in Bacteria and Archaea"
+  - Funded by the Wellcome Trust (Computational Infection Biology)
+  - *Subsequent role:* Senior Data Scientist | ML Engineer at Bolt
+
+## MSc Supervision
+
+I have supervised MSc dissertation projects across the following taught graduate programmes:
+
+- **MSc in Statistical Data Science**, University College Dublin
+- **MSc in Statistics**, University College Dublin (2017–present)
+- **MSc in Data and Computational Science**, University College Dublin (2017–present)
+- **MSc in Actuarial Science**, University College Dublin
+- **MSc in Applied Statistics**, University of Oxford (2014, 2016)
